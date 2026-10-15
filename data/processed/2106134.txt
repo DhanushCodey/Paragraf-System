@@ -1,0 +1,1088 @@
+=== PAGE : 1 ===
+Deutscher Bundestag 
+Drucksache 21/6134
+21. Wahlperiode
+26.05.2026 
+Gesetzentwurf 
+der Bundesregierung 
+Entwurf eines Gesetzes zur Durchführung der Verordnung (EU) 2024/2847 
+über horizontale Cybersicherheitsanforderungen für Produkte mit  
+digitalen Elementen  
+(Cyberresilienz-Verordnung) 
+A. Problem und Ziel
+Am 10. Dezember 2024 ist die Verordnung (EU) 2024/2847 des Europäischen 
+Parlaments und des Rates vom 23. Oktober 2024 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen und zur Änderung der 
+Verordnungen (EU) Nr. 168/2013 und (EU) 2019/1020 und der Richtlinie 
+(EU) 2020/1828 (Cyberresilienz-Verordnung) in Kraft getreten. 
+Die Verordnung (EU) 2024/2847 stellt erstmals horizontal verpflichtende Anforderungen an die Cybersicherheit von Produkten mit digitalen Elementen auf und 
+erweitert das bekannte CE-Kennzeichen um den Aspekt der Cybersicherheit. 
+Künftig müssen Produkte mit digitalen Elementen den in der Verordnung 
+(EU) 2024/2847 festgelegten Mindestanforderungen an die Cybersicherheit genügen, wenn sie auf dem europäischen Binnenmarkt in den Verkehr gebracht werden. Hersteller werden ferner verpflichtet, aktiv ausgenutzte Schwachstellen zu 
+melden. 
+Die Regelungen der Verordnung (EU) 2024/2847 gelten grundsätzlich unmittelbar und werden ab dem 11. Juni 2026 zeitlich gestaffelt wirksam, bis die Regelungen ab dem 11. Dezember 2027 vollends wirken. 
+Zur Durchführung der Verordnung (EU) 2024/2847 muss jeder Mitgliedstaat 
+mindestens eine Marktüberwachungsbehörde und eine notifizierende Behörde 
+einrichten. Im Übrigen sollen die Mitgliedstaaten Unterstützungsmaßnahmen für 
+die betroffenen Wirtschaftsakteure ergreifen, insbesondere für kleine und mittlere 
+Unternehmen. Zudem bedürfen die Vorschriften über Sanktionen, die bei Verstößen gegen die Verordnung (EU) 2024/2847 zu verhängen sind, ergänzende Verfahrensregelungen. 
+B. Lösung
+Der vorliegende Gesetzentwurf dient der Durchführung der Verordnung 
+(EU) 2024/2847. Artikel 1 schafft die Rechtsgrundlage, damit das Bundesamt für 
+Sicherheit in der Informationstechnik (BSI) als Marktüberwachungsbehörde und 
+als notifizierende Behörde unter der Verordnung (EU) 2024/2847 tätig werden 
+
+=== PAGE : 2 ===
+Drucksache 21/6134 
+– 2 – 
+Deutscher Bundestag – 21. Wahlperiode
+kann. Zusätzlich werden im Sinne des Koalitionsvertrages für die 21. Legislaturperiode, Zeile 285 f., Unterstützungsmaßnahmen für die von der Verordnung 
+(EU) 2024/2847 betroffenen Wirtschaftsakteure ergriffen und die erforderlichen 
+Vorschriften für das Bußgeldverfahren erlassen. 
+C. Alternativen 
+Keine.  
+D. Haushaltsausgaben ohne Erfüllungsaufwand 
+Durch das gestaffelte Wirksamwerden der Verpflichtungen aus der Verordnung 
+(EU) 2024/2847 kommen auf das BSI aufgrund dieses Gesetzes laufend neue 
+Fachaufgaben hinzu. Außerdem werden jedes Jahr neue Produkte mit digitalen 
+Elementen in den Verkehr gebracht, wodurch die Anzahl der Produkte, die das 
+BSI als Marktüberwachungsbehörde auf ihre Konformität hin überprüft, stetig anteigt. Aus diesem Grund werden die Haushaltsausgaben für das BSI bis 2029 
+sukzessive ansteigen. 
+Der Personalmehrbedarf beim BSI für die Wahrnehmung der nach diesem Gesetz 
+zugewiesenen Aufgaben beläuft sich bis zum Jahr 2029 dauerhaft auf insgesamt 
+141 Planstellen/Stellen. Davon entfallen 68 Stellen auf die Wertigkeit des höheren 
+Dienstes, 54 Stellen auf die Wertigkeit des gehobenen Dienstes und 19 Stellen auf 
+die Wertigkeit des mittleren Dienstes. 
+Zusätzlich entstehen einmalige Sachkosten in Höhe von 10 Millionen Euro. Diese 
+entstehen insbesondere für die Einrichtung eines Reallabors. Laufende jährliche 
+Sachkosten in Höhe von 8,1 Millionen Euro entstehen insbesondere für die Beauftragung externer Dienstleister, die im Rahmen der Marktüberwachung tätig 
+werden sollen. 
+Der Mehrbedarf an Sach- und Personalmitteln sowie an Planstellen und Stellen 
+für BSI soll im Einzelplan 06 ausgeglichen werden. 
+E. Erfüllungsaufwand 
+Die Verpflichtungen für die Wirtschaft und die Bürgerinnen und Bürger ergeben 
+sich aus der unmittelbar geltenden Verordnung (EU) 2024/2847. Mit diesem 
+Durchführungsgesetz werden keine neuen Verpflichtungen geschaffen, sondern 
+lediglich die zuständigen Behörden benannt und deren Zusammenarbeit geregelt. 
+Ein Erfüllungsaufwand für Bürgerinnen und Bürger und die Wirtschaft ergibt sich 
+daher aus diesem Gesetz nicht. 
+E.1 Erfüllungsaufwand für Bürgerinnen und Bürger 
+Siehe Ausführungen unter Abschnitt E.  
+E.2 Erfüllungsaufwand für die Wirtschaft 
+Siehe Ausführungen unter Abschnitt E.  
+
+=== PAGE : 3 ===
+Deutscher Bundestag – 21. Wahlperiode 
+– 3 –
+Drucksache 21/6134
+E.3 Erfüllungsaufwand der Verwaltung
+Für die Verwaltung entsteht durch die gesetzliche Änderung ein laufender Erfüllungsaufwand in Höhe von ca. 20,5 Millionen Euro und ein einmaliger Erfüllungsaufwand in Höhe von ca. 10 Millionen Euro auf Ebene der Bundesverwaltung. 
+F. Weitere Kosten
+Keine.
+
+=== PAGE : 4 ===
+
+=== PAGE : 5 ===
+Deutscher Bundestag – 21. Wahlperiode 
+– 5 –
+Drucksache 21/6134
+BUNDESREPUBLIK DEUTSCHLAND 
+DER BUNDESKANZLER 
+Berlin, 26.05.2026 
+An die 
+Präsidentin des  
+Deutschen Bundestages 
+Frau Julia Klöckner 
+Platz der Republik 1 
+11011 Berlin 
+Sehr geehrte Frau Bundestagspräsidentin, 
+hiermit übersende ich den von der Bundesregierung beschlossenen 
+Entwurf eines Gesetzes zur Durchführung der Verordnung (EU) 2024/2847 
+über horizontale Cybersicherheitsanforderungen für Produkte mit  
+digitalen Elementen  
+(Cyberresilienz-Verordnung)  
+mit Begründung und Vorblatt (Anlage 1). 
+Ich bitte, die Beschlussfassung des Deutschen Bundestages herbeizuführen. 
+Federführend ist das Bundesministerium des Innern.  
+Die Stellungnahme des Nationalen Normenkontrollrates gemäß § 6 Absatz 1 NKRG ist als 
+Anlage 2 beigefügt. 
+Der Gesetzentwurf ist dem Bundesrat am 1. Mai 2026 als besonders eilbedürftig zugeleitet 
+worden. 
+Die Stellungnahme des Bundesrates zu dem Gesetzentwurf sowie die Auffassung der Bundesregierung zu der Stellungnahme des Bundesrates werden unverzüglich nachgereicht. 
+Mit freundlichen Grüßen 
+Friedrich Merz  
+
+=== PAGE : 6 ===
+
+=== PAGE : 7 ===
+Deutscher Bundestag – 21. Wahlperiode 
+– 7 – 
+Drucksache 21/6134
+Entwurf eines Gesetzes zur Durchführung der Verordnung (EU) 2024/2847  
+über horizontale Cybersicherheitsanforderungen für Produkte mit  
+digitalen Elementen  
+(Cyberresilienz-Verordnung) 
+Vom ... 
+Der Bundestag hat das folgende Gesetz beschlossen: 
+Artikel 1 
+Änderung des BSI-Gesetzes 
+Das BSI-Gesetz vom 2. Dezember 2025 (BGBl. 2025 I Nr. 301, S. 2), das durch Artikel 4 des Gesetzes vom 
+11. März 2026 (BGBl. 2026 I Nr. 66) geändert worden ist, wird wie folgt geändert: 
+1. 
+Die Inhaltsübersicht wird wie folgt geändert: 
+a) 
+Die Angabe zu Teil 8 wird durch die folgende Angabe ersetzt: 
+„Teil 8 
+Cybersicherheit von Produkten mit digitalen Elementen“. 
+b) 
+Die Angabe zu § 65 wird durch die folgende Angabe ersetzt: 
+„§ 65 
+Marktüberwachung“. 
+c) 
+Nach der Angabe zu § 65 wird die folgende Angabe hinzugefügt: 
+„§ 66 
+Notifizierung und Akkreditierung 
+§ 67 
+Unterstützung der betroffenen Wirtschaftsakteure 
+Teil 9 
+Bußgeldvorschriften 
+§ 68 
+Bußgeldvorschriften 
+§ 69 
+Anwendung der Vorschriften über das Bußgeld- und Strafverfahren 
+§ 70 
+Behörden 
+Anlage 1 
+
+=== PAGE : 8 ===
+Drucksache 21/6134 
+– 8 – 
+Deutscher Bundestag – 21. Wahlperiode
+Teil 10  
+Anwendungsbestimmungen; Übergangsregelungen 
+§ 71 
+Anwendungsbestimmungen und Übergangsregelungen“. 
+2. 
+§ 3 Absatz 1 Satz 2 wird wie folgt geändert: 
+a) 
+In Nummer 29 wird die Angabe „Informationen.“ durch die Angabe „Informationen;“ ersetzt.  
+b) 
+Nach Nummer 29 werden die folgenden Nummern 30 und 31 eingefügt: 
+30. 
+„ 
+Aufgaben und Befugnisse als zuständige Marktüberwachungsbehörde gemäß der Verordnung 
+(EU) 2024/2847; 
+31. Aufgaben und Befugnisse als zuständige notifizierende Behörde gemäß der Verordnung 
+(EU) 2024/2847.“ 
+3. 
+§ 5 Absatz 3 Satz 2 wird wie folgt geändert: 
+a) 
+In Nummer 5 wird die Angabe „wahrzunehmen.“ durch die Angabe „wahrzunehmen;“ ersetzt.  
+b) 
+Nach Nummer 5 wird die folgende Nummer 6 eingefügt: 
+6. 
+„ 
+seine Aufgaben als CSIRT gemäß der Verordnung (EU) 2024/2847 wahrzunehmen.“ 
+4. 
+In § 41 Absatz 2 wird die Angabe „mit dem in Absatz 1 genannten Bundesministerium“ durch die Angabe 
+„mit dem in Absatz 1 für den jeweiligen Sektor genannten Bundesministerium sowie dem Auswärtigen Amt“ 
+ersetzt.  
+5. 
+Nach Teil 7 wird der folgende Teil 8 eingefügt: 
+„Teil 8 
+Cybersicherheit von Produkten mit digitalen Elementen 
+§ 65 
+Marktüberwachung 
+(1) Das Bundesamt ist die zuständige nationale Marktüberwachungsbehörde gemäß der Verordnung 
+(EU) 2024/2847. 
+(2) Das Bundesamt arbeitet im Rahmen seiner Zuständigkeit mit Behörden, die durch Bundes- oder 
+Landesrecht zu Marktüberwachungsbehörden zur Ausführung der in Anhang I der Verordnung 
+(EU) 2019/1020 genannten Harmonisierungsrechtsvorschriften bestimmt wurden, sowie mit anderen Aufichtsbehörden kooperativ und vertrauensvoll zusammen. Es teilt ihnen Beobachtungen und Feststellungen 
+mit, die für die Erfüllung ihrer Aufgaben von Bedeutung sein können. 
+(3) Das Bundesamt richtet eine Beschwerdestelle ein, bei der Verbraucher Beschwerden einreichen 
+können, die auf eine Nichteinhaltung der Verordnung (EU) 2024/2847 hindeuten. Betrifft die Beschwerde 
+die Zuständigkeit einer Behörde, die durch Bundes- oder Landesrecht zur Marktüberwachungsbehörde zur 
+Ausführung der in Anhang I der Verordnung (EU) 2019/1020 genannten Harmonisierungsrechtsvorschriften 
+bestimmt wurde, so leitet das Bundesamt die Beschwerde der betreffenden Behörde entsprechend Absatz 2 
+weiter. 
+
+=== PAGE : 9 ===
+Deutscher Bundestag – 21. Wahlperiode 
+– 9 – 
+Drucksache 21/6134
+§ 66 
+Notifizierung und Akkreditierung 
+(1) Das Bundesamt ist die notifizierende Behörde gemäß der Verordnung (EU) 2024/2847. 
+(2) Die Bewertung und Überwachung von Konformitätsbewertungsstellen gemäß der Verordnung 
+(EU) 2024/2847 obliegt der nationalen Akkreditierungsstelle im Sinne und im Einklang mit der Verordnung 
+(EG) Nr. 765/2008. Die Akkreditierung kann unter Bedingungen oder Auflagen erteilt werden. Sie kann befristet oder mit dem Vorbehalt des Widerrufs erteilt sowie auch nachträglich um Auflagen ergänzt werden. 
+(3) Das Bundesamt kann abweichend von Absatz 2 die Bewertung von Konformitätsbewertungsstellen selbst durchführen, sofern an der Notifizierung der Konformitätsbewertungsstellen ein öffentliches Interesse besteht. In diesen Fällen obliegt dem Bundesamt auch die Überwachung dieser Konformitätsbewertungsstellen. § 3 Absatz 1 des Akkreditierungsstellengesetzes gilt entsprechend. 
+(4) Hat das Bundesamt aufgrund der Bewertung nach Absatz 2, belegt durch die Vorlage einer Akkreditierungsurkunde, oder aufgrund eigener Bewertung nach Absatz 3 festgestellt, dass eine Konformitätsbewertungsstelle die Anforderungen nach Artikel 39 der Verordnung (EU) 2024/2847 erfüllt, so erteilt sie 
+dieser die Befugnis, Konformitätsbewertungen vorzunehmen und notifiziert diese nach Artikel 35 Absatz 1 
+der Verordnung (EU) 2024/2847 der Kommission und den anderen Mitgliedstaaten. 
+(5) Die Befugnis nach Absatz 4 kann unter Bedingungen oder Auflagen erteilt werden. Sie kann befristet oder mit dem Vorbehalt des Widerrufs erteilt werden sowie auch nachträglich um Auflagen ergänzt 
+werden. Die Befugnis ist unter der aufschiebenden Bedingung zu erteilen, dass weder die Europäische Kommission noch ein anderer Mitgliedstaat Einwände nach Artikel 43 Absatz 5 der Verordnung (EU) 2024/2847 
+gegen die Notifizierung erheben. 
+§ 67 
+Unterstützung der betroffenen Wirtschaftsakteure 
+Das Bundesamt unterstützt die betroffenen Wirtschaftsakteure, insbesondere kleine und mittlere Unternehmen, sowie Verwalter quelloffener Software bei der Erfüllung der Anforderungen der Verordnung 
+(EU) 2024/2847. Die Unterstützung erfolgt insbesondere durch die folgenden Maßnahmen:  
+1. 
+Durchführung spezifischer Sensibilisierungs- und Schulungsmaßnahmen für die Anwendung der Verordnung (EU) 2024/2847,  
+2. 
+Einrichtung und Betrieb eines Reallabors für Cyberresilienz nach Artikel 33 Absatz 2 der Verordnung 
+(EU) 2024/2847.“ 
+6. 
+Der bisherige Teil 8 wird zu Teil 9.  
+7. 
+Der bisherige § 65 wird zu § 68 und wird wie folgt geändert:  
+a) 
+Absatz 10 wird gestrichen. 
+b) 
+Absatz 11 wird zu Absatz 10. 
+8. 
+Nach § 68 werden die folgenden §§ 69 und 70 eingefügt: 
+§ 69
+„ 
+Anwendung der Vorschriften über das Bußgeld- und Strafverfahren 
+(1) Für Verstöße nach Artikel 64 Absatz 2 bis 4 der Verordnung (EU) 2024/2847 gelten, soweit dieses 
+Gesetz nichts anderes bestimmt, die Vorschriften des Gesetzes über Ordnungswidrigkeiten entsprechend. 
+§ 17 des Gesetzes über Ordnungswidrigkeiten, auch in Verbindung mit § 30 Absatz 3 des Gesetzes über 
+
+=== PAGE : 10 ===
+Drucksache 21/6134 
+– 10 – 
+Deutscher Bundestag – 21. Wahlperiode
+Ordnungswidrigkeiten, sowie § 30 Absatz 1 und 2 des Gesetzes über Ordnungswidrigkeiten sind nicht anzuwenden. 
+(2) Für Verfahren wegen eines Verstoßes nach Artikel 64 Absatz 2 bis 4 der Verordnung (EU) 
+2024/2847 gelten, soweit dieses Gesetz nichts anderes bestimmt, die Vorschriften des Gesetzes über Ordnungswidrigkeiten sowie der allgemeinen Gesetze über das Strafverfahren, namentlich der Strafprozessordnung und des Gerichtsverfassungsgesetzes, entsprechend. § 69 Absatz 4 Satz 2 des Gesetzes über Ordnungswidrigkeiten ist mit der Maßgabe anzuwenden, dass die Staatsanwaltschaft das Verfahren nur mit Zustimmung der Behörde, die den Bußgeldbescheid erlassen hat, einstellen kann. 
+§ 70 
+Behörden 
+(1) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist 
+1. 
+das Bundesministerium des Innern in den Fällen des § 68 Absatz 2 Nummer 11 sowie  
+2. 
+das Bundesamt 
+a) 
+in den Fällen des § 68 Absatz 1, 2 Nummer 1 bis 10 und 12 bis 17, Absatz 3 und 4 und 
+b) 
+in den Fällen des Artikels 64 Absatz 2 bis 4 der Verordnung (EU) 2024/2847. 
+(2) Gegen Behörden und sonstige öffentliche Stellen im Sinne des § 2 Absatz 1 oder 2 des Bundesdatenschutzgesetzes werden in den Fällen des Artikels 64 Absatz 2 bis 4 der Verordnung (EU) 2024/2847 keine 
+Geldbußen verhängt.“ 
+9. 
+Der bisherige Teil 9 wird zu Teil 10. 
+10. Der bisherige § 66 wird zu § 71.  
+Artikel 2 
+Änderung des Telekommunikationsgesetzes 
+Das Telekommunikationsgesetz vom 23. Juni 2021 (BGBl. I S. 1858), das zuletzt durch Artikel 6 des Gesetzes vom 11. März 2026 (BGBl. 2026 I Nr. 66) geändert worden ist, wird wie folgt geändert: 
+§ 167 Absatz 1 Satz 1 wird wie folgt geändert: 
+1. 
+In Nummer 1 wird die Angabe „Telekommunikationsdienste,“ durch die Angabe „Telekommunikationsdienste und“ ersetzt. 
+2. 
+In Nummer 2 wird die Angabe „im Sinne von § 2 Nummer 23 Buchstabe c Doppelbuchstabe bb des BSI-
+Gesetzes“ gestrichen und wird die Angabe „werden, und“ durch die Angabe „werden.“ ersetzt. 
+3. 
+Nummer 3 wird gestrichen.  
+
+=== PAGE : 11 ===
+Deutscher Bundestag – 21. Wahlperiode 
+– 11 – 
+Drucksache 21/6134
+Artikel 3 
+Änderung des Energiewirtschaftsgesetzes 
+Das Energiewirtschaftsgesetz vom 7. Juli 2005 (BGBl. I S. 1970, 3621), das zuletzt durch Artikel 5 des 
+Gesetzes vom 29. März 2026 (BGBl. 2026 I Nr. 84) geändert worden ist, wird wie folgt geändert: 
+§ 5c Absatz 6 wird wie folgt geändert: 
+1. 
+Satz 1 wird durch den folgenden Satz ersetzt: 
+„Die Bundesnetzagentur bestimmt im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik durch Festlegung nach § 29 Absatz 1 in einem Katalog für den Betrieb von Energieversorgungsnetzen und Energieanlagen, welche Komponenten kritische Komponenten oder welche Funktionen kritisch betimmte Funktionen sind.“ 
+2. 
+In den Sätzen 3 und 4 wird jeweils die Angabe „§ 56 Absatz 7 des BSI-Gesetzes“ durch die Angabe „§ 56 
+Absatz 6 des BSI-Gesetzes“ ersetzt. 
+Artikel 4 
+Inkrafttreten 
+(1) Die Artikel 2 und 3 treten am Tag nach der Verkündung in Kraft. 
+(2) In Artikel 1 treten § 3 Absatz 1 Satz 2 Nummer 30 und 31 und § 66 des BSI-Gesetzes am 11. Juni 2026 
+in Kraft. 
+(3) In Artikel 1 treten § 5 Absatz 3 Satz 2 Nummer 5 und 6 des BSI-Gesetzes am 11. September 2026 in 
+Kraft.  
+(4) Im Übrigen tritt dieses Gesetz am 11. Dezember 2027 in Kraft.  
+EU-Rechtsakte: 
+1. 
+Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen und zur Änderung der Verordnungen (EU) Nr. 168/2013 und 
+(EU) 2019/1020 und der Richtlinie (EU) 2020/1828 (Cyberresilienz-Verordnung) (ABl. L, 2024/2847, 20.11.2024; 
+2025/90555, 2.7.2025; 2025/90828, 17.10.2025), die zuletzt durch die Verordnung (EU) 2025/327 vom 11. Februar 2025 (ABl. 
+L, 2025/327, 5.3.2025) geändert worden ist 
+2. 
+Verordnung (EU) 2019/1020 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über Marktüberwachung und die 
+Konformität von Produkten sowie zur Änderung der Richtlinie 2004/42/EG und der Verordnungen (EG) Nr. 765/2008 und 
+(EU) Nr. 305/2011 (ABl. L 169 vom 25.6.2019, S. 1; L, 2024/90589, 1.10.2024), die zuletzt durch die Verordnung (EU) 
+2024/1252 vom 11. April 2024 (ABl. L, 2024/1252, 3.5.2024) geändert worden ist 
+
+=== PAGE : 12 ===
+Drucksache 21/6134 
+– 12 – 
+Deutscher Bundestag – 21. Wahlperiode
+Begründung 
+A. Allgemeiner Teil 
+I. 
+Zielsetzung und Notwendigkeit der Regelungen 
+Am 10. Dezember 2024 ist die Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 
+23. Oktober 2024 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen und zur 
+Änderung der Verordnungen (EU) Nr. 168/2013 und (EU) 2019/1020 und der Richtlinie (EU) 2020/1828 (Cyberresilienz-Verordnung) in Kraft getreten. 
+Die Verordnung (EU) 2024/2847 stellt erstmals horizontal verpflichtende Anforderungen an die Cybersicherheit 
+von Produkten mit digitalen Elementen auf und erweitert das bekannte CE-Kennzeichen um den Aspekt der Cybersicherheit. Künftig müssen Produkte mit digitalen Elementen den in der Verordnung (EU) 2024/2847 festgelegten Mindestanforderungen an die Cybersicherheit genügen, wenn sie auf dem europäischen Binnenmarkt in 
+den Verkehr gebracht werden. Hersteller werden ferner verpflichtet, aktiv ausgenutzte Schwachstellen zu melden. 
+Die Regelungen der Verordnung (EU) 2024/2847 gelten grundsätzlich unmittelbar und werden ab dem 
+11. Juni 2026 zeitlich gestaffelt wirksam, bis die Regelungen ab dem 11. Dezember 2027 vollends wirken. 
+Zur Durchführung der Verordnung (EU) 2024/2847 muss jeder Mitgliedstaat mindestens eine Marktüberwachungsbehörde und eine notifizierende Behörde einrichten. 
+Die Marktüberwachungsbehörde gemäß Artikel 52 Absatz 2 der Verordnung (EU) 2024/2847 überwacht die Einhaltung der in der Verordnung (EU) 2024/2847 niedergelegten Cybersicherheitsanforderungen. Dazu kann sie 
+Marktüberwachungsmaßnahmen ergreifen, die in der Verordnung (EU) 2024/2847 und in der Verordnung (EU) 
+2019/1020 vorgesehen sind.  
+Die notifizierende Behörde ist gemäß Artikel 36 der Verordnung (EU) 2024/2847 für die Einrichtung und Durchführung der erforderlichen Verfahren zur Bewertung, Benennung und Notifizierung von Konformitätsbewertungsstellen zuständig. Der notifizierenden Behörde obliegt zudem die Überwachung der notifizierten Konformitätsbewertungsstellen. Die Verordnung (EU) 2024/2847 räumt den Mitgliedstaaten die Möglichkeit ein, dass sie 
+die Bewertung und Benennung der Konformitätsbewertungsstellen von einer nationalen Akkreditierungsstelle im 
+Sinne der Verordnung (EG) Nr. 765/2008 durchführen lassen.  
+Zudem wird der Auftrag aus dem Koalitionsvertag für die 21. Legislaturperiode, Zeile 285 f., Unternehmen bei 
+der Umsetzung der Cyberresilienz-Verordnung zu unterstützen, aufgegriffen, indem der Gesetzentwurf konkrete 
+Unterstützungsmaßnahmen für die betroffenen Wirtschaftsakteure vorsieht. 
+Im Übrigen bedürfen die Vorschriften über Sanktionen, die bei Verstößen gegen die Verordnung (EU) 2024/2847 
+zu verhängen sind, ergänzende Verfahrensvorschriften. 
+II. 
+Wesentlicher Inhalt des Entwurfs 
+Der vorliegende Gesetzentwurf dient der Durchführung der Verordnung (EU) 2024/2847. Mit Artikel 1 wird die 
+notwendige nationale Rechtsgrundlage geschaffen, damit das BSI als Marktüberwachungsbehörde und als notifizierende Behörde unter der Verordnung (EU) 2024/2847 tätig werden kann. Es werden Unterstützungsmaßnahmen getroffen, welche das BSI den von der Verordnung (EU) 2024/2847 betroffenen Wirtschaftsakteure anbieten 
+wird. Ferner werden die erforderlichen Vorschriften für das Bußgeldverfahren erlassen. 
+III. 
+Exekutiver Fußabdruck 
+Es haben weder Interessenvertreter noch beauftragte Dritte wesentlich zum Inhalt des Entwurfs beigetragen. 
+
+=== PAGE : 13 ===
+Deutscher Bundestag – 21. Wahlperiode 
+– 13 – 
+Drucksache 21/6134
+IV. 
+Alternativen 
+Da die Mitgliedstaaten die Verordnung (EU) 2024/2847 durchführen müssen, besteht keine Alternative zum Erlass dieses Gesetzes. Lediglich hinsichtlich der konkreten Ausgestaltung bestehen Alternativen, die geprüft und 
+abgelehnt wurden. So könnte die Marktüberwachung unter der Verordnung (EU) 2024/2847 nicht zentral durch 
+das BSI, sondern durch die bereits bestehenden sektoralen Marktüberwachungsbehörden übernommen werden. 
+Allerdings verfügt das BSI als Cybersicherheitsbehörde des Bundes über die notwendige Fachkompetenz, um die 
+Cybersicherheitsanforderungen aus der Verordnung (EU) 2024/2847 effektiv zu überwachen. Die sektoralen 
+Marktüberwachungsbehörden, die bisher wenig bis keine Berührungspunkte mit der Überwachung von Cybersicherheitsanforderungen hatten, müssten diese Expertise erst jahrelang aufbauen, was insbesondere mit Blick auf 
+den Fachkräftemangel im IT-Bereich kaum möglich erscheint und nicht ressourcenschonend ist. 
+V. 
+Gesetzgebungskompetenz 
+Die Gesetzgebungskompetenz des Bundes für Artikel 1 (Änderung des BSI-Gesetzes) beruht auf Artikel 74 Abatz 1 Nummer 11 GG (Recht der Wirtschaft) in Verbindung mit Artikel 72 Absatz 2 GG sowie für die Bußgeldvorschriften auf Artikel 74 Absatz 1 Nummer 1 (Strafrecht) GG. Das vorliegende Gesetz dient der Durchführung 
+der Verordnung (EU) 2024/2847, die im Schwerpunkt als Produktregulierung wirtschaftsbezogene Anforderungen enthält. Eine bundesgesetzliche Regelung ist zur Wahrung der Rechts- und Wirtschaftseinheit im gesamttaatlichen Interesse erforderlich (Artikel 72 Absatz 2 GG). Eine Regelung durch die Landesgesetzgeber würde 
+zu erheblichen Nachteilen für die Gesamtwirtschaft führen, die sowohl im Interesse des Bundes als auch der 
+Länder nicht hingenommen werden können. Insbesondere wäre zu befürchten, dass unterschiedliche landesrechtliche Behandlungen von etwaigen Verstößen gegen die in der Verordnung (EU) 2024/2847 niedergelegten Cybersicherheitsanforderungen zu erheblichen Wettbewerbsverzerrungen und gleicher Lebenssachverhalte, z. B. unterschiedliche erhebliche Wettbewerbsverzerrungen und störende Schranken für die länderübergreifende Wirtchaftstätigkeit zur Folge hätten. 
+Die ausschließliche Gesetzgebungskompetenz des Bundes für Artikel 2 (Änderung des Telekommunikationsgeetzes) beruht auf Artikel 73 Absatz 1 Nummer 7 GG (Telekommunikation).  
+Die Gesetzgebungskompetenz des Bundes für Artikel 3 (Änderung des Energiewirtschaftsgesetzes), die den rein 
+technischen Schutz der Informationstechnik von und für kritische Komponenten betreffen, folgt der Gesetzgebungskompetenz des Bundes aus Artikel 74 Absatz 1 Nummer 11 GG (Recht der Wirtschaft einschließlich gefahrenabwehrrechtlicher Annexkompetenz) in Verbindung mit Artikel 72 Absatz 2 GG. Eine bundesgesetzliche 
+Regelung ist zur Wahrung der Rechts- und Wirtschaftseinheit im gesamtstaatlichen Interesse erforderlich. Die 
+Festlegung kritischer Komponenten muss bundeseinheitlich erfolgen, um regionale Unterscheide im Cybersicherheitsniveau bei dem Betrieb von Energieversorgungsnetzen und Energieanlagen zu verhindern. 
+VI. 
+Vereinbarkeit mit dem Recht der Europäischen Union und völkerrechtlichen Verträgen 
+Das vorliegende Gesetz ist mit dem Recht der Europäischen Union und mit völkerrechtlichen Verträgen, die die 
+Bundesrepublik Deutschland abgeschlossen hat, vereinbar. Es dient der Durchführung der Verordnung (EU) 
+2024/2847. 
+VII. 
+Gesetzesfolgen 
+Die wesentlichen Gesetzesfolgen ergeben sich aus der unmittelbar anwendbaren Verordnung (EU) 2024/2847. 
+Das vorliegende Gesetz regelt nur dessen Durchführung. 
+1. 
+Rechts- und Verwaltungsvereinfachung 
+Es werden keine bestehenden Regelungen vereinfacht oder aufgehoben. Allerdings verfolgt der Gesetzentwurf 
+das Ziel, den Verwaltungs- und Bürokratieaufwand für die nationale Durchführung der Verordnung (EU) 
+
+=== PAGE : 14 ===
+Drucksache 21/6134 
+– 14 – 
+Deutscher Bundestag – 21. Wahlperiode
+2024/2847 auf Seiten der Verwaltung und der Wirtschaft so gering wie möglich zu halten. Insbesondere mit Blick 
+auf eine schlanke Verwaltungsstruktur siedelt das Gesetz eine zentrale Marktüberwachungsbehörde beim BSI an, 
+anstelle die Marktüberwachung auf eine Vielzahl von sektoralen Marktüberwachungsbehörden zu übertragen.  
+2. 
+Nachhaltigkeitsaspekte 
+Der Gesetzentwurf steht im Einklang mit dem Leitgedanken der Bundesregierung zur nachhaltigen Entwicklung 
+im Sinne der Deutschen Nachhaltigkeitsstrategie, die der Umsetzung der UN-Agenda 2030 für nachhaltige Entwicklung der Vereinten Nationen dient.  
+Er leistet einen Beitrag zur Verwirklichung des Nachhaltigkeitsziels 12 „Nachhaltige/r Konsum und Produktion“. 
+Die Stärkung der Cybersicherheit von Produkten mit digitalen Elementen sieht u. a. vor, dass für die zu erwartenden Produktlebensdauer Sicherheitsaktualisierungen durch den Hersteller bereitgestellt werden müssen. Dies 
+kann dazu führen, dass Produkte mit digitalen Elementen insgesamt länger genutzt werden. 
+Im Sinne des systemischen Zusammendenkens der Nachhaltigkeitsziele leistet der Entwurf gleichzeitig einen 
+Beitrag für Ziel 16 „Frieden, Gerechtigkeit und starke Institutionen“. Der Entwurf fördert die Erreichung dieser 
+Zielvorgabe, indem die Cybersicherheit von Produkten mit digitalen Elementen gestärkt wird und dadurch jene 
+Produkte schwieriger für kriminelle Aktivitäten missbraucht werden können.  
+Damit berücksichtigt der Entwurf die Querverbindungen zwischen den Zielen für nachhaltige Entwicklung und 
+deren integrierenden Charakter, der für die Erfüllung von Ziel und Zweck der UN-Agenda 2030 von ausschlaggebender Bedeutung ist und folgt der Deutschen Nachhaltigkeitsstrategie 2021. 
+3. 
+Haushaltsausgaben ohne Erfüllungsaufwand 
+Durch das gestaffelte Wirksamwerden der Verpflichtungen aus der Verordnung (EU) 2024/2847 kommen auf das 
+BSI aufgrund dieses Gesetzes laufend neue Fachaufgaben hinzu. Außerdem werden jedes Jahr neue Produkte mit 
+digitalen Elementen in den Verkehr gebracht, wodurch die Anzahl der Produkte, die das BSI als Marktüberwachungsbehörde auf ihre Konformität hin überprüft, stetig ansteigt. Aus diesem Grund werden auch die Haushaltsausgaben für BSI bis 2029 sukzessive ansteigen. 
+Der Personalmehrbedarf beim BSI für die Wahrnehmung der nach diesem Gesetz zugewiesenen Aufgaben beläuft 
+sich bis zum Jahr 2029 dauerhaft auf insgesamt 141 Planstellen/Stellen. Davon entfallen 68 Stellen auf die Wertigkeit des höheren Dienstes, 54 Stellen auf die Wertigkeit des gehobenen Dienstes und 19 Stellen auf die Wertigkeit des mittleren Dienstes. 
+Der errechnete Stellenmehrbedarf wächst aufgrund zunehmender neuer Aufgaben aufgrund dieses Gesetzes bis 
+2029 wie folgt auf: 
+  
+2026 
+2027 
+2028 
+2029 
+hD 
+39 
+45 
+56 
+68 
+gD 
+40 
+40 
+45 
+54 
+mD 
+16 
+16 
+16 
+19 
+Gesamt: 
+95 
+101 
+117 
+141 
+Hieraus resultieren voraussichtlich folgende jährliche Personalkosten: 
+ In TEUR 
+2026 
+2027 
+2028 
+2029 
+hD 
+4 903 
+5 657 
+7 040 
+8 549 
+gD 
+3 509 
+3 509 
+3 948 
+4 737 
+mD 
+1 077 
+1 076 
+1 076 
+1 279 
+Gesamt: 
+9 489 
+10 243 
+12 064 
+14 565 
+
+=== PAGE : 15 ===
+Deutscher Bundestag – 21. Wahlperiode 
+– 15 – 
+Drucksache 21/6134
+Zudem entstehen voraussichtlich folgende Kosten jährlich:  
+In TEUR  
+2026 
+2027 
+2028 
+2029 
+Sacheinzelkosten 
+3 253 
+3 459 
+4 007 
+4 829 
+Gemeinkosten 
+3 746 
+4 029 
+4 725 
+5 702 
+Die Kosten wurden auf Grundlage des Rundschreibens für Wirtschaftlichkeitsuntersuchungen und Kostenberechnungen des Bundesministeriums der Finanzen vom 23. Juni 2025 (Gz.: II A 3 – H 1012/00236/007/015) ermittelt. 
+Zusätzlich fallen einmalige Sachkosten in Höhe von 10 000 000 Euro an. Diese entstehen insbesondere für die 
+Einrichtung des Reallabors. In dem Reallabor können Hersteller innovative Produkte vor Inverkehrbringen in 
+einer kontrollierten Prüfumgebung testen. Laufende jährliche Sachkosten in Höhe von 8 100 000 Euro entstehen 
+insbesondere für die Beauftragung externer Dienstleister, die im Rahmen der Marktüberwachung tätig werden 
+sollen. 
+Der Mehrbedarf an Sach- und Personalmitteln sowie an Planstellen und Stellen für BSI soll im Einzelplan 06 
+ausgeglichen werden. 
+ 
+4. 
+Erfüllungsaufwand 
+4.1. Erfüllungsaufwand für Bürgerinnen und Bürger 
+Für die Bürgerinnen und Bürger entsteht durch das geplante Regelungsvorhaben kein zusätzlicher Erfüllungsaufwand. 
+4.2. Erfüllungsaufwand für die Wirtschaft 
+Für die Wirtschaft entsteht durch das geplante Regelungsvorhaben kein zusätzlicher Erfüllungsaufwand. 
+4.3. Erfüllungsaufwand der Verwaltung 
+lfd. 
+Nr. 
+Norm; 
+Bezeich-
+nung 
+der 
+Vorgabe 
+Ebene 
+Fall-
+zahl 
+Jährlicher 
+Aufwand 
+pro Fall in 
+Euro 
+Jährlicher 
+Erfüllungsa
+ufwand in 
+Tsd. Euro  
+ Fallzahl  
+Einmaliger 
+Aufwand pro 
+Fall in Euro 
+Einmaliger 
+Erfüllungs-
+aufwand in 
+Tsd. Euro  
+4.3.1 
+§ 5 Absatz 3 
+Satz 2 
+Nummer 6 
+BSIG-E; 
+Meldestelle 
+für 
+Schwachstel
+len 
+Bund 
+1 
+4 078 240 
+4 078 
+ 
+ 
+ 
+4.3.2 
+§ 65 Absatz 
+1 BSIG-E; 
+Marktüber-
+wachung 
+durch BSI 
+Bund 
+1 
+7 273 280 
+7 273 
+ 
+ 
+ 
+4.3.3 
+§ 65 Absatz 
+3 BSIG-E; 
+Einrichtung 
+einer 
+Beschwerde
+stelle im 
+BSI 
+Bund 
+1 
+355 200 
+355 
+ 
+ 
+ 
+
+=== PAGE : 16 ===
+Drucksache 21/6134 
+– 16 – 
+Deutscher Bundestag – 21. Wahlperiode
+lfd. 
+Nr. 
+Norm; 
+Bezeich-
+nung 
+der 
+Vorgabe 
+Ebene 
+Fall-
+zahl 
+Jährlicher 
+Aufwand 
+pro Fall in 
+Euro 
+Jährlicher 
+Erfüllungsa
+ufwand in 
+Tsd. Euro  
+ Fallzahl  
+Einmaliger 
+Aufwand pro 
+Fall in Euro 
+Einmaliger 
+Erfüllungs-
+aufwand in 
+Tsd. Euro  
+4.3.4 
+§ 66 Absatz 
+1 uns 4 
+BSIG-E; 
+Notifi-
+zierung von 
+Stellen 
+durch das 
+BSI 
+Bund 
+1 
+4 852 480 
+4 852 
+1 
+2 500 000 
+2 500,00 
+4.3.5 
+§ 66 Absatz 
+3 BSIG-E; 
+Bewertung 
+und 
+Überprü-
+fung der 
+Konformität
+sbewertungs
+stelle durch 
+BSI 
+Bund 
+1 
+1 136 640 
+1 137 
+ 
+ 
+ 
+4.3.6 
+§ 67 
+Nummer 1 
+BSIG-E; 
+Unterstütz-
+ung der 
+betroffenen 
+Wirtschafts-
+akteure  
+Bund 
+1 
+1 281 440 
+1 281 
+ 
+ 
+ 
+4.3.7 
+§ 67 
+Nummer 2 
+BSIG-E; 
+Betrieb 
+eines 
+Reallabors 
+für Cyber-
+resilienz 
+Bund 
+1 
+1 355 200 
+1 355 
+1 
+7 500 000 
+7 500,00 
+4.3.8 
+§ 68 Absatz 
+5 BSIG-E; 
+Durch-
+führung von 
+Ordnungs-
+widrigkeits-
+verfahren  
+Bund 
+1 
+213 120 
+213 
+ 
+ 
+ 
+ 
+Summe (in 
+Tsd. Euro) 
+ 
+ 
+ 
+20 546 
+ 
+ 
+10 000,00 
+ 
+davon Bund 
+ 
+ 
+ 
+20 546 
+ 
+ 
+10 000,00 
+ 
+davon Land 
+(inklusive 
+Kommunen) 
+ 
+ 
+ 
+0,00 
+ 
+ 
+0,00 
+ 
+Vorgabe 4.3.1: Entgegennahme und Bearbeitung von Meldungen über aktiv ausgenutzte Schwachstellen 
+und schwerwiegenden Sicherheitsvorfällen; § 5 Absatz 3 Nummer 6 BSIG-E  
+Das BSI soll als CSIRT zukünftig gemäß § 5 Absatz 3 Satz 2 Nummer 6 BSIG-E die Meldungen von aktiv 
+ausgenutzten Schwachstellen und schwerwiegenden Sicherheitsvorfällen nach den Vorgaben der Verordnung 
+
+=== PAGE : 17 ===
+Deutscher Bundestag – 21. Wahlperiode 
+– 17 – 
+Drucksache 21/6134
+(EU) 2024/2847 entgegennehmen und bearbeiten. Es wird angenommen, dass das BSI im Durchschnitt 2 000 
+Meldungen entgegennehmen wird. Es wird angenommen, dass bei einem Bearbeitungsaufwand von ca. 45 Stunden je Meldung zur jährlichen Aufgabenerfüllung ca. 89 600 Stunden über die verschiedenen Laufbahngruppen 
+notwendig sind. Jährlich fallen Sachkosten in Höhe von 100 000 Euro für die Unterstützung zur Nutzung der 
+einheitlichen Meldeplattform an. Unter der Berücksichtigung des durchschnittlichen Lohnsatzes für die Bundesverwaltung in Höhe von 44,40 Euro pro Stunde ergibt sich ein laufender Erfüllungsaufwand in Höhe von 
+4 078 000 Euro auf Ebene des Bundes.  
+Vorgabe 4.3.2: Marktüberwachung durch das BSI; § 65 Absatz 1 BSIG-E  
+Das BSI soll zukünftig gemäß § 65 Absatz 1 BSIG-E die Aufgabe der Marktüberwachung nach den Vorgaben 
+der Verordnung (EU) 2024/2847 wahrnehmen. Es wird angenommen, dass zur jährlichen Aufgabenerfüllung ca. 
+51 200 Stunden über die verschiedenen Laufbahngruppen notwendig sind. Zusätzlich fallen jährlich Sachkosten 
+für externe Dienstleister in Höhe von ca. 5 000 000 Euro an. Unter der Berücksichtigung des durchschnittlichen 
+Lohnsatzes für die Bundesverwaltung in Höhe von 44,40 Euro pro Stunde ergibt sich in Summe ein laufender 
+Erfüllungsaufwand in Höhe von 7 273 000 Euro auf Ebene des Bundes.  
+Vorgabe 4.3.3: Einrichtung einer Beschwerdestelle im BSI; § 65 Absatz 3 BSIG-E 
+Das BSI soll zukünftig gemäß § 65 Absatz 3 BSIG-E eine Beschwerdestelle im Rahmen der Marktüberwachung 
+nach den Vorgaben der Verordnung (EU) 2024/2847 einrichten. Es wird angenommen, dass zur jährlichen Aufgabenerfüllung ca. 8 000 Stunden über die verschiedenen Laufbahngruppen notwendig sind. Unter der Berückichtigung des durchschnittlichen Lohnsatzes für die Bundesverwaltung in Höhe von 44,40 Euro pro Stunde ergibt 
+sich ein laufender Erfüllungsaufwand in Höhe von 355 000 Euro auf Ebene des Bundes.  
+Vorgabe 4.3.4: Notifizierung von Konformitätsbewertungsstellen durch BSI; § 66 Absatz 1 und 4 BSIG-E  
+Das BSI soll zukünftig gemäß § 66 Absatz 1 und 4 BSIG-E die Aufgabe der Notifizierung von 
+Konformitätsbewertungsstellen nach den Vorgaben der Verordnung (EU) 2024/2847 wahrnehmen. Es wird 
+angenommen, dass zur jährlichen Aufgabenerfüllung ca. 19 200 Stunden über die verschiedenen 
+Laufbahngruppen notwendig sind. Zusätzlich fallen Sachkosten in Höhe von ca. 4 000 000 Euro an. Unter der 
+Berücksichtigung des durchschnittlichen Lohnsatzes für die Bundesverwaltung in Höhe von 44,40 Euro pro 
+Stunde ergibt sich in Summe ein laufender Erfüllungsaufwand in Höhe von 4 852 000 Euro und ein einmaliger 
+Erfüllungsaufwand in Höhe von 2 500 000 Euro auf Ebene des Bundes.  
+Vorgabe 4.3.5: § 66 Absatz 3 BSIG-E; Bewertung und Überprüfung der Konformitätsbewertungsstelle 
+durch BSI 
+Das BSI soll zukünftig gemäß § 66 Abs. 3 BSIG-E auch Konformitätsbewertungsstellen in Ausnahmefällen ohne 
+Akkreditierung bewerten und überwachen. Es wird angenommen, dass zur jährlichen Aufgabenerfüllung ca. 
+25 600 Stunden über die verschiedenen Laufbahngruppen notwendig sind. Unter der Berücksichtigung des 
+durchschnittlichen Lohnsatzes für die Bundesverwaltung in Höhe von 44,40 Euro pro Stunde ergibt sich in 
+Summe ein laufender Erfüllungsaufwand in Höhe von 1 137 000 Euro auf Ebene des Bundes. 
+Vorgabe 4.3.6: Unterstützung der betroffenen Wirtschaftsakteure durch Durchführung spezifischer 
+Sensibilisierungs- und Schulungsmaßnahmen; § 67 Satz 2 Nummer 1 BSIG-E 
+Das BSI soll zukünftig gemäß § 67 Satz 2 Nummer 1 BSIG-E insbesondere kleine und mittlere Unternehmen der 
+betroffenen Wirtschaftsakteure bei der Erfüllung der Anforderungen der Verordnung (EU) 2024/2847 unterstützen. Es wird angenommen, dass zur jährlichen Aufgabenerfüllung ca. 17 600 Stunden über die verschiedenen 
+Laufbahngruppen notwendig sind. Weiter wird angenommen, dass zusätzlich jährliche Sachkosten von 500 000 
+Euro für externe Dienstleistungen anfallen. Unter der Berücksichtigung des durchschnittlichen Lohnsatzes für die 
+Bundesverwaltung in Höhe von 44,40 Euro pro Stunde ergibt sich ein laufender Erfüllungsaufwand in Höhe von 
+1 281 000 Euro auf Ebene des Bundes.  
+Vorgabe 4.3.7: Betrieb eines Reallabors für Cyberresilienz; § 67 Satz 2 Nummer 2 BSIG-E 
+Das BSI soll zukünftig gemäß § 67 Satz 2 Nummer 2 BSIG-E ein Reallabor für Cyberresilienz zur Unterstützung 
+betroffener Wirtschaftsakteure betreiben. Es wird angenommen, dass zur jährlichen Aufgabenerfüllung ca. 8 000 
+Stunden über die verschiedenen Laufbahngruppen notwendig sind. Zusätzlich fallen jährlich Sachkosten für 
+externe Dienstleister in Höhe von ca. 1 000 000 Euro an und einmalige Sachkosten in Höhe von 7 500 000 Euro. 
+
+=== PAGE : 18 ===
+Drucksache 21/6134 
+– 18 – 
+Deutscher Bundestag – 21. Wahlperiode
+Unter der Berücksichtigung des durchschnittlichen Lohnsatzes für die Bundesverwaltung in Höhe von 44,40 Euro 
+pro Stunde ergibt sich in Summe ein laufender Erfüllungsaufwand in Höhe von 1 355 200 Euro und ein einmaliger 
+Erfüllungsaufwand in Höhe von 7 500 000 Euro auf Ebene des Bundes.  
+Vorgabe 4.3.8: Durchführung von Ordnungswidrigkeitsverfahren; § 68 Absatz 5 BSIG-E 
+Das BSI soll zukünftig gemäß § 70 Absatz 1 Nummer 2 BSIG-E Ordnungswidrigkeitsverfahren nach den Vorgaben der Verordnung (EU) 2024/2847 durchführen. Es wird angenommen, dass zur jährlichen Aufgabenerfüllung 
+ca. 4 800 Stunden über die verschiedenen Laufbahngruppen notwendig sind. Unter der Berücksichtigung des 
+durchschnittlichen Lohnsatzes für die Bundesverwaltung in Höhe von 44,40 Euro pro Stunde ergibt sich ein laufender Erfüllungsaufwand in Höhe von 213 000 Euro auf Ebene des Bundes.  
+5. 
+Weitere Kosten 
+Dieses Gesetz dient der Durchführung der Verordnung (EU) 2024/2847. Durch das Durchführungsgesetz entstehen keine Kosten, die über die durch die Verordnung (EU) 2024/2847 entstehenden Kosten hinausgehen. 
+6. 
+Weitere Gesetzesfolgen 
+Aus dem Gesetzesvorhaben ergeben sich keine über die Verordnung (EU) 2024/2847 hinausgehenden Gesetzesfolgen.  
+VIII. 
+Befristung; Evaluierung 
+Eine Befristung ist nicht vorgesehen, da es sich um ein Gesetz zur Durchführung einer europäischen Verordnung 
+handelt, die unbefristet gilt. Eine Evaluierung ist in der zu Grunde liegenden Verordnung (EU) 2024/2847 in 
+Artikel 70 vorgesehen. Demnach legt die Kommission dem Europäischen Parlament und dem Rat bis zum 11. Dezember 2030 und danach alle vier Jahre einen Bericht über die Bewertung und Überprüfung der Verordnung (EU) 
+2024/2847 vor. Soweit sich daraus relevante Änderungen ergeben sollten, ist dieses Durchführungsgesetz entprechend anzupassen. 
+B. Besonderer Teil 
+Zu Artikel 1 (Änderung des BSI-Gesetzes) 
+Zu Nummer 1 
+Es handelt sich um Aktualisierungen des Inhaltsverzeichnisses, die aufgrund des Änderungsgesetzes notwendig 
+sind.  
+Zu Nummer 2 
+Zu Buchstabe a 
+Die Änderung ist erforderlich aufgrund der Einfügung der neuen Nummern 30 und 31 in § 3 Absatz 1 Satz 2. 
+Zu Buchstabe b 
+Mit Buchstabe b werden die Aufgaben des Bundesamtes um die Marktüberwachung und um die Notifizierung im 
+Rahmen der Verordnung (EU) 2024/2847 als neue Nummern 30 und 31 ergänzt.  
+Zu Nummer 3 
+Zu Buchstabe a 
+Die Änderung ist erforderlich aufgrund der Einfügung der neuen Nummer 6 in § 5 Absatz 3 Satz 2. 
+Zu Buchstabe b 
+Die Änderung dient der Klarstellung, dass das Bundesamt als CSIRT, das gemäß Artikel 12 Absatz 1 der Richtlinie (EU) 2022/2555 als Koordinator bestimmt wurde, entsprechend Artikel 3 Nummer 51 der Verordnung (EU) 
+
+=== PAGE : 19 ===
+Deutscher Bundestag – 21. Wahlperiode 
+– 19 – 
+Drucksache 21/6134
+2024/2847 künftig zusätzlich die Aufgaben des CSIRT unter der Verordnung (EU) 2024/2847 übernimmt. Dazu 
+zählt insbesondere die Entgegennahme und Bewertung von Meldungen aktiv ausgenutzter Schwachstellen und 
+schwerwiegenden Sicherheitsvorfällen, welche die Hersteller gemäß Artikel 14 Absatz 1 und 2 der Verordnung 
+(EU) 2024/2847 melden müssen. 
+Zu Nummer 4 
+Es handelt sich um eine redaktionelle Anpassung.  
+Zu Nummer 5 
+Mit der Nummer 4 wird der bisherige Teil 8 ersetzt. In Teil 8 werden die aus der Verordnung (EU) 2024/24 
+resultierenden Aufgaben der Marktüberwachung und Notifizierung dem Bundesamt zugewiesen und die Zusammenarbeit des Bundesamtes mit weiteren Behörden geregelt. Ferner werden konkrete Unterstützungsmaßnahmen 
+für die betroffenen Wirtschaftsakteure, die durch das Bundesamt zu leisten sind, festgelegt. 
+Zu § 65 (Marktüberwachung) 
+§ 65 dient der Festlegung der nationalen Marktüberwachungsbehörde unter der Verordnung (EU) 2024/2847. 
+Zu Absatz 1 
+Das Bundesamt übernimmt nach Artikel 52 Absatz 2 der Verordnung (EU) 2024/2847 die Marktüberwachung 
+unter der Verordnung (EU) 2024/2847. 
+Die Marktüberwachungsbehörde überwacht die Konformität der Produkte mit digitalen Elementen, die in den 
+Anwendungsbereich der Verordnung (EU) 2024/2847 fallen. Dazu zählt insbesondere die Einhaltung der in Anhang I der Verordnung (EU) 2024/2847 aufgeführten grundlegenden Cybersicherheitsanforderungen. 
+Die Rolle der Marktüberwachungsbehörde ist sinnvollerweise dem Bundesamt zuzuweisen, denn als Cybersicherheitsbehörde des Bundes verfügt es über die notwendige Fachkompetenz, um die Einhaltung der Cybersicherheitsanforderungen aus der Verordnung (EU) 2024/2847 effektiv zu überwachen. Ferner ist das Bundesamt seit 
+Jahren vertrauter Ansprechpartner für die Wirtschaft in Cybersicherheitsfragen, unter anderem auch wegen seiner 
+etablierten Funktion als Marktaufsicht im Rahmen des IT-Sicherheitskennzeichens und der Aufsicht über erteilte 
+Cybersicherheitszertifikate. 
+Bei Produkten mit digitalen Elementen, die in den Anwendungsbereich der Verordnung (EU) 2024/2847 fallen 
+und gemäß Artikel 6 der Verordnung (EU) 2024/1689 als Hochrisiko-KI-Systeme eingestuft sind, sind die für die 
+Zwecke der Verordnung (EU) 2024/1689 benannten Marktüberwachungsbehörden auch für die nach der Verordnung (EU) 2024/2847 erforderlichen Marktüberwachungstätigkeiten zuständig. Das ergibt sich aus Artikel 52 
+Absatz 14 der Verordnung (EU) 2024/2847. Fällt ein Produkt unter beide Verordnungen, ist daher die Bundesnetzagentur oder eine andere nach dem Gesetz zur Durchführung der Verordnung (EU) 2024/1689 benannte 
+Marktüberwachungsbehörde auch für die Marktüberwachung nach der Verordnung (EU) 2024/2847 zuständig. 
+Zur Durchführung der Marktüberwachung stehen dem Bundesamt die in den Artikeln 52 bis Artikel 60 der Verordnung (EU) 2024/2847 sowie die im Marktüberwachungsgesetz (vgl. § 1 Absatz 1 MüG i. V. m. Artikel 2 Abatz 1 der Verordnung (EU) 2019/2020 i. V. m. Anhang I Nummer 72 der Verordnung (EU) 2019/2020 und Artikel 52 Absatz 1 Verordnung (EU) 2024/2847) näher bestimmten Marktüberwachungsmaßnahmen zu. 
+Mit Blick auf das Verwaltungsverfahren und das -prozessrecht gelten die allgemeinen Regelungen des VwVfG 
+und der VwGO. Insbesondere kann das Bundesamt im Einzelfall bei Vorliegen eines öffentlichen Interesses gemäß § 80 Absatz 2 Satz 1 Nummer 4 VwGO die sofortige Vollziehung anordnen.  
+Zu Absatz 2 
+Absatz 2 regelt die Zusammenarbeit mit anderen Behörden, die in sektorspezifischen Bereichen die Marktüberwachung durchführen. Da ein Produkt sowohl in den Anwendungsbereich der Verordnung (EU) 2024/2847 als 
+auch in den Anwendungsbereich einer weiteren in Anhang I der Verordnung (EU) 2019/1020 genannten Harmonisierungsrechtsvorschriften fallen kann, ist es möglich, dass für ein Produkt mehrere Marktüberwachungsbehörden nebeneinander zuständig sind. Um die reibungslose und effektive Durchführung der jeweiligen Rechtsakte 
+zu gewährleisten, bedarf es einer Regelung zur kooperativen und vertrauensvollen Zusammenarbeit zwischen den 
+Behörden. Das Bundesamt arbeitet zudem kooperativ und vertrauensvoll mit weiteren relevanten Aufsichtsbehör
+=== PAGE : 20 ===
+Drucksache 21/6134 
+– 20 – 
+Deutscher Bundestag – 21. Wahlperiode
+den zusammen, u. a. solche, die für die Aufsicht nach sektorspezifischen Regelwerken zur Cybersicherheit in 
+anderen Wirtschaftssektoren zuständig sind, zum Beispiel mit den nach der Verordnung (EU) 2022/2554 zuständigen Behörden. 
+Für die Zusammenarbeit mit den nach § 2 KI-MIG zuständigen Marktüberwachungsbehörden gilt Absatz 2 hingegen nicht, denn die Verordnung (EU) 2024/1689* ist in Anhang I der Verordnung (EU) 2019/1020 nicht genannt. Die Zusammenarbeit mit den nach § 2 KI-MIG zuständigen Marktüberwachungsbehörden und dem Bundesamt wird daher in § 10 Absatz 1 KI-MIG explizit geregelt. 
+Zu Absatz 3 
+Absatz 3 dient der Konkretisierung von Artikel 52 Absatz 11 Verordnung (EU) 2024/2847, wonach Marktüberwachungsbehörden Verbraucher gemäß Artikel 11 der Verordnung (EU) 2019/1020 darüber informieren sollen, 
+wo Beschwerden einzureichen sind. 
+Zu § 66 (Notifizierung und Akkreditierung) 
+Zu Absatz 1 
+Absatz 1 weist die Rolle der notifizierenden Behörde gemäß Artikel 36 Absatz 1 der Verordnung (EU) 2024/2847 
+dem Bundesamt zu. Damit ist das Bundesamt dafür zuständig, Konformitätsbewertungsstellen gegenüber der 
+Kommission und den anderen Mitgliedstaaten nach erfolgreicher Bewertung zu notifizieren. 
+Zu Absatz 2 
+Mit Absatz 2 wird von der in Artikel 36 Absatz 2 der Verordnung (EU) 2024/2847 eröffneten Option Gebrauch 
+gemacht, die Bewertung und Überwachung der Konformitätsbewertungsstellen grundsätzlich der nationale Akkreditierungsstelle im Sinne der Verordnung (EG) Nr. 765/2008 zu übertragen. 
+Für die Akkreditierung gelten die Anforderungen der Verordnung (EG) Nr. 765/2008 und das Akkreditierungstellengesetz. 
+Zu Absatz 3 
+Absatz 3 ermöglicht es dem Bundesamt, in Ausnahmefällen eine Konformitätsbewertungsstelle abweichend von 
+Absatz 2 ohne Akkreditierungsurkunde notifizieren zu können. Dabei gelten für die Bewertung der Konformitätsbewertungsstelle die gleichen Anforderungen aus der Verordnung (EU) 2024/2847. 
+Voraussetzung ist, dass die Notifizierung im öffentlichen Interesse liegt. Die Notifizierung liegt insbesondere im 
+öffentlichen Interesse, wenn aufgrund des Akkreditierungsverfahrens entgegen Artikel 35 Absatz 2 der Verordnung (EU) 2024/2847 keine ausreichende Zahl an notifizierten Stellen vorhanden ist. Dies kann zu einem Engpass 
+bei dem Marktzugang von Produkten führen, die in den Anhängen 3 und 4 der Verordnung (EU) 2024/2847 als 
+wichtige oder kritische Produkte kategorisiert werden. Für diese Produkte kann ausnahmsweise eine Konformitätsprüfung durch eine Konformitätsbewertungsstelle verpflichtend vorgesehen sein. Die besonderen Anforderungen an das Konformitätsbewertungsverfahren sind dadurch begründet, dass die wichtigen oder kritischen Produkte ausweislich Artikel 7 Absatz 2 der Verordnung (EU) 2024/2847 für ihre vernetzte Umgebung eine Schlüselfunktion einnehmen. Sofern solche wichtigen oder kritischen Produkte nur begrenzt auf dem Markt verfügbar 
+sind, kann daraus ein erhebliches Cybersicherheitsrisiko resultieren. 
+Führt das Bundesamt die Bewertung und Überwachung der Konformitätsbewertungsstelle selbst durch, so stehen 
+ihm die hierfür notwendigen Befugnisse aus § 3 Absatz 1 des Akkreditierungsstellegesetzes zu. 
+Zu Absatz 4 
+Absatz 4 schafft die Rechtsgrundlage, damit das Bundesamt neben der Notifizierung als Realakt den Konformitätsbewertungsstellen eine entsprechende Befugnis unter Beachtung der Anforderungen aus Artikel 43 Absatz 5 
+der Verordnung (EU) 2024/2847 erteilen kann.  
+ 
+* 
+Das Gesetz zur Durchführung der KI-Verordnung befindet sich noch im Parlament. Die Begründung muss ggfs. im laufenden Gesetzgebungsprozess angepasst werden. 
+
+=== PAGE : 21 ===
+Deutscher Bundestag – 21. Wahlperiode 
+– 21 – 
+Drucksache 21/6134
+Zu Absatz 5 
+Absatz 5 ermöglicht es dem Bundesamt, den gebundenen Verwaltungsakt der Befugniserteilung mit Nebenbetimmungen zu erlassen. 
+Zu § 67 (Unterstützung der betroffenen Wirtschaftsakteure) 
+Die Verordnung (EU) 2024/2847 stellt als erster Rechtsakt flächendeckend Cybersicherheitsanforderungen an 
+Produkte mit digitalen Elementen und stellt damit die betroffenen Wirtschaftsakteure vor neuen Herausforderungen. Um die Herausforderungen abzumildern und zeitgleich die Einhaltung der in der Verordnung (EU) 
+2024/2847 niedergelegten Anforderungen zu fördern, sieht die Verordnung (EU) 2024/2847 verschiedene Untertützungsmaßnahmen für die betroffenen Wirtschaftsakteure, insbesondere kleine und mittlere Unternehmen, sowie für die Verwalter von quelloffener Software im Sinne des Artikels 3 Nummer 14 der Verordnung (EU) 
+2024/2847 vor. Die Durchführung der Unterstützungsmaßnahmen wird von dem Bundesamt übernommen. Dazu 
+wird das Bundesamt die nach Artikel 33 Absatz 1 der Verordnung (EU) 2024/2847 vorgesehenen Sensibilisierungs- und Schulungsmaßnahmen durchführen. Zusätzlich wird das Bundesamt ein Reallabor für Cyberresilienz 
+nach Artikel 33 Absatz 2 der Verordnung (EU) 2024/2847 einrichten und betreiben, in dem Hersteller in kontrollierter Prüfumgebung innovative Produkte vor Inverkehrbringen testen können, sofern dies im öffentlichen Interesse liegt. 
+Ein Anspruch auf eine Individualberatung besteht nicht.  
+Zu Nummer 6 
+Es handelt sich um eine Folgeänderung. 
+Zu Nummer 7 
+Es handelt sich um Folgeänderungen. Zudem wird der Absatz 10, der die für das Bußgeldverfahren zuständige 
+Verwaltungsbehörde bestimmt, inhaltlich mit dem neuen § 70 zusammengefasst. 
+Zu Nummer 8 
+Zu § 69 (Vorschriften über das Bußgeld- und Strafverfahren zur Verordnung (EU) 2024/2847) 
+Zu Absatz 1 
+Gemäß § 2 des Gesetzes über Ordnungswidrigkeiten (OWiG) gilt das OWiG für Ordnungswidrigkeiten nach 
+Bundes- und Landesrecht. § 69 Absatz 1 Satz 1 dieses Gesetzes erklärt, dass das OWiG grundsätzlich auch auf 
+Verstöße nach Artikel 64 Absatz 2 bis 4 der Verordnung (EU) 2024/2847, welcher unmittelbar anwendbares 
+innerstaatliches Recht ist, entsprechend anwendbar ist. Gemäß Satz 2 finden § 17 OWiG, auch in Verbindung mit 
+§ 30 Absatz 3 OWiG, sowie § 30 Absatz 1 und 2 OWiG keine Anwendung, weil das in der Verordnung (EU) 
+2024/2847 geregelte europäische Sanktionenrecht insoweit abschließende und vorrangige Regelungen enthält. 
+Zu Absatz 2 
+Da die Verordnung (EU) 2024/2847 selbst nicht das Verfahren für die Verhängung der Geldbuße regelt, bestimmt 
+§ 69 Absatz 2 Satz 1, dass die Vorschriften des OWiG grundsätzlich entsprechend gelten, und stellt dabei ausdrücklich klar, dass dies auch für die über § 46 Absatz 1 OWiG sinngemäß anwendbaren Vorschriften der allgemeinen Gesetze über das Strafverfahren gilt. Absatz 2 Satz 2 bestimmt, dass die Staatsanwaltschaft im Zwischenverfahren das Verfahren nur mit Zustimmung des Bundesamtes als Marktüberwachungsbehörde einstellen kann, 
+die den Bußgeldbescheid erlassen hat. Hierdurch wird der Bedeutung der Geldbußen in der Verordnung (EU) 
+2024/2847 Rechnung getragen. 
+Zu § 70 (Behörden) 
+Zu Absatz 1 
+§ 70 Absatz 1 führt den bisherigen § 65 Absatz 10 fort und ergänzt die Vorschrift um die zuständige Verwaltungsbehörde für Bußgeldverfahren unter der Verordnung (EU) 2024/2847. 
+
+=== PAGE : 22 ===
+Drucksache 21/6134 
+– 22 – 
+Deutscher Bundestag – 21. Wahlperiode
+Zu Absatz 2 
+Absatz 2 stellt mit Blick auf Artikel 64 Absatz 7 der Verordnung (EU) 2024/2847 klar, dass gegen öffentliche 
+Stellen im Sinne von § 2 Absatz 1 und 2 des Bundesdatenschutzgesetzes keine Geldbußen verhängt werden. 
+Zu Nummer 9 
+Es handelt sich um eine Folgeänderung.  
+Zu Nummer 10 
+Es handelt sich um eine Folgeänderung.  
+Zu Artikel 2 (Änderung des Telekommunikationsgesetzes) 
+Zu § 167 (Katalog von Sicherheitsanforderungen) 
+Es handelt sich um redaktionelle Korrekturen, die aufgrund des NIS2-Umsetzungsgesetzes notwendig sind. 
+Zu Artikel 3 (Änderung des Energiewirtschaftsgesetzes) 
+Zu § 5c (IT-Sicherheit im Anlagen- und im Netzbetrieb, Festlegungskompetenz) 
+Es handelt sich um redaktionelle Korrekturen, die aufgrund des NIS2-Umsetzungsgesetzes notwendig sind. 
+Zu Artikel 4 (Inkrafttreten) 
+Die Artikel 2 und 3 treten am Tag nach der Verkündung in Kraft. 
+Für Artikel 1 sind die Fristen aus der Verordnung (EU) 2024/2847 für das Inkrafttreten maßgeblich. Die Vorchriften über die Notifizierung gelten gemäß Artikel 71 Absatz 2 Satz 2 der Verordnung (EU) 2024/2847 bereits 
+ab dem 11. Juni 2026. Die Vorschriften über die Meldepflicht gemäß Artikel 14 gelten ab dem 11. September 
+2026. Im Übrigen gelten die Vorschriften aus der Verordnung (EU) 2024/2847 gemäß Artikel 71 Absatz 2 Satz 1 
+der Verordnung (EU) 2024/2847 ab dem 11. Dezember 2027. 
+
+=== PAGE : 23 ===
+Deutscher Bundestag – 21. Wahlperiode 
+– 23 – 
+Drucksache 21/6134
+Anlage 2 
+Stellungnahme des Nationalen Normenkontrollrates (NKR) gem. § 6 Abs. 1 NKRG 
+Entwurf eines Gesetzes zur Durchführung der Verordnung (EU) 2024/2847 über 
+horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen 
+(Cyberresilienz-Verordnung) – (NKR-Nr. 7952, BMI) 
+Der Nationale Normenkontrollrat hat den Regelungsentwurf vom 14. April 2026 mit folgendem 
+Ergebnis geprüft: 
+I 
+Zusammenfassung 
+Bürgerinnen und Bürger 
+keine Auswirkungen 
+Wirtschaft 
+keine Auswirkungen 
+Verwaltung 
+ 
+Bund 
+ 
+Jährlicher Erfüllungsaufwand  
+(durch EU-Vorgaben): 
+rund 20,5 Mio. Euro 
+Einmaliger Erfüllungsaufwand  
+(durch EU-Vorgaben): 
+rund 10 Mio. Euro 
+Länder 
+keine Auswirkungen 
+„One in, one out”-Regel 
+ 
+Im Sinne der erweiterten „One in, one out“-Regel der 
+Bundesregierung stellt der jährliche Erfüllungsaufwand in diesem Regelungsvorhaben ein „In“ von 20,5 
+Mio. Euro dar. 
+Der einmalige Erfüllungsaufwand stellt ein weiteres 
+„In“ von 1 Mio. Euro dar (Berücksichtigung von 10 % 
+des gesamten einmaligen Erfüllungsaufwands). 
+KMU-Betroffenheit 
+Insbesondere KMU sollen durch spezifische Sensibilisierungs- und Schulungsmaßnahmen unterstützt 
+werden. 
+Erwägungen zu anderen Löungsmöglichkeiten  
+Das Ressort hat u. a. geprüft, die bestehenden Marktüberwachungsbehörden mit der Durchführung der 
+Aufgaben aus der Cybersicherheits-Verordnung zu 
+betrauen, dies jedoch aus nachvollziehbaren Gründen verworfen. 
+Evaluierung 
+ 
+Die unmittelbar durch die EU-Verordnung geltenden 
+Vorschriften werden durch die Europäische Kommision evaluiert. Diese legt dem Europäischen Parlament und dem Rat bis zum 11. Dezember 2030 und 
+danach alle vier Jahre einen Bericht über die Bewertung 
+und 
+Überprüfung 
+der 
+Verordnung 
+(EU) 
+2024/2847 vor.  
+
+=== PAGE : 24 ===
+Drucksache 21/6134 
+– 24 – 
+Deutscher Bundestag – 21. Wahlperiode
+Umsetzung von EU-Recht  
+Dem NKR liegen keine Anhaltspunkte dafür vor, dass 
+mit dem Vorhaben über eine 1:1-Umsetzung von EU-
+Recht hinausgegangen wird.  
+Nutzen des Vorhabens 
+Das Ressort hat keinen Nutzen dargestellt. 
+Digitaltauglichkeit (Digitalcheck) 
+ 
+Das Ressort hat Möglichkeiten zum digitalen Vollzug 
+der Neuregelung (Digitaltauglichkeit) geprüft und 
+hierzu einen Digitalcheck mit nachvollziehbarem Ergebnis durchgeführt. 
+Regelungsfolgen 
+Die Darstellung der Regelungsfolgen ist nachvollziehbar und methodengerecht. Der Nationale Normenkontrollrat erhebt hiergegen im Rahmen seines gesetzlichen Auftrags keine 
+Einwände. Er begrüßt die Bündelung der Marktüberwachung beim BSI und weist darauf 
+hin, dass die Umsetzung von ausreichenden Personalkapazitäten für die Konformitätsbewertungsstellen abhängt. 
+Digitaltauglichkeit 
+Das Ressort hat Möglichkeiten zum digitalen Vollzug der Neuregelung (Digitaltauglichkeit) 
+geprüft und hierzu einen Digitalcheck mit nachvollziehbarem Ergebnis vorgelegt. 
+II 
+Regelungsvorhaben 
+Das Regelungsvorhaben dient der Durchführung der Europäischen Cyberresilienz-Verordnung (CRA*). Dazu wird insbesondere das Bundesamt für Sicherheit in der Informationstechnik (BSI) als zuständige Marktüberwachungsbehörde sowie notifizierende Stelle benannt.  
+Die CRA enthält Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Dazu 
+wird das sog. CE-Kennzeichen für das Inverkehrbringen von Produkten auf dem europäichen Binnenmarkt erweitert. Zudem werden Hersteller verpflichtet, aktiv ausgenutzte 
+Schwachstellen an das BSI zu melden.  
+III 
+Bewertung 
+III.1 
+Erfüllungsaufwand 
+Bürgerinnen und Bürger 
+Es entsteht kein Erfüllungsaufwand für Bürgerinnen und Bürger. 
+Wirtschaft 
+Der Wirtschaft entsteht durch das Regelungsvorhaben kein Erfüllungsaufwand. 
+Verwaltung 
+Der Bundesverwaltung entsteht jährlicher Erfüllungsaufwand von rund 20,5 Mio. Euro sowie 
+einmaliger Erfüllungsaufwand in Höhe von rund 10 Mio. Euro.  
+Der gesamte Erfüllungsaufwand resultiert aus der Umsetzung von EU-Vorgaben. 
+ 
+* 
+Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 über 
+horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen und zur Änderung der 
+Verordnungen (EU) Nr. 168/2013 und (EU) 2019/1020 und der Richtlinie (EU) 2020/1828 (Cyberresilienz-
+Verordnung). 
+
+=== PAGE : 25 ===
+Deutscher Bundestag – 21. Wahlperiode 
+– 25 – 
+Drucksache 21/6134
+• 
+BSI als zentraler Ansprechpartner 
+Das Regelungsvorhaben benennt das BSI als zentrale Anlaufstelle für alle Fragen im Zusammenhang mit der EU-Cyberresilienz-Verordnung. Darunter fallen u. a. die Aufgaben als Meldestelle für Schwachstellen, die Marktüberwachung und Notifizierung, Unterstützung betroffener Wirtschaftsakteure sowie der Betrieb eines Reallabors.  
+Das Ressort schätzt methodengerecht und nachvollziehbar, dass dem BSI durch die Wahrnehmung dieser Aufgaben zusätzliche jährliche Personalkosten in Höhe von bis zu 14,5 Mio. 
+Euro (ca. 141 Stellen) und jährliche Sachkosten in Höhe von bis zu rund 6 Mio. Euro insbeondere für externe Dienstleister im Rahmen der Marktüberwachung entstehen.  
+Des Weiteren veranschlagt das Ressort einmaligen Erfüllungsaufwand in Höhe von rund 10 
+Mio. Euro, insbesondere für die Einrichtung des Reallabors für Cyberresilienz und die Notifizierung von Konformitätsbewertungsstellen. 
+III.2 
+„One in, one out” 
+Im Sinne der erweiterten „One in, one out“-Regel der Bundesregierung stellt der Erfüllungsaufwand in diesem Regelungsvorhaben ein „In“ von insgesamt 21,5 Mio. Euro dar. 
+Das Ressort hat keine Angaben zur Kompensation gemacht. 
+Lutz Goebel 
+Prof. Dr. Sabine Kuhlmann 
+Vorsitzender 
+Berichterstatterin für das  
+Bundesministerium des Innern 
+ 
+
+=== PAGE : 26 ===
+
+=== PAGE : 27 ===
+
+=== PAGE : 28 ===
+Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+ISSN 0722-8333
+

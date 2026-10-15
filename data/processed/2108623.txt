@@ -1,0 +1,120 @@
+=== PAGE : 1 ===
+Deutscher Bundestag 
+Drucksache 21/8623
+21. Wahlperiode
+14.10.2026 
+Bericht 
+des Haushaltsausschusses (8. Ausschuss) 
+gemäß § 96 der Geschäftsordnung 
+zu dem Gesetzentwurf der Bundesregierung 
+– Drucksachen 21/6134, 21/6512, 21/8622 –
+Entwurf eines Gesetzes zur Durchführung der Verordnung (EU) 2024/2847 
+über horizontale Cybersicherheitsanforderungen für Produkte mit 
+digitalen Elementen  
+(Cyberresilienz-Verordnung) 
+Bericht der Abgeordneten Svenja Stadler, Klaus-Peter Willsch, Marcus 
+Bühl, Leon Eckert, Dr. Dietmar Bartsch und Stefan Seidler 
+Mit dem Gesetzentwurf ist die Durchführung der Verordnung (EU) 2024/2847 beab-
+sichtigt. Artikel 1 schafft die Rechtsgrundlage, damit das Bundesamt für Sicherheit in 
+der Informationstechnik (BSI) als Marktüberwachungsbehörde und als notifizierende 
+Behörde unter der Verordnung (EU) 2024/2847 tätig werden kann. Zusätzlich werden 
+im Sinne des Koalitionsvertrages für die 21. Legislaturperiode, Zeile 285 f., Unterstüt-
+zungsmaßnahmen für die von der Verordnung (EU) 2024/2847 betroffenen Wirt-
+schaftsakteure ergriffen und die erforderlichen Vorschriften für das Bußgeldverfahren 
+erlassen. 
+Darüber hinaus hat der Innenausschuss folgende Änderungen am Gesetzentwurf be-
+schlossen: 
+Mit Ausschussdrucksache 21(4)239 wird Artikel 4 wie folgt geändert: 
+1. Die Absätze 1 bis 3 werden durch den folgenden Absatz 1 ersetzt:
+„(1) In Artikel 1 treten § 3 Absatz 1 Satz 2 Nummer 30 und 31, § 5 Absatz 3
+Satz 2 Nummer 5 und 6 und § 66 des BSI-Gesetzes sowie die Artikel 2 und
+3 treten am Tag nach der Verkündung in Kraft.“
+2. Der bisherige Absatz 4 wird Absatz 2.
+Die Änderung ist aufgrund des zeitlichen Fortgangs des Gesetzgebungsverfahrens 
+erforderlich. Die bislang vorgesehene Anknüpfung an den 11. Juni bzw. 11. September 
+2026 ist durch Zeitablauf gegenstandlos geworden. Die Regelungen finden 
+damit ab ihrem Inkrafttreten Anwendung. Inhaltliche Änderungen mit Auswirkungen 
+auf den Erfüllungsaufwand sind damit nicht verbunden.  
+Die finanziellen Auswirkungen des Gesetzentwurfs unter Berücksichtigung der vom 
+Vorabfassung – wird durch die lektorierte Fassung ersetzt.
+
+=== PAGE : 2 ===
+Drucksache 21/8623 
+– 2 – 
+Deutscher Bundestag – 21. Wahlperiode 
+ 
+ 
+federführenden Innenausschuss beschlossenen Änderungen auf die öffentlichen Haus-
+halte stellen sich wie folgt dar: 
+Haushaltsausgaben ohne Erfüllungsaufwand 
+Durch das gestaffelte Wirksamwerden der Verpflichtungen aus der Verordnung (EU) 
+2024/2847 kommen auf das BSI aufgrund dieses Gesetzes laufend neue Fachaufgaben 
+hinzu. Außerdem werden jedes Jahr neue Produkte mit digitalen Elementen in den 
+Verkehr gebracht, wodurch die Anzahl der Produkte, die das BSI als Marktüberwa-
+chungsbehörde auf ihre Konformität hin überprüft, stetig ansteigt. Aus diesem Grund 
+werden die Haushaltsausgaben für das BSI bis 2029 sukzessive ansteigen. 
+Der Personalmehrbedarf beim BSI für die Wahrnehmung der nach diesem Gesetz zu-
+gewiesenen Aufgaben beläuft sich bis zum Jahr 2029 dauerhaft auf insgesamt 141 
+Planstellen/Stellen. Davon entfallen 68 Stellen auf die Wertigkeit des höheren Diens-
+tes, 54 Stellen auf die Wertigkeit des gehobenen Dienstes und 19 Stellen auf die Wer-
+tigkeit des mittleren Dienstes. 
+Zusätzlich entstehen einmalige Sachkosten in Höhe von 10 Mio. Euro. Diese entstehen 
+insbesondere für die Einrichtung eines Reallabors. Laufende jährliche Sachkosten in 
+Höhe von 8,1 Mio. Euro entstehen insbesondere für die Beauftragung externer Dienst-
+leister, die im Rahmen der Marktüberwachung tätig werden sollen. 
+Der Mehrbedarf an Sach- und Personalmitteln sowie an Planstellen und Stellen für BSI 
+soll im Einzelplan 06 ausgeglichen werden. 
+Erfüllungsaufwand 
+Erfüllungsaufwand für Bürgerinnen und Bürger 
+Die Verpflichtungen für die Bürgerinnen und Bürger ergeben sich aus der unmittelbar 
+geltenden Verordnung (EU) 2024/2847. Mit diesem Durchführungsgesetz werden 
+keine neuen Verpflichtungen geschaffen, sondern lediglich die zuständigen Behörden 
+benannt und deren Zusammenarbeit geregelt. Ein Erfüllungsaufwand für Bürgerinnen 
+und Bürger und die Wirtschaft ergibt sich daher aus diesem Gesetz nicht. 
+Erfüllungsaufwand für die Wirtschaft 
+Die Verpflichtungen für die Wirtschaft ergeben sich aus der unmittelbar geltenden 
+Verordnung (EU) 2024/2847. Mit diesem Durchführungsgesetz werden keine neuen 
+Verpflichtungen geschaffen, sondern lediglich die zuständigen Behörden benannt und 
+deren Zusammenarbeit geregelt. Ein Erfüllungsaufwand für Bürgerinnen und Bürger 
+und die Wirtschaft ergibt sich daher aus diesem Gesetz nicht. 
+Erfüllungsaufwand der Verwaltung 
+Für die Verwaltung entsteht durch die gesetzliche Änderung ein laufender Erfüllungs-
+aufwand in Höhe von ca. 20,5 Mio. Euro und ein einmaliger Erfüllungsaufwand in 
+Höhe von ca. 10 Mio. Euro auf Ebene der Bundesverwaltung. 
+Weitere Kosten 
+Keine.  
+Der Haushaltsausschuss hält den Gesetzentwurf mit den Stimmen der Fraktionen 
+CDU/CSU, SPD und BÜNDNIS 90/DIE GRÜNEN gegen die Stimmen der Frak-
+tion der AfD bei Stimmenthaltung der Fraktion Die Linke für mit der Haushalts-
+lage des Bundes vereinbar. 
+Vorabfassung – wird durch die lektorierte Fassung ersetzt.
+
+=== PAGE : 3 ===
+Deutscher Bundestag – 21. Wahlperiode 
+– 3 – 
+Drucksache 21/8623 
+ 
+ 
+Die Finanzplanung des Bundes für die Folgejahre ist entsprechend fortzuschreiben. 
+Dieser Bericht beruht auf der vom federführenden Innenausschuss vorgelegten Be-
+schlussempfehlung.  
+ 
+Berlin, den 14. Oktober 2026 
+Der Haushaltsausschuss 
+Lisa Paus 
+Amtierende Vorsitzende 
+Svenja Stadler 
+Berichterstatterin 
+Klaus-Peter Willsch 
+Berichterstatter 
+Marcus Bühl 
+Berichterstatter 
+Leon Eckert 
+Berichterstatter 
+Dr. Dietmar Bartsch 
+Berichterstatter 
+Stefan Seidler 
+Berichterstatter 
+ 
+Vorabfassung – wird durch die lektorierte Fassung ersetzt.
+
