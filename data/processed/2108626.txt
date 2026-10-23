@@ -1,9 +1,6 @@
 === PAGE : 1 ===
  
  
-Deutscher Bundestag 
-Drucksache 21/8626 
-21. Wahlperiode 
 14.10.2026 
 Beschlussempfehlung und Bericht 
 des Ausschusses für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit 
@@ -24,7 +21,7 @@ Rohstoffmärkte mehr Planungssicherheit zu bieten. Anlass der Reform ist die
 Verschiebung des neuen europäischen Emissionshandels für Gebäude und Verkehr (EU-ETS 2) auf das Jahr 2028. Ohne die nun vorgesehene Änderung hätte 
 der CO2-Preis im Übergangsjahr 2027 gemäß BEHG aus dem schwankenden 
 Durchschnittspreis der Versteigerungen aus dem EU-ETS 1 errechnet werden 
-müssen. Außerdem sieht der Entwurf nach Angaben der Bundesregierung Anpasungen der ebenfalls auf dem BEHG beruhenden Doppelbilanzierungsverordnung 
+müssen. Außerdem sieht der Entwurf nach Angaben der Bundesregierung Anpassungen der ebenfalls auf dem BEHG beruhenden Doppelbilanzierungsverordnung 
 (BEDV) vor, um eingelagerte Brennstoffmengen sachgerecht zu behandeln. 
 B. Lösung 
  
@@ -35,27 +32,17 @@ Linke.
 Annahme einer Entschließung mit den Stimmen der Fraktionen der 
 CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD und BÜNDNIS 
 90/DIE GRÜNEN bei Stimmenthaltung der Fraktion Die Linke. 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 2 ===
-Drucksache 21/8626
-– 2 –
-Deutscher Bundestag – 21. Wahlperiode
 C. Alternatven
 Ablehnung des Gesetzentwurfs.
 D. Haushaltsausgaben ohne Erfüllungsaufwand
 Wurden im Ausschuss nicht erörtert.
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 3 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 3 – 
-Drucksache 21/8626
 Beschlussempfehlung 
 Der Bundestag wolle beschließen, 
 a) 
-den Gesetzentwurf auf Drucksachen 21/7869, 21/8252 in der aus der nachtehenden Zusammenstellung ersichtlichen Fassung anzunehmen; 
+den Gesetzentwurf auf Drucksachen 21/7869, 21/8252 in der aus der nachstehenden Zusammenstellung ersichtlichen Fassung anzunehmen; 
 b) 
 folgende Entschließung anzunehmen: 
 „I. Der Deutsche Bundestag stellt fest: 
@@ -84,12 +71,8 @@ Vollzugspraxis gezeigt, dass der bislang in Anlage 2 Teil 5 Nummer 4 zu der
 Emissionsberichterstattungsverordnung 2030 (EBeV 2030) festgelegte Standardwert für den Biomasseanteil im Restabfall auch bei Berücksichtigung 
 einer konservativen Abschätzung dieses Standardwertes angepasst werden 
 kann. Eine Erhöhung des Standardwertes für den Biomasseanteil im RestabVorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 4 ===
  
-Drucksache 21/8626 
-– 4 – 
-Deutscher Bundestag – 21. Wahlperiode
 fall würde die durchschnittliche Restabfallzusammensetzung in Deutschland 
 realitätsnäher abbilden. 
  
@@ -116,13 +99,8 @@ Sonderabfallverbrennungsanlagen und Siedlungsabfallverbrennungslangen, die nicht
 nationalen Brennstoffemissionshandel befreit werden können.“ 
  
  
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 5 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 5 – 
-Drucksache 21/8626
 Berlin, den 14. Oktober 2026 
 Der Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit 
 Lorenz Gösta Beutin 
@@ -137,13 +115,8 @@ Lisa Badum
 Berichterstatterin 
 Dr. Fabian Fahl 
 Berichterstatter 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 6 ===
  
-Drucksache 21/8626 
-– 6 – 
-Deutscher Bundestag – 21. Wahlperiode
 Zusammenstellung 
 Entwurf eines Dritten Gesetzes zur Änderung des Brennstoffemissionshandelsgesetzes 
 – Drucksache 21/7869 – 
@@ -159,8 +132,8 @@ Entwurf eines Dritten Gesetzes zur
 Brennstoffemissionshandelsgesetzes 
 Vom ... 
 Vom ... 
-Der Bundestag hat das folgende Gesetz beschlosen: 
-Der Bundestag hat das folgende Gesetz beschlosen: 
+Der Bundestag hat das folgende Gesetz beschlossen: 
+Der Bundestag hat das folgende Gesetz beschlossen: 
 Artikel 1 
 Artikel 1 
 Änderung des Brennstoffemissionshandelsgesetzes 
@@ -200,13 +173,8 @@ ist“ eingefügt.
 3. 
 § 3 Nummer 11 wird gestrichen. 
  
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 7 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 7 – 
-Drucksache 21/8626
 Entwurf 
 Beschlüsse des 16. Ausschusses 
 4. 
@@ -228,11 +196,11 @@ Nummer 4 ersetzt:
  
 „4. 
 für den Fall, dass gemäß einer 
-Rechtsverordnung nach § 24 Abatz 2 für die Jahre ab 2028 eine 
+Rechtsverordnung nach § 24 Absatz 2 für die Jahre ab 2028 eine 
 jährliche Emissionsmenge nach 
 § 4 Absatz 1 Satz 1 verbleibt, abweichend von Absatz 1 Satz 1 
 und 2 die Fortführung des Verkaufs zu einem marktbasierten 
-Preis, der dem mengengewichteten Durchschnittspreis der Verteigerungen von Emissionszertifikaten nach § 10 Absatz 1 des 
+Preis, der dem mengengewichteten Durchschnittspreis der Versteigerungen von Emissionszertifikaten nach § 10 Absatz 1 des 
 Treibhausgas-Emissionshandelsgesetzes in dem jeweils vorletzten vorangegangenen Quartal 
 entspricht.“ 
  
@@ -255,18 +223,13 @@ nach § 10 Absatz 2 Satz 4 dem
 Höchstpreis von 65 Euro,“. 
  
 b) 
-Nach Absatz 1 werden die folgenden Abätze 1a und 1b eingefügt: 
+Nach Absatz 1 werden die folgenden Absätze 1a und 1b eingefügt: 
  
 „(1a) Abweichend von Absatz 1 kann 
 die zuständige Behörde gegenüber einem 
-Verantwortlichen für die jeweils ersten beiden Kalenderjahre, in denen der Verantwort 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
+Verantwortlichen für die jeweils ersten beiden Kalenderjahre, in denen der VerantwortVorabfassung – wird durch die lektorierte Fassung ersetzt.
 === PAGE : 8 ===
  
-Drucksache 21/8626 
-– 8 – 
-Deutscher Bundestag – 21. Wahlperiode
 Entwurf 
 Beschlüsse des 16. Ausschusses 
 liche der Abgabepflicht nach § 8 unterliegt, 
@@ -295,7 +258,7 @@ Abgabeverpflichtung nach § 7 des Treibhausgas-
 Emissionshandelsgesetzes unterliegen. 
  
 (2) Die Bundesregierung wird ermächtigt, 
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die jährliche Emisionsmenge nach § 4 Absatz 1 Satz 1 für die Jahre 
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die jährliche Emissionsmenge nach § 4 Absatz 1 Satz 1 für die Jahre 
 ab 2028 anteilig um die Menge der Brennstoffemissionen zu verringern, für die nach Maßgabe 
 von Absatz 1 die Abgabepflicht nach § 8 entfällt.“ 
  
@@ -313,13 +276,8 @@ Die Brennstoffemissionshandelsverordnung vom
 durch Artikel 1 der Verordnung vom 11. September 
 2025 (BGBl. 2025 I Nr. 209) geändert worden ist, wird 
 wie folgt geändert: 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 9 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 9 – 
-Drucksache 21/8626
 Entwurf 
 Beschlüsse des 16. Ausschusses 
 1. 
@@ -372,7 +330,7 @@ Angabe „2028“ ersetzt.
 3. 
 u n v e r ä n d e r t 
 4. 
-In der Überschrift des Unterabschnitts 3 des Abchnitts 2 wird die Angabe „das Jahr 2026“ durch 
+In der Überschrift des Unterabschnitts 3 des Abschnitts 2 wird die Angabe „das Jahr 2026“ durch 
 die Angabe „die Jahre 2026 und 2027“ ersetzt. 
 4. 
 u n v e r ä n d e r t 
@@ -391,7 +349,7 @@ für das Jahr 2027 ergibt sich aus der in § 44
 Absatz 2 für das Jahr 2027 vorgesehenen 
 jährlichen Emissionsmenge zuzüglich der 
 gemäß § 45 für das Jahr 2027 veröffentlichten jährlichen Erhöhungsmenge und abzüglich eines für das Jahr 2026 anzusetzenden 
-Zusatzbedarfs nach § 5 Absatz 1 des Brenntoffemissionshandelsgesetzes im Umfang 
+Zusatzbedarfs nach § 5 Absatz 1 des Brennstoffemissionshandelsgesetzes im Umfang 
 von 40 Millionen Emissionszertifikaten. Die 
 zuständige Stelle veröffentlicht die Gesamtversteigerungsmenge nach Satz 1 bis zum 
 31. Dezember 2026 auf ihrer Internetseite.“ 
@@ -400,13 +358,8 @@ für das Jahr 2027 ergibt sich aus der in § 44
 Absatz 2 für das Jahr 2027 vorgesehenen 
 jährlichen Emissionsmenge zuzüglich der 
 gemäß § 45 für das Jahr 2027 veröffentlichten jährlichen Erhöhungsmenge. Die zuständige Stelle veröffentlicht die Gesamtversteigerungsmenge nach Satz 1 bis zum 31. Dezember 2026 auf ihrer Internetseite.“ 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 10 ===
  
-Drucksache 21/8626 
-– 10 – 
-Deutscher Bundestag – 21. Wahlperiode
 Entwurf 
 Beschlüsse des 16. Ausschusses 
 b) 
@@ -418,10 +371,10 @@ u n v e r ä n d e r t
 2026 oder 2027 die nach einem Versteigerungstermin verbleibende Gesamtversteigerungsmenge für das jeweilige Kalenderjahr 
 unter das Dreifache der pro Versteigerungstermin vorgesehenen Menge, finden nach 
 diesem Versteigerungstermin nur noch zwei 
-weitere Versteigerungstermine in dem jeweiligen Kalenderjahr statt. In dem letzten Verteigerungstermin des jeweiligen Kalenderjahres wird die gesamte noch verbleibende 
+weitere Versteigerungstermine in dem jeweiligen Kalenderjahr statt. In dem letzten Versteigerungstermin des jeweiligen Kalenderjahres wird die gesamte noch verbleibende 
 Versteigerungsmenge angeboten. Für die in 
 Satz 1 genannten zwei weiteren Versteigerungstermine findet § 12 Absatz 4 Satz 1 bis 
-3 keine Anwendung. Sofern etwaig wegfallende Versteigerungstermine bereits im Verteigerungskalender angekündigt worden 
+3 keine Anwendung. Sofern etwaig wegfallende Versteigerungstermine bereits im Versteigerungskalender angekündigt worden 
 sind, gilt für die Information über die Aufhebung dieser Termine eine verkürzte Ankündigungsfrist von einer Woche.“ 
  
 c) 
@@ -437,7 +390,7 @@ a)
 Nach Absatz 1 wird der folgende Absatz 1a 
 eingefügt: 
  
-„(1a) Für die Versteigerungen im Kalenderjahr 2027 gelten abweichend von Abatz 1 Satz 2 die folgenden Vorgaben für die 
+„(1a) Für die Versteigerungen im Kalenderjahr 2027 gelten abweichend von Absatz 1 Satz 2 die folgenden Vorgaben für die 
 Gebotsabgabe: 
  
 1. 
@@ -453,13 +406,8 @@ b)
 In Absatz 4 Satz 3 wird die Angabe „Jahr 
 2026“ durch die Angabe „jeweilige Kalenderjahr“ ersetzt. 
  
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 11 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 11 – 
-Drucksache 21/8626
 Entwurf 
 Beschlüsse des 16. Ausschusses 
 7. 
@@ -515,25 +463,20 @@ genannten Zeitraum zur Erfüllung der Abgabepflicht nach § 8 des Brennstoffemis
 Verantwortliche können bis zu 10 Prozent der in 
 dem jeweils vorangegangenen Kalenderjahr erworbenen Emissionszertifikate in dem in Satz 1 
 genannten Zeitraum zur Erfüllung der Abgabepflicht nach § 8 des Brennstoffemissionshandelsgesetzes für das jeweils vorangegangene Kalenderjahr erwerben.“ 
-10. In der Überschrift des Unterabschnitts 4 des Abchnitts 2 wird die Angabe „2027“ durch die Angabe „2028“ ersetzt. 
+10. In der Überschrift des Unterabschnitts 4 des Abschnitts 2 wird die Angabe „2027“ durch die Angabe „2028“ ersetzt. 
 10. u n v e r ä n d e r t 
 11. § 16 wird wie folgt geändert: 
 11. u n v e r ä n d e r t 
 a) 
 In der Überschrift, in Absatz 1 Satz 1 sowie 
-Absatz 2 Satz 1 und 2 wird jeweils die Angabe „2027“ durch die Angabe „2028“ eretzt. 
+Absatz 2 Satz 1 und 2 wird jeweils die Angabe „2027“ durch die Angabe „2028“ ersetzt. 
  
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 12 ===
  
-Drucksache 21/8626 
-– 12 – 
-Deutscher Bundestag – 21. Wahlperiode
 Entwurf 
 Beschlüsse des 16. Ausschusses 
 b) 
-In Absatz 1 Satz 1 wird die Angabe „Abatz 2a“ durch die Angabe „Absatz 2“ eretzt. 
+In Absatz 1 Satz 1 wird die Angabe „Absatz 2a“ durch die Angabe „Absatz 2“ ersetzt. 
  
 c) 
 Absatz 2 Satz 3 wird gestrichen. 
@@ -542,7 +485,7 @@ d)
 Absatz 3 wird durch den folgenden Absatz 3 
 ersetzt: 
  
-„(3) Der marktbasierte Preis nach Abatz 2 Satz 2 entspricht dem mengengewichteten Durchschnittspreis der Versteigerungen von Emissionszertifikaten nach § 10 Abatz 1 des Treibhausgas-Emissionshandelsgesetzes in dem jeweils vorletzten vorangegangenen Quartal. Im Jahr 2028 beginnt der 
+„(3) Der marktbasierte Preis nach Absatz 2 Satz 2 entspricht dem mengengewichteten Durchschnittspreis der Versteigerungen von Emissionszertifikaten nach § 10 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes in dem jeweils vorletzten vorangegangenen Quartal. Im Jahr 2028 beginnt der 
 Verkauf von Emissionszertifikaten ab dem 
 dritten Quartal. Die zuständige Stelle veröffentlicht auf ihrer Internetseite die Höhe des 
 marktbasierten Preises für jedes Quartal mit 
@@ -559,7 +502,7 @@ Absatz 4 wird gestrichen.
  
 Einschränkung der Gültigkeit von den Kalenderjahren 2026 und 2027 zugeordneten Emissionszertifikaten 
  
-Emissionszertifikate, die gemäß § 9 Abatz 1 Satz 1 des Brennstoffemissionshandelsgeetzes dem Kalenderjahr 2026 zugeordnet sind, 
+Emissionszertifikate, die gemäß § 9 Absatz 1 Satz 1 des Brennstoffemissionshandelsgesetzes dem Kalenderjahr 2026 zugeordnet sind, 
 sind abweichend von § 9 Absatz 1 Satz 1 und 2 
 des Brennstoffemissionshandelsgesetzes nur für 
 das Kalenderjahr 2026 für die Abdeckung der 
@@ -570,13 +513,8 @@ nur für das Kalenderjahr 2027 für die Abdeckung
 der Brennstoffemissionen dieses Kalenderjahres 
 oder der Vorjahre gültig.“ 
  
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 13 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 13 – 
-Drucksache 21/8626
 Entwurf 
 Beschlüsse des 16. Ausschusses 
 14. § 44 wird wie folgt geändert: 
@@ -629,13 +567,8 @@ aa) Die Sätze 1 und 2 werden durch die folgenden Sätze ersetzt:
 anteilig reduziert um die ab dem Jahr 
 2028 nicht mehr vom Anwendungsbereich des Brennstoffemissionshandelsgesetzes erfassten Emissionsmengen. 
  
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 14 ===
  
-Drucksache 21/8626 
-– 14 – 
-Deutscher Bundestag – 21. Wahlperiode
 Entwurf 
 Beschlüsse des 16. Ausschusses 
 Die zuständige Behörde gibt die nach 
@@ -661,7 +594,7 @@ folgt geändert:
 § 1 wird wie folgt geändert: 
  
 a) 
-In Satz 1 wird die Angabe „Artikel 2 des Geetzes vom 9. November 2022 (BGBl. I 
+In Satz 1 wird die Angabe „Artikel 2 des Gesetzes vom 9. November 2022 (BGBl. I 
 S. 2006)“ durch die Angabe „Artikel 1 des 
 Gesetzes vom … [einsetzen: Datum und 
 Fundstelle dieses Gesetzes]“ ersetzt. 
@@ -689,14 +622,9 @@ nicht zulässig, wenn
  
 1. 
 der antragstellende Anlagenbetreiber 
-einer Rückforderungsanordnung aufgrund einer früheren Kommissionsent 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
+einer Rückforderungsanordnung aufgrund einer früheren KommissionsentVorabfassung – wird durch die lektorierte Fassung ersetzt.
 === PAGE : 15 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 15 – 
-Drucksache 21/8626
 Entwurf 
 Beschlüsse des 16. Ausschusses 
 scheidung zur Feststellung der Rechtswidrigkeit oder Unvereinbarkeit einer 
@@ -716,7 +644,7 @@ b)
 Nach Absatz 2 wird der folgende Absatz 3 
 eingefügt: 
  
-„(3) Die Gewährung einer Kompensation für ein Abrechnungsjahr ist ausgeschlosen, wenn der Erfüllungsstatuswert nach Artikel 33 der Delegierten Verordnung (EU) 
+„(3) Die Gewährung einer Kompensation für ein Abrechnungsjahr ist ausgeschlossen, wenn der Erfüllungsstatuswert nach Artikel 33 der Delegierten Verordnung (EU) 
 2019/1122 des betreffenden Anlagenkontos 
 im Unionsregister unter Berücksichtigung 
 des Abrechnungsjahres negativ ist.“ 
@@ -725,25 +653,20 @@ des Abrechnungsjahres negativ ist.“
 § 6 Absatz 2 wird durch den folgenden Absatz 2 
 ersetzt: 
  
-„(2) Bei der Ermittlung der kompensationsfähigen Brennstoffmenge sind sämtliche Brenntoffmengen zu berücksichtigen, die nach § 2 Abatz 2 des Brennstoffemissionshandelsgesetzes in 
+„(2) Bei der Ermittlung der kompensationsfähigen Brennstoffmenge sind sämtliche Brennstoffmengen zu berücksichtigen, die nach § 2 Absatz 2 des Brennstoffemissionshandelsgesetzes in 
 Verkehr gebracht und von dem Anlagenbetreiber 
 in dem jeweiligen Abrechnungsjahr zum Einsatz 
 in der emissionshandelspflichtigen Anlage bezogen wurden. Für Brennstoffmengen der Abrechnungsjahre 2021 bis 2026, die in dem jeweiligen 
 Abrechnungsjahr nicht eingesetzt, sondern zu einem späteren Einsatz in der emissionshandelspflichtigen Anlage eingelagert wurden, muss der 
 Einsatznachweis mit den Emissionsberichten 
-nach § 5 des Treibhausgas-Emissionshandelsgeetzes für die Kalenderjahre 2022 bis 2027 erbracht werden. Bei der Ermittlung der kompensationsfähigen Brennstoffmenge für das Abrechnungsjahr 2027 sind abweichend von Satz 1 lediglich diejenigen in Verkehr gebrachten Brennstoffmengen zu berücksichtigen, die im Abrechnungsjahr 2027 von der emissionshandelspflichtigen 
+nach § 5 des Treibhausgas-Emissionshandelsgesetzes für die Kalenderjahre 2022 bis 2027 erbracht werden. Bei der Ermittlung der kompensationsfähigen Brennstoffmenge für das Abrechnungsjahr 2027 sind abweichend von Satz 1 lediglich diejenigen in Verkehr gebrachten Brennstoffmengen zu berücksichtigen, die im Abrechnungsjahr 2027 von der emissionshandelspflichtigen 
 Anlage bezogen und eingesetzt worden sind.“ 
  
 5. 
 § 7 Satz 2 wird durch den folgenden Satz ersetzt:  
-„Für die Abrechnungsjahre 2026 und 2027 entpricht der maßgebliche Preis der Emissionszerti 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
+„Für die Abrechnungsjahre 2026 und 2027 entspricht der maßgebliche Preis der EmissionszertiVorabfassung – wird durch die lektorierte Fassung ersetzt.
 === PAGE : 16 ===
  
-Drucksache 21/8626 
-– 16 – 
-Deutscher Bundestag – 21. Wahlperiode
 Entwurf 
 Beschlüsse des 16. Ausschusses 
 fikate dem volumengewichteten Durchschnitt der 
@@ -767,7 +690,7 @@ Angabe „§ 14 Absatz 1 Nummer 1“ ersetzt.
  
 „§ 9 
  
-Kompensationsvorbehalt für eingelagerte Brenntoffmengen 
+Kompensationsvorbehalt für eingelagerte Brennstoffmengen 
  
 (1) Die Gewährung der Kompensation für 
 Brennstoffmengen nach § 6 Absatz 2 Satz 2 steht 
@@ -779,14 +702,14 @@ zurückgefordert werden, wenn der Einsatznachweis nach § 6 Absatz 2 Satz 2 durc
  
 (2) Für Anlagenbetreiber, denen für einzelne oder alle der Abrechnungsjahre 2021 bis 
 2026 eine Kompensation unter dem Vorbehalt der 
-Erbringung des Einsatznachweises nach § 6 Abatz 2 Satz 2 gewährt wurde, gilt dieser Einsatznachweis auch als erbracht, wenn 
+Erbringung des Einsatznachweises nach § 6 Absatz 2 Satz 2 gewährt wurde, gilt dieser Einsatznachweis auch als erbracht, wenn 
  
 1. 
 die jeweilige Anlage zum 1. Januar 2029 
 weiterhin emissionshandelspflichtig ist, 
  
 2. 
-die von dem Anlagenbetreiber nach § 5 Abatz 1 Nummer 1 in Verbindung mit § 21 
+die von dem Anlagenbetreiber nach § 5 Absatz 1 Nummer 1 in Verbindung mit § 21 
 Absatz 1 Satz 1 des Treibhausgas-Emissionshandelsgesetzes für das Abrechnungsjahr 
 2028 berichteten Emissionen einen Wert 
 größer als Null betragen und 
@@ -795,13 +718,8 @@ größer als Null betragen und
 die betreffenden Brennstoffmengen bis zum 
 1. Januar 2029 nicht die emissionshandelspflichtige Anlage verlassen haben.“ 
  
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 17 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 17 – 
-Drucksache 21/8626
 Entwurf 
 Beschlüsse des 16. Ausschusses 
 8. 
@@ -822,7 +740,7 @@ EU-Rechtsakte:
 u n v e r ä n d e r t 
 1. 
 Verordnung (EU) 2015/1589 des Rates vom 13. Juli 2015 
-über besondere Vorschriften für die Anwendung von Artikel 108 des Vertrags über die Arbeitsweise der Europäichen Union (ABl. L 248 vom 24.9.2015, S. 9) 
+über besondere Vorschriften für die Anwendung von Artikel 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 248 vom 24.9.2015, S. 9) 
 1. 
 u n v e r ä n d e r t 
 2. 
@@ -835,13 +753,8 @@ Kommission vom 25. Oktober 2023 (ABl. L 2904 vom
 29.12.2023, S. 1) geändert worden ist 
 2. 
 u n v e r ä n d e r t 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 18 ===
  
-Drucksache 21/8626 
-– 18 – 
-Deutscher Bundestag – 21. Wahlperiode
 Bericht der Abgeordneten Dr. Thomas Gebhart, Manuel Krauthausen, Daniel 
 Rinkert, Lisa Badum und Dr. Fabian Fahl 
 A. Allgemeiner Teil 
@@ -849,7 +762,7 @@ I.
 Überweisung 
 Der Gesetzentwurf auf Drucksachen 21/7869, 21/8252 wurde in der 96. Sitzung des Deutschen Bundestages am 
 24. September 2026 zur federführenden Beratung an den Ausschuss für Umwelt, Klimaschutz, Naturschutz und 
-nukleare Sicherheit und zur Mitberatung an den Ausschuss für Wirtschaft und Energie sowie den Verkehrsauschuss überwiesen. 
+nukleare Sicherheit und zur Mitberatung an den Ausschuss für Wirtschaft und Energie sowie den Verkehrsausschuss überwiesen. 
 Der Parlamentarische Beirat für nachhaltige Entwicklung und Zukunftsfragen hat sich zudem gutachtlich beteiligt. 
 II. 
 Wesentlicher Inhalt der Vorlage 
@@ -865,7 +778,7 @@ jeweils vorletzten vorangegangenen Quartal errechnet. Im Koalitionsausschuss von
 Mai 2026 wurde jedoch vereinbart, die CO2-Bepreisung im nationalen Brennstoffemissionshandel im Jahr 2027 
 stabil auf dem Niveau des Vorjahres zu halten. Hierdurch soll in der auch im Jahr 2026 durch die verschiedenen 
 globalen Krisenherde weiterhin angespannten Lage auf den Energie- und Rohstoffmärkten Planungssicherheit für 
-Unternehmen geschaffen werden. Der CO2-Preis pro ausgestoßener Tonne Kohlendioxid im nationalen Brenntoffemissionshandel soll sich danach auch im Jahr 2027 – wie bereits in 2026 – in einem Korridor von 55 bis 65 
+Unternehmen geschaffen werden. Der CO2-Preis pro ausgestoßener Tonne Kohlendioxid im nationalen Brennstoffemissionshandel soll sich danach auch im Jahr 2027 – wie bereits in 2026 – in einem Korridor von 55 bis 65 
 Euro bilden. 
 Mit der Änderung des BEHG durch Artikel 1 dieses Gesetzes wird der Beschluss des Koalitionsausschusses zur 
 Stabilisierung des nationalen CO2-Preises für das Jahr 2027 umgesetzt. Neben den zentralen Änderungen im 
@@ -877,13 +790,8 @@ Preiskorridor im nationalen Brennstoffemissionshandel von 55 bis 65 EUR auch fü
 wird ein Beitrag zur Entbürokratisierung des Kompensationsverfahrens für Doppelerfassungen geleistet. 
 III. Öffentliche Anhörung 
 Der Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit hat in seiner 43. Sitzung am 7. Oktober 2026 eine öffentliche Anhörung zu dem Gesetzentwurf auf Drucksache 21/7869 durchgeführt.  
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 19 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 19 – 
-Drucksache 21/8626
 Hierzu hat der Ausschuss folgende Sachverständige eingeladen: 
 Dr. Maximilian Rinck 
 BDEW Bundesverband der Energie- und Wasserwirtschaft e.V. 
@@ -922,13 +830,8 @@ Reduzierung von Emissionen von Treibhausgasen und dient damit unmittelbar der Ei
 erhalten). 
 Zugleich wird das SDG 7 (Bezahlbare und saubere Energie), insbesondere Indikator 7.2.a (Anteil erneuerbarer 
 Energien am Brutto-Endenergieverbrauch) auch durch die vorliegende Änderung des BEHG und der die Versteigerung von Emissionszertifikaten im Preiskorridor ausgestaltende BEHV gefördert. Durch eine marktorientierte 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 20 ===
  
-Drucksache 21/8626 
-– 20 – 
-Deutscher Bundestag – 21. Wahlperiode
 Bepreisung fossiler Energieträger, die zu einem großen Teil der Erzeugung von Energie dienen, werden Anreize 
 für die Umstellung auf erneuerbare und saubere, d.h. CO2-emissions-freie Energie gesetzt. Hierdurch wird zugleich das Prinzip 4 einer nachhaltigen Entwicklung (Nachhaltiges Wirtschaften stärken) verfolgt. 
 Der Brennstoffemissionshandel ermöglicht zudem, die Klimaziele kosteneffizient zu erreichen, und trägt dadurch 
@@ -961,19 +864,15 @@ Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD und BÜNDNIS
 bei Stimmenthaltung der Fraktion Die Linke empfohlen, den Gesetzentwurf auf Drucksachen 21/7869, 21/8252 
 in geänderter Fassung anzunehmen. 
 Der Verkehrsausschuss hat in seiner 40. Sitzung am 14. Oktober 2026 mit den Stimmen der Fraktionen der 
-CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD und BÜNDNIS 90/DIE GRÜNEN bei Stimmenthaltung der Fraktion Die Linke empfohlen, den Gesetzentwurf auf Drucksachen 21/7869, 21/8252 in geänderter Fasung anzunehmen. 
+CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD und BÜNDNIS 90/DIE GRÜNEN bei Stimmenthaltung der Fraktion Die Linke empfohlen, den Gesetzentwurf auf Drucksachen 21/7869, 21/8252 in geänderter Fassung anzunehmen. 
 VI. Beratungsverlauf und Beratungsergebnisse im federführenden Ausschuss 
-Der Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit hat den Gesetzentwurf auf Druckache 21/7869 in seiner 45. Sitzung am 14. Oktober 2026 abschließend behandelt. 
+Der Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit hat den Gesetzentwurf auf Drucksache 21/7869 in seiner 45. Sitzung am 14. Oktober 2026 abschließend behandelt. 
 Die Fraktion der CDU/CSU erklärte, mit der Gesetzesänderung die Zusage einzuhalten, den nationalen CO₂-
 Preis im kommenden Jahr einzufrieren. Der hierzu erarbeitete Änderungsantrag sehe eine Erhöhung der Gesamtversteigerungsmenge für 2027 sowie eine Absenkung des Überschussmengen- und Nachkaufpreises vor. Hierdurch sollten die CO₂-Einnahmen auf dem Niveau des laufenden Jahres bleiben. Dies sei insbesondere mit Blick 
 auf das Übergangsjahr vor dem geplanten Start des europäischen Emissionshandelssystems ETS2 im Jahr 2028 
 sinnvoll. Ein einheitlicher europäischer CO₂-Preis stärke den Klimaschutz und schaffe faire WettbewerbsbedinVorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 21 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 21 – 
-Drucksache 21/8626
 gungen. Ergänzend habe die Koalition einen Entschließungsantrag mit vier Punkten vorgelegt, der unter anderem 
 die in der Sachverständigenanhörung angesprochenen Schwierigkeiten mittelständischer Unternehmen mit Sicherheitsleistungen sowie Änderungen bei der Carbon-Leakage-Verordnung und der Abfallverbrennung aufgreife. 
 Die Fraktion der AfD kritisierte, dass der Gesetzentwurf keine tatsächliche Entlastung bringe, sondern die hohe 
@@ -987,8 +886,8 @@ seien nationale Klimaschutzmaßnahmen zudem wenig wirksam, belasteten jedoch den
 gefährdeten Arbeitsplätze. Stattdessen setze die Fraktion auf bezahlbare Energie und Versorgungssicherheit. 
 Die Fraktion der SPD betonte, dass die CO₂-Bepreisung ein wichtiges Instrument zur Bekämpfung des Klimawandels sei, da sie Anreize für klimafreundliche Produkte und Technologien schaffe. Zugleich lasse man Unternehmen und Verbraucher angesichts hoher Lebenshaltungskosten und unsicherer Energiemärkte nicht allein und 
 halte trotz angespannter Haushaltslage das Versprechen ein, den CO₂-Preis im Übergang zum ETS2 nicht zu 
-erhöhen. Durch zusätzliche 40 Millionen Zertifikate sowie die Anpassung der Überschussmengen- und Nachkaufpreise solle der Preis auf dem bisherigen Niveau von rund 66 Euro bleiben. Darüber hinaus verbessere der Geetzentwurf das Versteigerungsverfahren, um überhöhten Geboten entgegenzuwirken und insbesondere kleineren 
-verpflichteten Unternehmen bessere Zuschlagschancen zu ermöglichen. Die Bundesregierung solle zudem alternative Sicherheitsleistungen prüfen, da die bisherigen Anforderungen erhebliche Liquiditätsbelastungen verurachten. Insgesamt sollten die Maßnahmen das System stabiler und effizienter gestalten, führten jedoch zugleich 
+erhöhen. Durch zusätzliche 40 Millionen Zertifikate sowie die Anpassung der Überschussmengen- und Nachkaufpreise solle der Preis auf dem bisherigen Niveau von rund 66 Euro bleiben. Darüber hinaus verbessere der Gesetzentwurf das Versteigerungsverfahren, um überhöhten Geboten entgegenzuwirken und insbesondere kleineren 
+verpflichteten Unternehmen bessere Zuschlagschancen zu ermöglichen. Die Bundesregierung solle zudem alternative Sicherheitsleistungen prüfen, da die bisherigen Anforderungen erhebliche Liquiditätsbelastungen verursachten. Insgesamt sollten die Maßnahmen das System stabiler und effizienter gestalten, führten jedoch zugleich 
 zu Mindereinnahmen von rund 400 Millionen Euro im Klima- und Transformationsfonds. 
 Die Fraktion BÜNDNIS 90/DIE GRÜNEN kritisierte, dass die Koalition durch die Absenkung des CO₂-Preises 
 falsche Preissignale setze, die Abhängigkeit von Öl und Gas verfestige und laut FÖS (Forum Ökologisch-Soziale 
@@ -1012,14 +911,9 @@ bei Stimmenthaltung der Fraktion Die Linke, zu empfehlen, den Änderungsantrag d
 und SPD auf Ausschussdrucksache 21(16)153 anzunehmen. 
 Der Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit beschloss mit den Stimmen 
 der Fraktionen der CDU/CSU und SPD gegen die Stimmen der Fraktionen AfD und BÜNDNIS 90/DIE GRÜNEN 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 22 ===
  
-Drucksache 21/8626 
-– 22 – 
-Deutscher Bundestag – 21. Wahlperiode
-bei Stimmenthaltung der Fraktion Die Linke, zu empfehlen, den Gesetzentwurf der Bundesregierung auf Druckachen 21/7869, 21/8252 in geänderter Fassung anzunehmen. 
+bei Stimmenthaltung der Fraktion Die Linke, zu empfehlen, den Gesetzentwurf der Bundesregierung auf Drucksachen 21/7869, 21/8252 in geänderter Fassung anzunehmen. 
 VII. Begründung zu den Änderungen 
 Zu Artikel 2 Nummer 5 Buchstabe a (§ 11 Absatz 1a BEHV) 
 Mit der Änderung des § 11 Absatz 1a BEHV wird gegenüber dem Gesetzentwurf der Bundesregierung darauf 
@@ -1028,14 +922,14 @@ das Jahr 2026 im Umfang von 40 Millionen Emissionszertifikaten abzuziehen, da di
 Jahr 2026 mit dem höheren Überschussmengenpreis von 68 Euro belegt wurde. Durch den Verzicht auf den Abzug des für das Jahr 2026 angesetzten Zusatzbedarfs erhöht sich die Versteigerungsmenge 2027 auf rund 234 
 Millionen Emissionszertifikate. Die Erhöhung der Versteigerungsmenge 2027 und die weiteren Änderungen 
 durch Nummer 2 und Nummer 3 wirken sich auf den für 2027 zu erwartenden Durchschnittspreis für Emissionszertifikate aus. Dieser Durchschnittspreis aus Versteigerungen und Veräußerungen wird im laufenden Jahr 2026 
-knapp über 66 Euro liegen. Für das Jahr 2027 wird der um 40 Millionen Emissionszertifikate erhöhte Versteigerungsanteil im unveränderten Preiskorridor von 55 bis 65 Euro die nach Nummer 2 und 3 angepasste, d.h. gegenüber dem Gesetzentwurf der Bundesregierung etwas geringfügigere Erhöhung der Veräußerungspreise für Überchuss- und Nachkauf-mengen vollständig kompensieren, so dass für das Jahr 2027 ein durchschnittlicher CO2-
+knapp über 66 Euro liegen. Für das Jahr 2027 wird der um 40 Millionen Emissionszertifikate erhöhte Versteigerungsanteil im unveränderten Preiskorridor von 55 bis 65 Euro die nach Nummer 2 und 3 angepasste, d.h. gegenüber dem Gesetzentwurf der Bundesregierung etwas geringfügigere Erhöhung der Veräußerungspreise für Überschuss- und Nachkauf-mengen vollständig kompensieren, so dass für das Jahr 2027 ein durchschnittlicher CO2-
 Preis für Emissionszertifikate erwartet wird, der exakt dem Durchschnittspreis von 2026 entspricht. Damit ist 
 sichergestellt, dass es im Jahr 2027 gegenüber dem CO2-Preisniveau für das Kalenderjahr 2026 keinen zusätzlichen CO2-Preiseffekt auf fossile Brennstoffe geben wird. 
 Zu Artikel 2 Nummer 8 (§ 14 Satz 1 BEHV) 
 Mit der Änderung in § 14 Satz 1 Nummer 2 BEHV gegenüber dem Gesetzentwurf der Bundesregierung wird der 
 Überschussmengenpreis für Emissionszertifikaten im Kalenderjahr 2027 um zwei Euro von 73 Euro auf 71 Euro 
 abgesenkt. Zusammen mit der Änderung in Nummer 3 des Gesetzentwurfs führen diese Änderungen in ihrer 
-Kombination zu der in der Begründung zu Nummer 1 des Gesetzentwurfs beschriebenen Stabilisierung des durchchnittlichen CO2-Preises für Emissionszertifikate für das Kalenderjahr 2027 präzise auf dem Niveau von 2026. 
+Kombination zu der in der Begründung zu Nummer 1 des Gesetzentwurfs beschriebenen Stabilisierung des durchschnittlichen CO2-Preises für Emissionszertifikate für das Kalenderjahr 2027 präzise auf dem Niveau von 2026. 
 Zu Artikel 2 Nummer 9 (§ 15 Satz 1 BEHV) 
 Mit der Änderung in § 15 Satz 1 Nummer 2 BEHV gegenüber dem Gesetzentwurf der Bundesregierung wird der 
 in 2028 geltende Nachkaufmengenpreis für Emissionszertifikate für das Kalenderjahr 2027 um zwei Euro von 75 
@@ -1054,5 +948,3 @@ Berichterstatterin
 Dr. Fabian Fahl 
 Berichterstatter 
  
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-

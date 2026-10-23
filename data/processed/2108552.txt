@@ -1,7 +1,4 @@
 === PAGE : 1 ===
-Deutscher Bundestag 
-Drucksache 21/8552 
-21. Wahlperiode
 13.10.2026 
 Antrag 
 der Abgeordneten Adam Balten, Leif-Erik Holm, Steffen Kotré, Marc Bernhard, 
@@ -38,12 +35,7 @@ um-die-Fuellstaende,gasspeicher120.html) Um die Füllung der Speicher zu erleich
 2 https://jpt.spe.org/25-billion-in-middle-east-war-damage-to-disrupt-energy-supply-chains-for-years 
 3 https://www.n-tv.de/wirtschaft/Gaspreis-Explosion-bedroht-deutsche-Industrieproduktion-
 id30493063.html 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 2 ===
-Drucksache 21/8552 
-– 2 – 
-Deutscher Bundestag – 21. Wahlperiode
 Vor diesem Hintergrund ist es erforderlich, kurzfristig wirksame Maßnahmen zu 
 ergreifen, um Energie kostengünstig und verlässlich verfügbar zu halten sowie 
 zentrale industrielle Prozesse aufrechtzuerhalten, sowie Vorkehrungen für die 
@@ -54,7 +46,7 @@ Erdgas ist in Deutschland der wichtigste Energieträger zum Heizen in privaten
 Haushalten. Dies muss auch in Zukunft gewährleitet werden. 
 II. Der Deutsche Bundestag fordert die Bundesregierung auf,  
 1. den EU-Emissionshandel (EU ETS) sowie nationale CO₂-Bepreisungsmechanismen  auf nationaler Ebene abzuschaffen, um die Energiepreise 
-zu senken und die industrielle Verwendung von CO2-intensiven Brenntoffen wieder wirtschaftlich zu machen; 
+zu senken und die industrielle Verwendung von CO2-intensiven Brennstoffen wieder wirtschaftlich zu machen; 
 2. durch Aktivierung der Versorgungsreserve sowie Anpassung von Stilllegungsfristen im Rahmen des Kohleverstromungsbeendigungsgesetzes 
 (KVBG) Kohlekraftwerke für den Strommarkt nutzbar zu machen und 
 hierzu Genehmigungs- und Betriebsauflagen temporär zu flexibilisieren; 
@@ -64,19 +56,14 @@ den Rückbau der Kohlekraftwerke sofort zurückzunehmen;
 4.  die Düngemittelproduktion in Deutschland zu unterstützen und Maßnahmen zu ergreifen, um die inländische Produktion von Düngemitteln, insbesondere stickstoffbasierter Dünger, aufrechtzuerhalten, z.B. durch den 
 Einsatz auf EU-Ebene zur Aussetzung von Importzöllen und Streichung 
 des Grenzausgleichs (CBAM) für Vorprodukte (Ammoniak, Harnstoff); 
-energieintensive Produktionsanlagen durch Aufhebung von Energieeinparungs- und Klimaschutzauflagen zu stabilisieren, strategische Produktionskapazitäten als systemrelevant einzustufen und entsprechend zu 
+energieintensive Produktionsanlagen durch Aufhebung von Energieeinsparungs- und Klimaschutzauflagen zu stabilisieren, strategische Produktionskapazitäten als systemrelevant einzustufen und entsprechend zu 
 schützen, um die Versorgung der Landwirtschaft mit bezahlbaren Düngemitteln sicherzustellen; 
 5. die Gasvorräte als essenziellen Rohstoff für die Industrie vorübergehend 
-zu schonen, Maßnahmen zu ergreifen, um die industrielle Rohstoffverorgung zu sichern, Produktionsausfälle zu vermeiden und strategisch bedeutsame chemische Produktionskapazitäten als systemrelevant einzutufen und zu schützen. 
+zu schonen, Maßnahmen zu ergreifen, um die industrielle Rohstoffversorgung zu sichern, Produktionsausfälle zu vermeiden und strategisch bedeutsame chemische Produktionskapazitäten als systemrelevant einzustufen und zu schützen. 
 Berlin, den 13. Oktober 2026 
 Dr. Alice Weidel, Tino Chrupalla und Fraktion 
  
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 3 ===
-Deutscher Bundestag – 21. Wahlperiode 
-– 3 – 
-Drucksache 21/8552
 Begründung
 Die aktuelle Energiekrise durch die Beeinträchtigung der internationalen Schifffahrtswege und Zerstörung an 
 Förderanlagen der Golfregion zeigt eindringlich, dass die Versorgungssicherheit eine grundlegende Voraussetzung für wirtschaftliche Stabilität und gesellschaftlichen Wohlstand ist.  
@@ -107,12 +94,7 @@ Zu II 5.
 4 Sachstand CO2 – Bilanzen Einzelfragen zu Energieträgern, insbesondere Flüssiggas, Dt. Bundestag 2018 
 https://www.bundestag.de/resource/blob/550728/61522d07688eb301e4edf6b8d2e68f41/wd-8-
 003-18-pdf-data.pdf 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 4 ===
-Drucksache 21/8552 
-– 4 – 
-Deutscher Bundestag – 21. Wahlperiode
 Die chemische Industrie in Deutschland ist auf Erdgas nicht nur als Energieträger, sondern als unverzichtbaren 
 Grundstoff angewiesen. Während Erdgas im Stromsektor durch verstärkte Kohleverstromung kurzfristig substituiert werden kann, gibt es für viele industrielle Prozesse und stoffliche Anwendungen (z. B. Ammoniak- oder 
 Düngemittelproduktion) keine technischen Alternativen. Eine Verknappung des Rohstoffs Gas führt unmittelbar 
@@ -120,5 +102,3 @@ zu Produktionsstopps, gefährdet die Versorgungssicherheit nachgelagerter Branch
 kritischen Sektoren zu verhindern, muss die stoffliche Nutzung von Gas weiter ermöglicht werden. Die Einstufung 
 chemischer Produktionskapazitäten als systemrelevant ist daher eine notwendige Schutzmaßnahme für den Erhalt 
 des gesamten Wirtschaftsstandorts. 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-

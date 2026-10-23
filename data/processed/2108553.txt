@@ -1,9 +1,6 @@
 === PAGE : 1 ===
  
  
-Deutscher Bundestag 
-Drucksache 21/8553 
-21. Wahlperiode 
 13.10.2026 
 Antrag 
 der Abgeordneten Martin Sichert, Dr. Christina Baum, Nicole Hess, Carina Schießl, 
@@ -21,7 +18,7 @@ Der Bundestag wolle beschließen:
 I. Der Deutsche Bundestag stellt fest: 
  
 Die bestehende Einkommensgrenze von 100.000 Euro beim Elternunterhalt (§ 94 
-Abs. 1a SGB XII) ist ein wesentlicher Schutzwall für die arbeitende Mitte. Betrebungen, diese Grenze abzusenken, lehnt der Bundestag ab. 
+Abs. 1a SGB XII) ist ein wesentlicher Schutzwall für die arbeitende Mitte. Bestrebungen, diese Grenze abzusenken, lehnt der Bundestag ab. 
 Die Pflegeversicherung leidet massiv unter der Zweckentfremdung von Beitragsmitteln für versicherungsfremde Leistungen. Dies führt dazu, dass der Bund die 
 Kommunen systematisch in die finanzielle Mithaftung zwingt, da die gedeckelten 
 SGB-XI-Leistungen nicht ausreichen und die Kommunen im Rahmen der „Hilfe 
@@ -36,12 +33,8 @@ diese Fehlanreize über das Haushaltsrecht zu korrigieren.
  
  
 Vorabfassung - wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 2 ===
  
-Drucksache 21/8553 
-– 2 – 
-Deutscher Bundestag – 21. Wahlperiode
 II. Der Deutsche Bundestag fordert die Bundesregierung deshalb auf, 
 1. die bestehende Einkommensgrenze von 100.000 Euro beim Elternunterhalt 
 (§ 94 Abs. 1a SGB XII) dauerhaft beizubehalten und als Garant für die finanzielle Planungssicherheit der arbeitenden Mitte zu schützen. Um die Akzeptanz dieser Schutzgrenze zu sichern, sind gleichzeitig unberechtigte Privilegien bei großvolumigen Schenkungen abzubauen, indem die Zehnjahresfrist 
@@ -55,7 +48,7 @@ Absicherung pflegender Angehöriger);
 3. eine rechtsverbindliche Definition von „versicherungsfremden Leistungen“ 
 im SGB XI einzuführen und dem Bundestag jährlich einen Transparenzbericht über alle beitragsfremden Entnahmen vorzulegen, die durch einen dynamisierten Bundeszuschuss voll zu erstatten sind (Transparenzoffensive gegen 
 Zweckentfremdung); 
-4. in Abstimmung mit den Ländern darauf hinzuwirken, dass die Pflegeausbildung praxisnah reformiert und Personalvorgaben im Heimrecht entbürokratiiert werden; 
+4. in Abstimmung mit den Ländern darauf hinzuwirken, dass die Pflegeausbildung praxisnah reformiert und Personalvorgaben im Heimrecht entbürokratisiert werden; 
 5. den Hebel der Refinanzierung im SGB XI zu nutzen, um die Pflegequalität 
 sicherzustellen, ohne die Länderhoheit im Bildungs- und Heimrecht zu verletzen (Reform der Pflegefinanzierung und Ausbildung); 
 6. die Bundeshaushaltsordnung (BHO) und einschlägige Förderrichtlinien so zu 
@@ -63,7 +56,7 @@ reformieren, dass
 a) Kommunen bei nachgewiesener finanzieller Überlastung im Bereich ihrer 
 Pflichtaufgaben (Hilfe zur Pflege) von Kofinanzierungs- und Weiterführungspflichten bei Bundesförderprogrammen für freiwillige Aufgaben befreit 
 werden; 
-b) finanzielle Bundesanreize für die Einrichtung ideologischer Beauftragtentrukturen (z. B. im Bereich Gleichstellung jenseits der Pflichtaufgaben, 
+b) finanzielle Bundesanreize für die Einrichtung ideologischer Beauftragtenstrukturen (z. B. im Bereich Gleichstellung jenseits der Pflichtaufgaben, 
 Diversität, LSBTIQ*) gestrichen werden (Haushaltsdisziplin über die BHO); 
 7. bei der Vergabe von Finanzhilfen nach Art. 104b GG an die Länder strikt 
 darauf zu achten, dass diese zweckgebunden für Investitionen in die Daseinsvorsorge (Pflege, Infrastruktur) eingesetzt werden und bei Zweckentfremdung durch die Länder konsequent zurückgefordert werden (Zweckbindung 
@@ -75,15 +68,11 @@ den Stabilitätsrat).
 Berlin, den 13. Oktober 2026 
 Dr. Alice Weidel, Tino Chrupalla und Fraktion 
 Vorabfassung - wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 3 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 3 – 
-Drucksache 21/8553
 Begründung 
-Die Debatte über eine Absenkung der 100.000-Euro-Grenze beim Elternunterhalt verkennt die eigentlichen Urachen der Finanzierungsprobleme in der Pflege. Die Pflegeversicherung leidet unter strukturellen Defiziten: steigenden Personalkosten, zunehmender Bürokratie, einer verfehlten Ausbildungspolitik und einer Unterfinanzierung versicherungsfremder Leistungen. Diese Probleme lassen sich nicht dadurch lösen, dass die Finanzierungslast auf Kinder pflegebedürftiger Eltern verschoben wird. 
-Es ist den hart arbeitenden Bürgern der Mitte auch nicht vermittelbar, wenn das Sozialamt bei einem Durchchnittsverdiener mit 105.000 Euro Bruttoeinkommen sofort zugreift, während gleichzeitig wohlhabende Familien durch komplexe juristische Gestaltungsmodelle (wie Schenkungen unter Nießbrauchsvorbehalt) Millionenvermögen dem Zugriff der Sozialhilfeträger entziehen können. 
+Die Debatte über eine Absenkung der 100.000-Euro-Grenze beim Elternunterhalt verkennt die eigentlichen Ursachen der Finanzierungsprobleme in der Pflege. Die Pflegeversicherung leidet unter strukturellen Defiziten: steigenden Personalkosten, zunehmender Bürokratie, einer verfehlten Ausbildungspolitik und einer Unterfinanzierung versicherungsfremder Leistungen. Diese Probleme lassen sich nicht dadurch lösen, dass die Finanzierungslast auf Kinder pflegebedürftiger Eltern verschoben wird. 
+Es ist den hart arbeitenden Bürgern der Mitte auch nicht vermittelbar, wenn das Sozialamt bei einem Durchschnittsverdiener mit 105.000 Euro Bruttoeinkommen sofort zugreift, während gleichzeitig wohlhabende Familien durch komplexe juristische Gestaltungsmodelle (wie Schenkungen unter Nießbrauchsvorbehalt) Millionenvermögen dem Zugriff der Sozialhilfeträger entziehen können. 
 Wer sich lebenslange Nutzungsrechte an einer Immobilie sichert, ist faktisch nicht vermögenslos. Werden solche 
 Vermögenswerte durch Zeitablauf der Mithaftung für Pflegekosten entzogen, wird das Prinzip der Eigenverantwortung ausgehöhlt und die Solidargemeinschaft der Steuerzahler einseitig belastet. Die Schließung dieses 
 Schlupflochs für Vermögende dient nicht der Umverteilung, sondern der Wiederherstellung der Leistungsgerechtigkeit: Bevor der Staat von ehrlichen Arbeitnehmern die Absenkung der 100.000-Euro-Schutzgrenze fordert, 
@@ -104,4 +93,3 @@ nicht auskömmlich finanziert sind, müssen notwendige Infrastruktur, Sicherheit
  
 1 Drs. 21/1549 
 Vorabfassung - wird durch die lektorierte Fassung ersetzt.
-

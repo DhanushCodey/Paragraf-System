@@ -1,7 +1,7 @@
 from collections import Counter
 from pathlib import Path
 
-def noise_reduction():
+def count_lines():
     paths = Path("data/processed").glob("*.txt")
     # paths = [Path("data/processed/2106512.txt")]
     counts = Counter()
@@ -24,4 +24,4 @@ def noise_reduction():
             print(f"{line} : {num}")
 
 if __name__ == "__main__":
-    noise_reduction()
+    count_lines()

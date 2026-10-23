@@ -1,7 +1,4 @@
 === PAGE : 1 ===
-Deutscher Bundestag 
-Drucksache 21/7869
-21. Wahlperiode
 07.09.2026 
 Gesetzentwurf 
 der Bundesregierung 
@@ -9,7 +6,7 @@ Entwurf eines Dritten Gesetzes zur Änderung des
 Brennstoffemissionshandelsgesetzes 
 A. Problem und Ziel
 Das Brennstoffemissionshandelsgesetz (BEHG) bildet den rechtlichen Rahmen 
-für das nationale Emissionshandelssystem für Brennstoffemissionen aus den Bereichen Verkehr und Wärme. Mit der Einführung des nationalen Brennstoffemisionshandels werden seit dem Jahr 2021 fossile Brennstoffemissionen mit einem 
+für das nationale Emissionshandelssystem für Brennstoffemissionen aus den Bereichen Verkehr und Wärme. Mit der Einführung des nationalen Brennstoffemissionshandels werden seit dem Jahr 2021 fossile Brennstoffemissionen mit einem 
 CO2-Preis belegt. Dieser CO2-Preis wurde für die Jahre 2021 bis 2025 gesetzlich 
 festgelegt, während er für Brennstoffemissionen des Jahres 2026 im Wege eines 
 Versteigerungsverfahrens innerhalb eines gesetzlich vorgegebenen Preiskorridors 
@@ -38,9 +35,6 @@ durch Artikel 3 dieses Gesetzes auch Anpassungen der ebenfalls unter dem BEHG
 erlassenen Doppelbilanzierungsverordnung (BEDV) vorgesehen, um einen sach
 === PAGE : 2 ===
  
-Drucksache 21/7869 
-– 2 – 
-Deutscher Bundestag – 21. Wahlperiode
 gerechten Umgang mit eingelagerten Brennstoffmengen zu gewährleisten. Durch 
 die Änderungen gilt der für das Jahr 2026 geltende Preiskorridor im nationalen 
 Brennstoffemissionshandel von 55 bis 65 Euro auch für das Jahr 2027 fort und es 
@@ -48,14 +42,14 @@ wird ein Beitrag zur Entbürokratisierung des Kompensationsverfahrens für Doppe
 C. Alternativen 
 Keine. 
 D. Haushaltsausgaben ohne Erfüllungsaufwand 
-Für den Bund entstehen durch das Änderungsgesetz keine neuen Haushaltsausgaben ohne Erfüllungsaufwand. Die mit der Gesetzesänderung festgelegte Anpasung der CO2-Preisbildung für das Berichtsjahr 2027 führt gegenüber der bislang 
+Für den Bund entstehen durch das Änderungsgesetz keine neuen Haushaltsausgaben ohne Erfüllungsaufwand. Die mit der Gesetzesänderung festgelegte Anpassung der CO2-Preisbildung für das Berichtsjahr 2027 führt gegenüber der bislang 
 im BEHG für das Jahr 2027 vorgesehenen CO2-Preisbildung zu veränderten Erlöserwartungen aus der nationalen CO2-Bepreisung; dies entspricht der mit dem 
 Änderungsgesetz verfolgten Zielsetzung einer Stabilisierung der CO2-Kosten im 
 Jahr 2027 im Vergleich zum Jahr 2026. Die Veräußerung von Emissionszertifikaten für fossile Brennstoffemissionen über entsprechende Versteigerungen auch 
 für das Berichtsjahr 2027 setzt Anpassungen des Veräußerungsverfahrens für das 
 Jahr 2027 durch die Versteigerungsplattform voraus. Die Kosten, die dem Bund 
 aus der Durchführung der Versteigerungsverfahren entstehen und die nicht durch 
-Gebühren gedeckt sind, werden durch die Erlöse aus der Veräußerung von Emisionszertifikaten nach dem BEHG gedeckt: Etwaige zusätzliche Haushaltsausgaben im Bereich der für den Vollzug zuständigen Behörde müssen ausgehend vom 
+Gebühren gedeckt sind, werden durch die Erlöse aus der Veräußerung von Emissionszertifikaten nach dem BEHG gedeckt: Etwaige zusätzliche Haushaltsausgaben im Bereich der für den Vollzug zuständigen Behörde müssen ausgehend vom 
 Refinanzierungsgrundsatz nach § 10 Absatz 4 BEHG durch Erlöse aus der Veräußerung von Emissionszertifikaten oder durch die Erhebung von Gebühren und 
 Auslagen gedeckt werden. Die geplanten Regelungen haben keine Auswirkungen 
 auf die Haushalte der Länder und Kommunen. 
@@ -70,10 +64,7 @@ E.3 Erfüllungsaufwand der Verwaltung
 Durch die in diesem Gesetz vorgesehenen Änderungen des BEHG und der auf 
 dessen Grundlage erlassenen Verordnungen verringert sich der Erfüllungsauf
 === PAGE : 3 ===
-Deutscher Bundestag – 21. Wahlperiode 
-– 3 –
-Drucksache 21/7869
-wand für die Verwaltung von Bund, Ländern und Kommunen gegenüber den Abchätzungen zum bisherigen nationalen Brennstoffemissionshandel ab dem Berichtsjahr 2028 um ca. 2,18 Millionen Euro. 
+wand für die Verwaltung von Bund, Ländern und Kommunen gegenüber den Abschätzungen zum bisherigen nationalen Brennstoffemissionshandel ab dem Berichtsjahr 2028 um ca. 2,18 Millionen Euro. 
 F. Weitere Kosten
 Durch den Brennstoffemissionshandel kommt es mittelbar zu Veränderungen von 
 Einzelpreisen bestimmter Waren und Dienstleistungen, da Kosten der Inverkehrbringer an die Endverbraucherinnen und -verbraucher weitergegeben werden. Die 
@@ -81,17 +72,13 @@ durch dieses Gesetz geänderte CO2-Bepreisung für das Berichtsjahr 2027 führt
 jedoch außerhalb der dem Brennstoffemissionshandel immanenten CO2-Preisbelastung, die von den berichtspflichtigen Inverkehrbringern der Brennstoffe entlang der Wertschöpfungskette bis an die Endverbraucher weitergegeben werden 
 können, nicht zu gesonderten weiteren Kosten. Die Neuregelungen in der BEHV 
 gemäß Artikel 2 dieses Gesetzes betreffen im Wesentlichen Anpassungen der Regelungen zur Veräußerung der Emissionszertifikate, um die bereits bestehende 
-Veräußerungsmechanik (Versteigerung im Preiskorridor, Verkauf zum Überchussmengenpreis, Verkauf zum Nachkaufmengenpreis) auch für das Berichtsjahr 2027 fortzuführen, ohne dass dies gegenüber dem bestehenden Bepreisungsystem zu gesonderten weiteren Kosten führen würde. Durch die Neuregelungen 
+Veräußerungsmechanik (Versteigerung im Preiskorridor, Verkauf zum Überschussmengenpreis, Verkauf zum Nachkaufmengenpreis) auch für das Berichtsjahr 2027 fortzuführen, ohne dass dies gegenüber dem bestehenden Bepreisungssystem zu gesonderten weiteren Kosten führen würde. Durch die Neuregelungen 
 in der BEDV gemäß Artikel 3 dieses Gesetzes entstehen, ebenso wie bereits durch 
 die BEDV-Stammverordnung, keine weiteren Kosten, und es ist auch insoweit 
 nicht mit Auswirkungen auf das allgemeine Preisniveau zu rechnen. 
-
 === PAGE : 4 ===
 
 === PAGE : 5 ===
-Deutscher Bundestag – 21. Wahlperiode 
-– 5 –
-Drucksache 21/7869
 BUNDESREPUBLIK DEUTSCHLAND 
 DER BUNDESKANZLER 
 Berlin, 7. September 2026 
@@ -112,14 +99,10 @@ Der Gesetzentwurf ist dem Bundesrat am 14. August 2026 als besonders eilbedürft
 Die Stellungnahme des Bundesrates zu dem Gesetzentwurf sowie die Auffassung der Bundesregierung zu der Stellungnahme des Bundesrates werden unverzüglich nachgereicht. 
 Mit freundlichen Grüßen 
 Friedrich Merz 
-
 === PAGE : 6 ===
 
 === PAGE : 7 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 7 – 
-Drucksache 21/7869
 Entwurf eines Dritten Gesetzes zur Änderung des 
 Brennstoffemissionshandelsgesetzes 
 Vom ... 
@@ -158,12 +141,8 @@ eine jährliche Emissionsmenge nach § 4 Absatz 1 Satz 1 verbleibt, abweichend v
 Satz 1 und 2 die Fortführung des Verkaufs zu einem marktbasierten Preis, der dem mengengewichteten Durchschnittspreis der Versteigerungen von Emissionszertifikaten nach § 10 
 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes in dem jeweils vorletzten vorangegangenen Quartal entspricht.“ 
 bb) Nummer 5 wird gestrichen. 
-
 === PAGE : 8 ===
  
-Drucksache 21/7869 
-– 8 – 
-Deutscher Bundestag – 21. Wahlperiode
 5. 
 § 21 wird wie folgt geändert: 
 a) 
@@ -208,12 +187,8 @@ In der Überschrift des Unterabschnitts 4 des Abschnitts 2 wird die Angabe „20
 „2028“ ersetzt. 
 c) 
 In der Angabe zu § 16 wird die Angabe „2027“ durch die Angabe „2028“ ersetzt. 
-
 === PAGE : 9 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 9 – 
-Drucksache 21/7869
 d) 
 Die Angabe zu § 17 wird durch die folgende Angabe ersetzt: 
 „§ 17 
@@ -237,12 +212,12 @@ a)
 Nach Absatz 1 wird der folgende Absatz 1a eingefügt: 
 „(1a) Die Gesamtversteigerungsmenge für das Jahr 2027 ergibt sich aus der in § 44 Absatz 2 für 
 das Jahr 2027 vorgesehenen jährlichen Emissionsmenge zuzüglich der gemäß § 45 für das Jahr 2027 
-veröffentlichten jährlichen Erhöhungsmenge und abzüglich eines für das Jahr 2026 anzusetzenden Zuatzbedarfs nach § 5 Absatz 1 des Brennstoffemissionshandelsgesetzes im Umfang von 40 Millionen 
+veröffentlichten jährlichen Erhöhungsmenge und abzüglich eines für das Jahr 2026 anzusetzenden Zusatzbedarfs nach § 5 Absatz 1 des Brennstoffemissionshandelsgesetzes im Umfang von 40 Millionen 
 Emissionszertifikaten. Die zuständige Stelle veröffentlicht die Gesamtversteigerungsmenge nach Satz 1 
 bis zum 31. Dezember 2026 auf ihrer Internetseite.“ 
 b) 
 Absatz 2 wird durch den folgenden Absatz 2 ersetzt: 
-„(2) Sinkt in einem der Kalenderjahre 2026 oder 2027 die nach einem Versteigerungstermin verbleibende Gesamtversteigerungsmenge für das jeweilige Kalenderjahr unter das Dreifache der pro Verteigerungstermin vorgesehenen Menge, finden nach diesem Versteigerungstermin nur noch zwei weitere Versteigerungstermine in dem jeweiligen Kalenderjahr statt. In dem letzten Versteigerungstermin 
+„(2) Sinkt in einem der Kalenderjahre 2026 oder 2027 die nach einem Versteigerungstermin verbleibende Gesamtversteigerungsmenge für das jeweilige Kalenderjahr unter das Dreifache der pro Versteigerungstermin vorgesehenen Menge, finden nach diesem Versteigerungstermin nur noch zwei weitere Versteigerungstermine in dem jeweiligen Kalenderjahr statt. In dem letzten Versteigerungstermin 
 des jeweiligen Kalenderjahres wird die gesamte noch verbleibende Versteigerungsmenge angeboten. 
 Für die in Satz 1 genannten zwei weiteren Versteigerungstermine findet § 12 Absatz 4 Satz 1 bis 3 keine 
 Anwendung. Sofern etwaig wegfallende Versteigerungstermine bereits im Versteigerungskalender angekündigt worden sind, gilt für die Information über die Aufhebung dieser Termine eine verkürzte Ankündigungsfrist von einer Woche.“ 
@@ -266,12 +241,8 @@ In Absatz 4 Satz 3 wird die Angabe „Jahr 2026“ durch die Angabe „jeweilige
 a) 
 In Absatz 1 Satz 1 Nummer 3 Buchstabe e wird die Angabe „Jahr 2026“ durch die Angabe „jeweilige 
 Kalenderjahr“ ersetzt. 
-
 === PAGE : 10 ===
  
-Drucksache 21/7869 
-– 10 – 
-Deutscher Bundestag – 21. Wahlperiode
 b) 
 In Absatz 2 Satz 4 wird nach der Angabe „§ 12 Absatz 1 Satz 2“ die Angabe „oder Absatz 1a“ eingefügt. 
 8. 
@@ -303,7 +274,7 @@ c)
 Absatz 2 Satz 3 wird gestrichen. 
 d) 
 Absatz 3 wird durch den folgenden Absatz 3 ersetzt: 
-„(3) Der marktbasierte Preis nach Absatz 2 Satz 2 entspricht dem mengengewichteten Durchchnittspreis der Versteigerungen von Emissionszertifikaten nach § 10 Absatz 1 des Treibhausgas-
+„(3) Der marktbasierte Preis nach Absatz 2 Satz 2 entspricht dem mengengewichteten Durchschnittspreis der Versteigerungen von Emissionszertifikaten nach § 10 Absatz 1 des Treibhausgas-
 Emissionshandelsgesetzes in dem jeweils vorletzten vorangegangenen Quartal. Im Jahr 2028 beginnt 
 der Verkauf von Emissionszertifikaten ab dem dritten Quartal. Die zuständige Stelle veröffentlicht auf 
 ihrer Internetseite die Höhe des marktbasierten Preises für jedes Quartal mit einem Vorlauf von mindestens zwei Monaten vor Beginn des jeweiligen Quartals.“ 
@@ -313,14 +284,10 @@ Absatz 4 wird gestrichen.
 13. § 29 wird durch den folgenden § 29 ersetzt: 
 „§ 29 
 Einschränkung der Gültigkeit von den Kalenderjahren 2026 und 2027 zugeordneten Emissionszertifikaten 
-Emissionszertifikate, die gemäß § 9 Absatz 1 Satz 1 des Brennstoffemissionshandelsgesetzes dem Kalenderjahr 2026 zugeordnet sind, sind abweichend von § 9 Absatz 1 Satz 1 und 2 des Brennstoffemissionshandelsgesetzes nur für das Kalenderjahr 2026 für die Abdeckung der Brennstoffemissionen dieses Kalenderjahres oder der Vorjahre gültig. Emissionszertifikate, die gemäß § 9 Absatz 1 Satz 1 des Brennstoffemisionshandelsgesetzes dem Kalenderjahr 2027 zugeordnet sind, sind abweichend von § 9 Absatz 1 Satz 1 
-und 2 des Brennstoffemissionshandelsgesetzes nur für das Kalenderjahr 2027 für die Abdeckung der Brenntoffemissionen dieses Kalenderjahres oder der Vorjahre gültig.“ 
-
+Emissionszertifikate, die gemäß § 9 Absatz 1 Satz 1 des Brennstoffemissionshandelsgesetzes dem Kalenderjahr 2026 zugeordnet sind, sind abweichend von § 9 Absatz 1 Satz 1 und 2 des Brennstoffemissionshandelsgesetzes nur für das Kalenderjahr 2026 für die Abdeckung der Brennstoffemissionen dieses Kalenderjahres oder der Vorjahre gültig. Emissionszertifikate, die gemäß § 9 Absatz 1 Satz 1 des Brennstoffemissionshandelsgesetzes dem Kalenderjahr 2027 zugeordnet sind, sind abweichend von § 9 Absatz 1 Satz 1 
+und 2 des Brennstoffemissionshandelsgesetzes nur für das Kalenderjahr 2027 für die Abdeckung der Brennstoffemissionen dieses Kalenderjahres oder der Vorjahre gültig.“ 
 === PAGE : 11 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 11 – 
-Drucksache 21/7869
 14. § 44 wird wie folgt geändert: 
 a) 
 Absatz 2 wird durch den folgenden Absatz 2 ersetzt: 
@@ -370,12 +337,8 @@ Absatz 3 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert word
 a) 
 In Satz 1 wird die Angabe „Artikel 2 des Gesetzes vom 9. November 2022 (BGBl. I S. 2006)“ durch 
 die Angabe „Artikel 1 des Gesetzes vom … [einsetzen: Datum und Fundstelle dieses Gesetzes]“ ersetzt. 
-
 === PAGE : 12 ===
  
-Drucksache 21/7869 
-– 12 – 
-Deutscher Bundestag – 21. Wahlperiode
 b) 
 In Satz 2 wird die Angabe „21. Juli 2011 (BGBl. I S. 1475), das zuletzt durch Artikel 18 des Gesetzes 
 vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist,“ durch die Angabe „27. Februar 2025 
@@ -424,12 +387,8 @@ Kompensationsvorbehalt für eingelagerte Brennstoffmengen
 (1) Die Gewährung der Kompensation für Brennstoffmengen nach § 6 Absatz 2 Satz 2 steht unter dem 
 Vorbehalt der Erbringung des Einsatznachweises. Die zuständige Behörde kann die Entscheidung über den 
 Antrag auf Gewährung einer Kompensation mit Auflagen für den Einsatznachweis nach § 6 Absatz 2 Satz 2 
-
 === PAGE : 13 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 13 – 
-Drucksache 21/7869
 verbinden. Der Kompensationsbescheid kann ganz oder teilweise aufgehoben und die entsprechende Kompensation zurückgefordert werden, wenn der Einsatznachweis nach § 6 Absatz 2 Satz 2 durch den Anlagenbetreiber nicht erbracht wird. 
 (2) Für Anlagenbetreiber, denen für einzelne oder alle der Abrechnungsjahre 2021 bis 2026 eine Kompensation unter dem Vorbehalt der Erbringung des Einsatznachweises nach § 6 Absatz 2 Satz 2 gewährt 
 wurde, gilt dieser Einsatznachweis auch als erbracht, wenn 
@@ -457,12 +416,8 @@ Delegierte Verordnung (EU) 2019/1122 der Kommission vom 12. März 2019 zur Ergä
 Europäischen Parlaments und des Rates im Hinblick auf die Funktionsweise des Unionsregisters (ABl. L 177 vom 2.7.2019, 
 S. 3), die zuletzt durch Artikel 1 der Delegierte Verordnung (EU) 2023/2904 der Kommission vom 25. Oktober 2023 (ABl. 
 L 2904 vom 29.12.2023, S. 1) geändert worden ist 
-
 === PAGE : 14 ===
  
-Drucksache 21/7869 
-– 14 – 
-Deutscher Bundestag – 21. Wahlperiode
 Begründung 
 A. Allgemeiner Teil 
 I. 
@@ -491,16 +446,12 @@ wird durch Artikel 2 dieses Gesetzes bewirkt. Darüber hinaus sind in diesem Zus
 dieses Gesetzes auch Anpassungen der ebenfalls unter dem BEHG erlassenen BEDV vorgesehen, um einen sachgerechten und vereinfachten Umgang mit eingelagerten Brennstoffmengen bei emissionshandelspflichtigen Anlagenbetreibern zu gewährleisten. 
 III. 
 Exekutiver Fußabdruck 
-Es haben keine Interessenvertreterinnen und Interessenvertreter oder beauftragte Dritte im Sinne von § 43 Abatz 1 Nummer 13 der Gemeinsamen Geschäftsordnung der Bundesministerien wesentlich zum Inhalt des Geetzentwurfs beigetragen. 
+Es haben keine Interessenvertreterinnen und Interessenvertreter oder beauftragte Dritte im Sinne von § 43 Absatz 1 Nummer 13 der Gemeinsamen Geschäftsordnung der Bundesministerien wesentlich zum Inhalt des Gesetzentwurfs beigetragen. 
 IV. 
 Alternativen 
 Keine. 
-
 === PAGE : 15 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 15 – 
-Drucksache 21/7869
 V. 
 Gesetzgebungskompetenz 
 Die Gesetzgebungskompetenz des Bundes zum Erlass des vorliegenden Änderungsgesetzes ergibt sich aus der 
@@ -513,7 +464,7 @@ Weiterhin betreffen die vorliegenden Regelungen das Recht der Wirtschaft nach Ar
 Sie richten sich an Unternehmen. Der Gesetzentwurf ändert die Rahmenbedingungen für die Teilnahme der einbezogenen Unternehmen am nationalen Brennstoffemissionshandel. Die Einführung dieser Regelungen muss aus 
 Wettbewerbsgründen und zur Wahrung der Rechts- und Wirtschaftseinheit in der Bundesrepublik Deutschland 
 wie schon im Stammgesetz zum BEHG bundeseinheitlich erfolgen. Eine Lösung auf Länderebene würde diesem 
-besonderen Bedürfnis nach Einheitlichkeit auch insoweit nicht gerecht. Die vorgesehene bundeseinheitliche Löung ist daher im gesamtstaatlichen Interesse im Sinne von Artikel 72 Absatz 2 GG erforderlich. 
+besonderen Bedürfnis nach Einheitlichkeit auch insoweit nicht gerecht. Die vorgesehene bundeseinheitliche Lösung ist daher im gesamtstaatlichen Interesse im Sinne von Artikel 72 Absatz 2 GG erforderlich. 
 Die Rechtsgrundlage für die Änderungen der BEHV durch Artikel 2 dieses Gesetzes bildet die Verordnungsermächtigung in § 4 Absatz 2 und § 10 Absatz 3 BEHG, mit der die Bundesregierung als Verordnungsgeber zu 
 Regelungen über die Festlegung der jährlichen Emissionsmengen und über Veräußerung und Versteigerung von 
 Emissionszertifikaten ermächtigt wird. Da die Änderungen der BEHV mit den Änderungen der gesetzlichen Regelungen des BEHG durch dieses Gesetz verbunden sind, sind diese Regelungen aufgrund Sachzusammengangs 
@@ -530,18 +481,14 @@ VI.
 Vereinbarkeit mit dem Recht der Europäischen Union und völkerrechtlichen Verträgen 
 Dieses Gesetz ändert die Ausgestaltung der CO2-Bepreisung im nationalen Brennstoffemissionshandelssystem 
 nach dem BEHG für das Jahr 2027 und konkretisiert in diesem Zusammenhang insbesondere die Veräußerung 
-von Emissionszertifikaten in dem für das Jahr 2027 fortgesetzten sogenannten Preiskorridor. Das nationale Brenntoffemissionshandelssystem leistet einen wesentlichen Beitrag zur Erfüllung der Verpflichtungen, die sich aus 
+von Emissionszertifikaten in dem für das Jahr 2027 fortgesetzten sogenannten Preiskorridor. Das nationale Brennstoffemissionshandelssystem leistet einen wesentlichen Beitrag zur Erfüllung der Verpflichtungen, die sich aus 
 der Europäischen Klimaschutzverordnung für die Bundesrepublik Deutschland ergeben. Durch die mit diesem 
 Gesetz ebenfalls geänderte BEHV werden zudem die jährlichen nationalen Emissionsmengen für die Jahre 2026 
 bis 2030 auf Basis der unter der Europäischen Klimaschutzverordnung neu festgelegten Mengen korrigiert. 
-Schließlich wird für den nationalen Brennstoffemissionshandel die auf europäischer Ebene beschlossene Verchiebung des Starts der Abgabephase im EU-ETS 2 um ein Jahr auf das Jahr 2028 nachvollzogen. So wird die 
+Schließlich wird für den nationalen Brennstoffemissionshandel die auf europäischer Ebene beschlossene Verschiebung des Starts der Abgabephase im EU-ETS 2 um ein Jahr auf das Jahr 2028 nachvollzogen. So wird die 
 um ein Jahr verlängerte Übergangsphase von der nationalen in die europäische CO2-Bepreisung von Brennstoffemissionen näher ausgestaltet. Vor diesem Hintergrund ist dieses Gesetz mit dem Recht der Europäischen Union 
-
 === PAGE : 16 ===
  
-Drucksache 21/7869 
-– 16 – 
-Deutscher Bundestag – 21. Wahlperiode
 vereinbar und schafft eine sachgerechte Regelung der Überhangsphase aus dem nationalen Brennstoffemissionshandelssystem in den europäischen EU-ETS 2. 
 Der Anwendungsbereich völkerrechtlicher Verträge wird durch diese Rechtsverordnung nicht berührt. 
 VII. 
@@ -551,7 +498,7 @@ Rechts- und Verwaltungsvereinfachung
 Hinsichtlich der Rechts- und Verwaltungsvereinfachung wird auf die Begründung zum BEHG-Stammgesetz, 
 Bundestagsdrucksache 19/14746, verwiesen. Hervorzuheben sind ungeachtet dessen die Vereinfachungen sowohl 
 für Unternehmen als auch für die zuständige Behörde, die mit den Änderungen der BEDV durch Artikel 3 dieses 
-Gesetzes bewirkt werden, da über die danach künftig geltende Einsatznachweisfiktion für eingelagerte Brenntoffmengen bei fortgesetztem Anlagenbetrieb die für alle Beteiligten aufwändige Nachverfolgung kompensierter 
+Gesetzes bewirkt werden, da über die danach künftig geltende Einsatznachweisfiktion für eingelagerte Brennstoffmengen bei fortgesetztem Anlagenbetrieb die für alle Beteiligten aufwändige Nachverfolgung kompensierter 
 Einlagerungsmengen beendet und zugleich Rechtssicherheit geschaffen wird. 
 2. 
 Nachhaltigkeitsaspekte 
@@ -581,12 +528,8 @@ setzt Anpassungen des Veräußerungsverfahrens für das Jahr 2027 durch die Vers
 Kosten, die dem Bund aus der Durchführung der Versteigerungsverfahren entstehen und die nicht durch Gebühren 
 gedeckt sind, werden durch die Erlöse aus der Veräußerung von Emissionszertifikaten nach dem BEHG gedeckt: 
 Etwaige zusätzliche Haushaltsausgaben im Be-reich der für den Vollzug zuständigen Behörde müssen ausgehend 
-
 === PAGE : 17 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 17 – 
-Drucksache 21/7869
 vom Refinanzierungs-grundsatz nach § 10 Absatz 4 BEHG durch Erlöse aus der Veräußerung von Emissions-
 zertifikaten oder durch die Erhebung von Gebühren und Auslagen gedeckt werden. Die geplanten Regelungen 
 haben keine Auswirkungen auf die Haushalte der Länder und Kommunen. 
@@ -599,7 +542,7 @@ Der Gesetzentwurf richtet sich ausschließlich an die Wirtschaft und die Verwalt
 Durch die in diesem Gesetz vorgesehenen Änderungen des BEHG und der auf dessen Grundlage erlassenen Verordnungen verringert sich der Erfüllungsaufwand für die Wirtschaft gegenüber den Abschätzungen zum bisherigen nationalen Brennstoffemissionshandel ab dem Berichtsjahr 2028 um ca. 794.000 Euro. 
 Dabei entsteht durch die vorgesehenen Änderungen des BEHG und der BEHV kein neuer, über das bislang geltende BEHG in seiner durch Artikel 2 des TEHG-Europarechtsanpassungsgesetzes 2024 vom 27. Februar 2025 
 (BGBl. 2025 I Nr. 70) geänderten Fassung und die Zweite Verordnung zur Änderung der Brennstoffemissionshandelsverordnung vom 11. September 2025 (BGBl. 2025 I Nr. 209) hinausgehender Erfüllungsaufwand für die 
-Wirtschaft. Die in Artikel 1 dieses Gesetzes geregelte Fortsetzung des bereits für das Jahr 2026 geltenden Preiskorridors auch für das Jahr 2027 und die darauf bezogenen Anpassungen der BEHV durch Artikel 2 dieses Geetzes ermöglichen, ganz ungeachtet derselben Mindestpreise und Höchstpreise, eine Weiterführung der für den 
+Wirtschaft. Die in Artikel 1 dieses Gesetzes geregelte Fortsetzung des bereits für das Jahr 2026 geltenden Preiskorridors auch für das Jahr 2027 und die darauf bezogenen Anpassungen der BEHV durch Artikel 2 dieses Gesetzes ermöglichen, ganz ungeachtet derselben Mindestpreise und Höchstpreise, eine Weiterführung der für den 
 bereits eingerichteten Vollzug des Preiskorridors etablierten Prozesse zur Versteigerung und sonstigen Veräußerung von Emissionszertifikaten. Bereits die Änderungen der BEHV zur Einführung der Regelungen über einen 
 Preiskorridor durch die Zweite Verordnung zur Änderung der Brennstoffemissionshandelsverordnung vom 
 11. September 2025 (BGBl. 2025 I Nr. 209) hatten keinen über die Stammverordnung und die Erste Verordnung 
@@ -610,7 +553,7 @@ nach der BEDV auch über das Berichtsjahr 2027 hinaus bis einschließlich zu dem
 Auf der Basis der Abschätzungen zu Fallzahlen, internem Aufwand und Sachaufwand wurde unter der BEDV-
 Stammverordnung für die Antragstellung zur BEDV-Kompensation für den Zeitraum 2021-2030 ein jährlicher 
 Erfüllungsaufwand für die Wirtschaft von insgesamt etwa 750.000 Euro abgeschätzt. Unter Berücksichtigung 
-angehobener Stundensätze wird der jährliche Erfüllungsaufwand für die Wirtschaft heute bei 794.000 Euro beziffert bei grundsätzlich unveränderten Fallzahlen. Durch die nach Artikel 3 dieses Gesetzes vorgesehene Beendigung der Doppelbilanzierungskompensation ab dem Berichtsjahr 2028 fällt dieser durch den nationalen Brenntoffemissionshandel verursachte Erfüllungsaufwand für die Wirtschaft ab diesem Jahr weg. Zudem reduziert sich 
+angehobener Stundensätze wird der jährliche Erfüllungsaufwand für die Wirtschaft heute bei 794.000 Euro beziffert bei grundsätzlich unveränderten Fallzahlen. Durch die nach Artikel 3 dieses Gesetzes vorgesehene Beendigung der Doppelbilanzierungskompensation ab dem Berichtsjahr 2028 fällt dieser durch den nationalen Brennstoffemissionshandel verursachte Erfüllungsaufwand für die Wirtschaft ab diesem Jahr weg. Zudem reduziert sich 
 durch die Änderungen der BEDV nach Artikel 3 dieses Gesetzes die Belastung für die Wirtschaft – und ebenso 
 auch für die Verwaltung – im Zuge von Fristverlängerungsverfahren und Rückforderungsverfahren. Da Fristverlängerungsanträge und Rückforderungsverfahren jeweils nur im Rahmen der Sondersituationen des „nicht-rechtzeitigen“ Einsatzes von Brennstoffen entstehen, deren Auftreten oder Häufigkeit vorab nicht einschätzbar war, 
 wurde der hieraus außerhalb des Regelverfahrens resultierende Sonderaufwand in der Erfüllungsaufwandabschätzung zur BEDV nicht berücksichtigt, so dass die spezifische Entlastungswirkung bezüglich der Fristverlängerungsverfahren und Rückforderungsverfahren nicht bezifferbar ist; die Änderungen führen jedoch auch insoweit 
@@ -618,22 +561,18 @@ in jedem Fall zu einer weiteren Aufwandsreduzierung. Es wird im Zusammenhang mit
 insgesamt darauf hingewiesen, dass zur Kompensation doppelt bilanzierter Brennstoffemissionen unter dem ab 
 dem Berichtsjahr 2028 an die Stelle des nationalen Brennstoffemissionshandels tretenden EU-ETS 2 ein vergleichbarer Kompensationsmechanismus unter dem europäischen Financial Compensation Implementation Act 
 zum EU-ETS 2 geplant ist, der jedoch dementsprechend nicht mehr im System des nationalen Brennstoffemissionshandels verankert sein wird. 
-
 === PAGE : 18 ===
  
-Drucksache 21/7869 
-– 18 – 
-Deutscher Bundestag – 21. Wahlperiode
 4.3. Erfüllungsaufwand der Verwaltung 
 Durch die in diesem Gesetz vorgesehenen Änderungen des BEHG und der auf dessen Grundlage erlassenen Verordnungen verringert sich der Erfüllungsaufwand für die Verwaltung von Bund, Ländern und Kommunen gegenüber den Abschätzungen zum bisherigen nationalen Brennstoffemissionshandel ab dem Berichtsjahr 2028 um ca. 
 2,18 Millionen Euro. 
 Dabei entsteht durch die vorgesehenen Änderungen des BEHG und der BEHV für die Verwaltung kein neuer, 
 über das bislang geltende BEHG in seiner durch Artikel 2 des TEHG-Europarechtsanpassungsgesetzes 2024 vom 
-27. Februar 2025 (BGBl. 2025 I Nr. 70) geänderten Fassung und die Zweite Verordnung zur Änderung der Brenntoffemissionshandelsverordnung vom 11. September 2025 (BGBl. 2025 I Nr. 209) hinausgehender Erfüllungsaufwand. 
+27. Februar 2025 (BGBl. 2025 I Nr. 70) geänderten Fassung und die Zweite Verordnung zur Änderung der Brennstoffemissionshandelsverordnung vom 11. September 2025 (BGBl. 2025 I Nr. 209) hinausgehender Erfüllungsaufwand. 
 Hintergrund für die Reduzierung des Erfüllungsaufwands für die Wirtschaft ab dem Berichtsjahr 2028 ist auch 
 hier das in Artikel 3 dieses Gesetzes geregelte Entfallen der Doppelbilanzierungskompensation im nationalen 
 Brennstoffemissionshandel ab dem Berichtsjahr 2028. Für die Verwaltung wurde unter der BEDV-Stammverordnung für die Antragstellung zur BEDV-Kompensation für den Zeitraum 2021-2030 ein jährlicher Erfüllungsaufwand für die Wirtschaft von insgesamt ca. 2,1 Millionen Euro abgeschätzt. Unter Berücksichtigung angehobener 
-Stundensätze wird der jährliche Erfüllungsaufwand für die Wirtschaft heute bei etwa 2,18 Millionen Euro beziffert bei grundsätzlich unveränderten Fallzahlen. Durch die nach Artikel 3 dieses Gesetzes vorgesehene Beendigung der Doppelbilanzierungskompensation ab dem Berichtsjahr 2028 fällt dieser durch den nationalen Brenntoffemissionshandel verursachte Erfüllungsaufwand für die Verwaltung ab diesem Jahr weg. Es wird im Zusammenhang mit Artikel 3 dieses Gesetzes insgesamt erneut darauf hingewiesen, dass zur Kompensation doppelt 
+Stundensätze wird der jährliche Erfüllungsaufwand für die Wirtschaft heute bei etwa 2,18 Millionen Euro beziffert bei grundsätzlich unveränderten Fallzahlen. Durch die nach Artikel 3 dieses Gesetzes vorgesehene Beendigung der Doppelbilanzierungskompensation ab dem Berichtsjahr 2028 fällt dieser durch den nationalen Brennstoffemissionshandel verursachte Erfüllungsaufwand für die Verwaltung ab diesem Jahr weg. Es wird im Zusammenhang mit Artikel 3 dieses Gesetzes insgesamt erneut darauf hingewiesen, dass zur Kompensation doppelt 
 bilanzierter Brennstoffemissionen unter dem ab dem Berichtsjahr 2028 an die Stelle des nationalen Brennstoffemissionshandels tretenden EU-ETS 2 ein vergleichbarer Kompensationsmechanismus unter dem europäischen 
 Financial Compensation Implementation Act zum EU-ETS 2 geplant ist, der jedoch dementsprechend nicht mehr 
 im System des nationalen Brennstoffemissionshandels verankert sein wird. 
@@ -654,12 +593,8 @@ Förderung gleichwertiger Lebensverhältnisse zu erwarten sind.
 VIII. 
 Befristung; Evaluierung 
 Es ergeben sich keine Änderungen zum Stammgesetz. 
-
 === PAGE : 19 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 19 – 
-Drucksache 21/7869
 B. Besonderer Teil 
 Zu Artikel 1 (Änderung des Brennstoffemissionshandelsgesetzes) 
 Zu Nummer 1 (Inhaltsübersicht): 
@@ -673,10 +608,10 @@ Zu Nummer 4 (§ 10):
 Mit der Änderung in Absatz 2 Satz 4 wird auch für das Jahr 2027 die marktbasierte Preisbildung durch Versteigerung von Emissionszertifikaten in einem Preiskorridor von 55 bis 65 Euro angeordnet. Dieser Preiskorridor 
 entspricht dem bereits bislang für das Jahr 2026 geltenden Preisregelung. 
 In Absatz 3 wird mit der Änderung der Nummer 4 die Verordnungsermächtigung zur Regelung der Preisbildung 
-im nationalen Brennstoffemissionshandel für den Zeitraum nach Inkrafttreten des europäischen Brennstoffemisionshandels („EU-ETS 2“) gemäß Kapitel IVa der EU-Emissionshandelsrichtlinie angepasst: Zunächst wird mit 
+im nationalen Brennstoffemissionshandel für den Zeitraum nach Inkrafttreten des europäischen Brennstoffemissionshandels („EU-ETS 2“) gemäß Kapitel IVa der EU-Emissionshandelsrichtlinie angepasst: Zunächst wird mit 
 der Änderung des zeitlichen Bezugs der Nummer 4 auf die Jahre ab 2028 der Verschiebung des Starts der CO2-
 Bepreisung im EU-ETS 2 um ein Jahr auf das Jahr 2028 durch Artikel 2 der Verordnung (EU) 2026/667 des 
-Europäischen Parlaments und des Rates vom 11. März 2026 zur Änderung der Verordnung (EU) 2021/1119 hinichtlich der Festlegung eines Klimazwischenziels der Union für 2040 (ABl. L 667 vom 18.3.2026, S. 1) Rechnung getragen; die Verordnungsermächtigung zur Preisregelung für im BEHG verbleibende Emissionsmengen 
+Europäischen Parlaments und des Rates vom 11. März 2026 zur Änderung der Verordnung (EU) 2021/1119 hinsichtlich der Festlegung eines Klimazwischenziels der Union für 2040 (ABl. L 667 vom 18.3.2026, S. 1) Rechnung getragen; die Verordnungsermächtigung zur Preisregelung für im BEHG verbleibende Emissionsmengen 
 gilt entsprechend erst für den Zeitraum ab dem Jahr 2028. Inhaltlich ermöglicht die Verordnungsermächtigung 
 weiterhin eine Anknüpfung des CO2-Preises im nationalen Brennstoffemissionshandel an den mengengewichteten Durchschnittspreis der Versteigerung von europäischen Emissionszertifikaten in dem jeweils vorletzten vorangegangenen Quartal. Die Streichung der bisherigen Nummer 5 trägt der bereits beschlossenen Verschiebung 
 des Starts der Bepreisung im EU-ETS 2 Rechnung, die mit diesem Änderungsgesetz zum BEHG nachvollzogen 
@@ -694,13 +629,10 @@ zusammenhängen. In der Anfangsphase des nationalen Brennstoffemissionshandels w
 der Startphase des nationalen Brennstoffemissionshandels noch externe, für viele Unternehmen belastende Fak
 === PAGE : 20 ===
  
-Drucksache 21/7869 
-– 20 – 
-Deutscher Bundestag – 21. Wahlperiode
 toren wie die Bewältigung der Auswirkungen der COVID-19-Pandemie sowie der Auswirkungen des Krieges 
-gegen die Ukraine unter anderem auf die Energieversorgung. Die zeitliche Begrenzung der Möglichkeit zur Festetzung einer reduzierten Zahlungspflicht und der Verzicht auf die Möglichkeit einer vollständigen Freistellung 
+gegen die Ukraine unter anderem auf die Energieversorgung. Die zeitliche Begrenzung der Möglichkeit zur Festsetzung einer reduzierten Zahlungspflicht und der Verzicht auf die Möglichkeit einer vollständigen Freistellung 
 von der Zahlungspflicht gewährleisten, dass die Wirksamkeit und Effektivität des nationalen Brennstoffemissionshandels und von dessen Klimaschutzwirkung nicht gefährdet werden.  
-Der ebenfalls neu eingefügte Absatz 1b ermöglicht es der zuständigen Behörde, im Zuge einer (erneuten) Festetzung einer Zahlungspflicht nach Absatz 1 oder Absatz 1a eine bereits vor Inkrafttreten der Änderungen in § 21 
+Der ebenfalls neu eingefügte Absatz 1b ermöglicht es der zuständigen Behörde, im Zuge einer (erneuten) Festsetzung einer Zahlungspflicht nach Absatz 1 oder Absatz 1a eine bereits vor Inkrafttreten der Änderungen in § 21 
 durch dieses Gesetz aufgrund der bislang geltenden Regelung zur Durchsetzung der Abgabepflicht festgesetzte 
 Zahlungspflicht zu widerrufen und eine auf diese Festsetzung hin von dem Verantwortlichen bereits geleistete 
 Zahlung zurückzuerstatten. 
@@ -725,7 +657,7 @@ angepasst.
 Zu Artikel 2 (Änderung der Brennstoffemissionshandelsverordnung) 
 Zu Nummer 2 (§ 3): 
 Mit den Änderungen des Jahresbezugs von dem Jahr 2026 auf die Jahre 2026 und 2027 sowie von 2027 auf 2028 
-in Absatz 3 Nummer 2 und 3 wird die durch dieses Gesetz für den nationalen Brennstoffemissionshandel umgeetzte Verschiebung des Beginns der Abgabephase im EU-ETS 2 auf das Jahr 2028 und die damit verbundene 
+in Absatz 3 Nummer 2 und 3 wird die durch dieses Gesetz für den nationalen Brennstoffemissionshandel umgesetzte Verschiebung des Beginns der Abgabephase im EU-ETS 2 auf das Jahr 2028 und die damit verbundene 
 Verlängerung des Preiskorridors nachvollzogen. 
 Zu Nummer 3 (§ 8): 
 Mit der Änderung des Jahresbezugs von dem Jahr 2027 auf 2028 in Absatz 3 wird die durch dieses Gesetz für den 
@@ -737,12 +669,8 @@ Gesetz geregelte Fortführung des BEHG-Preiskorridors über das Jahr 2026 hinaus
 Zu Nummer 5 (§ 11): 
 Mit dem neuen Absatz 1a wird eine Regelung zur Ermittlung der Gesamtversteigerungsmenge für das Jahr 2027 
 ergänzt. Die Ermittlung erfolgt analog zu dem Verfahren für das Jahr 2026, d. h. die Versteigerungsmenge des 
-
 === PAGE : 21 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 21 – 
-Drucksache 21/7869
 Jahres 2027 ergibt sich aus der festgelegten jährlichen Emissionsmenge (§ 44 Absatz 2), der jährlichen Erhöhungsmenge (§ 45) sowie einer Korrektur um den gemäß § 46 bereinigten Zusatzbedarf des Vorjahres. Da die 
 Basisdaten zur Ermittlung des Zusatzbedarfs für das Jahr 2026 erst Anfang 2028 in belastbarer Form vorliegen 
 werden, wird der Zusatzbedarf für das Jahr 2026 auf Basis der für 2025 vorliegenden Projektionsdaten in der neu 
@@ -783,9 +711,6 @@ Nachkauf von Zertifikaten des Jahres 2026 im Jahr 2027 wird auch für Zertifikat
 eines Nachkaufs im Jahr 2028 vorgesehen. Die Regelung trägt dem Umstand Rechnung, dass bei einzelnen Inverkehrbringern aufgrund unvorhersehbarer Verbrauchsschwankungen oder erst verspätet vorliegender Jahresab
 === PAGE : 22 ===
  
-Drucksache 21/7869 
-– 22 – 
-Deutscher Bundestag – 21. Wahlperiode
 rechnungen nachträglicher Zertifikatebedarf entstehen kann. Um sicherzustellen, dass die Nachkaufmöglichkeit 
 ausschließlich der Deckung eines solchen nachträglich entstandenen Bedarfs dient und nicht für eine strategische 
 Verschiebung von Nachfrage zwischen den Verkaufsjahren genutzt wird, ist wie im Vorjahr ein nochmaliger 
@@ -813,7 +738,7 @@ In Absatz 3 Nummer 2 erfolgt eine Klarstellung zum Verfahren der Bekanntmachung 
 Emissionsmengen. 
 In Absatz 4 wird mit der Änderung der Jahresbezüge die auf europäischer Ebene beschlossene Verschiebung des 
 Beginns der Abgabephase im EU-ETS 2 auf das Jahr 2028, die durch dieses Gesetz für den nationalen Brennstoffemissionshandel umgesetzt wird, nachvollzogen. Die Streichung des bisherigen letzten Satzes in Absatz 4 erfolgt 
-vor dem Hintergrund, dass für diese Sonderregelung nach der auf europäischer Ebene bereits beschlossenen Verchiebung des Beginns der Abgabephase im EU-ETS 2 auf das Jahr 2028 kein Bedarf mehr besteht. 
+vor dem Hintergrund, dass für diese Sonderregelung nach der auf europäischer Ebene bereits beschlossenen Verschiebung des Beginns der Abgabephase im EU-ETS 2 auf das Jahr 2028 kein Bedarf mehr besteht. 
 Zu Nummer 15 (§ 46): 
 Mit der Änderung des Jahresbezugs von dem Jahr 2026 auf das Jahr 2027 in den Absätzen 1 und 3 wird die durch 
 dieses Gesetz für den nationalen Brennstoffemissionshandel umgesetzte Verschiebung des Beginns der Abgabephase im EU-ETS 2 auf das Jahr 2028 nachvollzogen. 
@@ -822,22 +747,18 @@ Zu Nummer 1 (§ 1):
 Die jeweils redaktionelle Änderung in den Sätzen 1 und 2 des § 1 der BEDV erfolgt aufgrund des Gesetzes zur 
 Anpassung des Treibhausgas-Emissionshandelsgesetzes an die Änderung der Richtlinie 2003/87/EG (TEHG-Europarechtsanpassungsgesetz 2024), durch welches das bisher zitierte Treibhausgas-Emissionshandelsgesetz 2011 
 ersetzt wurde. 
-
 === PAGE : 23 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 23 – 
-Drucksache 21/7869
 Zu Nummer 2 (§ 2): 
 Die Änderung und resultierende Begrenzung der Abrechnungsjahre bis einschließlich 2027 folgt aus der Einführung eines europäischen Brennstoffemissionshandelssystem („EU-ETS 2“) durch die EU-Emissionshandelsrichtlinie 2003/87/EG und deren Umsetzung im TEHG. Nach § 7 Absatz 2 TEHG und § 56 TEHG unterliegen ab dem 
 Berichtsjahr 2028 in Verkehr gebrachte Brennstoffe einer Abgabepflicht in dem europäischen Brennstoffemissionshandelssystem. Nach § 24 Absatz 1 BEHG ist ab diesem ersten EU-ETS-2-berichtspflichtigen Jahr eine 
-gleichzeitige Entstehung von Berichts- und Abgabepflichten nach dem BEHG ausgeschlossen, entsprechend entteht ab dem Berichtsjahr 2028 auch keine neue Doppelbelastung derselben Brennstoffemissionen unter dem 
+gleichzeitige Entstehung von Berichts- und Abgabepflichten nach dem BEHG ausgeschlossen, entsprechend entsteht ab dem Berichtsjahr 2028 auch keine neue Doppelbelastung derselben Brennstoffemissionen unter dem 
 TEHG und dem BEHG. Die Abrechnungsjahre sind daher auf den Zeitraum bis einschließlich 2027 zu begrenzen. 
 Zu Nummer 3 (§ 4): 
 Bei der Änderung in Absatz 2 Nummer 1 (Streichung des Vollzitats der EU-Emissionshandelsverordnung) handelt es sich um eine redaktionelle Anpassung an die geänderten rechtsförmlichen Vorgaben zur Zitierung europarechtlicher Vorschriften.  
 Dasselbe gilt auch für die Änderung in Absatz 2 Nummer 2 (Streichung des Vollzitats der EU-Registerverordnung). Außerdem wird die Unzulässigkeitsbestimmung des Absatz 2 Nummer 2 für den Fall eines negativem 
 Erfüllungsstatuswerts des Vorjahres gestrichen zugunsten der Neuregelung in dem neuen Absatz 3. 
-Die Neuregelung in Absatz 3 übernimmt inhaltlich weitestgehend die Regelung der bisherigen und nunmehr getrichenen zweiten Alternative des bisherigen Absatz 2 Nummer 2. Hintergrund hierfür ist, dass durch die Änderung der EU-Emissionshandelsrichtlinie 2003/87/EG im Jahr 2023 und die Anpassung des Treibhausgas-Emissionshandelsgesetzes in 2025 das Ende der Abgabefrist nach § 7 TEHG auf den 30. September des auf das Berichtsjahr jeweils folgenden Kalenderjahres verschoben wurde. Da die Antragsfrist nach § 8 Absatz 1 dieser Verordnung jedoch bereits zum 31. Juli des auf das Berichtsjahr jeweils folgenden Kalenderjahres und damit vor dem 
+Die Neuregelung in Absatz 3 übernimmt inhaltlich weitestgehend die Regelung der bisherigen und nunmehr gestrichenen zweiten Alternative des bisherigen Absatz 2 Nummer 2. Hintergrund hierfür ist, dass durch die Änderung der EU-Emissionshandelsrichtlinie 2003/87/EG im Jahr 2023 und die Anpassung des Treibhausgas-Emissionshandelsgesetzes in 2025 das Ende der Abgabefrist nach § 7 TEHG auf den 30. September des auf das Berichtsjahr jeweils folgenden Kalenderjahres verschoben wurde. Da die Antragsfrist nach § 8 Absatz 1 dieser Verordnung jedoch bereits zum 31. Juli des auf das Berichtsjahr jeweils folgenden Kalenderjahres und damit vor dem 
 Ende der Abgabefrist abläuft, kann die Erfüllung der Abgabepflicht für das vorangegangene Kalenderjahr zum 
 Antragszeitpunkt noch kein Zulässigkeitskriterium darstellen. Die materiell weitgehend unveränderte Ausschlussregelung wird daher auf den späteren Zeitpunkt der Kompensationsgewährung verschoben, der nach Prüfung der 
 Antragsunterlagen regelmäßig erst nach dem Ablauf der Abgabefrist zum 30. September liegt, so dass der Kontostatus nach Ablauf der Abgabefrist des Abrechnungsjahres für die Kompensationsgewährung berücksichtigt 
@@ -854,16 +775,12 @@ Zeit gegeben, die Lagermenge abhängig von den betrieblichen, energiewirtschaftl
 insofern bereits wesentlich entbürokratisiert. Insbesondere wird in der Folge auch der Aufwand für mögliche 
 Rückforderungsverfahren wesentlich verringert, da Rückforderungsgründe nur einmalig mit Ablauf des gesamten 
 Abrechnungszeitraums zu prüfen sind. Diese Erleichterung ist zudem sinnvoll, da weitestgehend vermieden wird, 
-dass Rückforderungsverfahren allein wegen Zeitablaufs einzuleiten sind, obwohl sich die eingelagerte kompenierte Brennstoffmenge noch im Lager befindet und zu einem späteren Zeitpunkt auch noch in der Anlage eingeetzt werden kann.  
-
+dass Rückforderungsverfahren allein wegen Zeitablaufs einzuleiten sind, obwohl sich die eingelagerte kompensierte Brennstoffmenge noch im Lager befindet und zu einem späteren Zeitpunkt auch noch in der Anlage eingesetzt werden kann.  
 === PAGE : 24 ===
  
-Drucksache 21/7869 
-– 24 – 
-Deutscher Bundestag – 21. Wahlperiode
 Die Neufassung von Satz 3 regelt das Verfahren für das letzte Abrechnungsjahr 2027 des nationalen Brennstoffemissionshandelssystems. Die Begrenzung auf Einsatzmengen im letzten Abrechnungsjahr unter dem BEHG 
 ermöglicht eine klare Stichtagsregelung und einen klaren Lagerendbestand für betroffene Anlagenbetreiber zum 
-Ende des nationalen Brennstoffemissionshandels für die betreffenden Anlagen. Dies ist geeignet, Anlagenbetreiber zu motivieren, bestehende Einlagerungsmengen nicht mehr zu erhöhen, und gewährleistet somit eine Anchlussfähigkeit an das europäische Brennstoffemissionshandelssystem (EU-ETS 2). Im Zusammenspiel mit der 
+Ende des nationalen Brennstoffemissionshandels für die betreffenden Anlagen. Dies ist geeignet, Anlagenbetreiber zu motivieren, bestehende Einlagerungsmengen nicht mehr zu erhöhen, und gewährleistet somit eine Anschlussfähigkeit an das europäische Brennstoffemissionshandelssystem (EU-ETS 2). Im Zusammenspiel mit der 
 Neuregelung des Satzes 2 wird eine klare Stichtagsbetrachtung für den zum Jahreswechsel auf 2028 anstehenden 
 Wechsel in den EU-ETS 2 ermöglicht. Nach den im Zeitpunkt der Änderung dieser Verordnung bekannten Planungen für einen europäischen Financial Compensation Implementation Act zum EU-ETS 2 soll der Doppelbilanzierungskompensationsmechanismus im EU-ETS nicht auf Liefermengen und damit verbundene und unter 
 Vorbehalt kompensierte Lagermengen, sondern auf Einsatzmengen Bezug nehmen. Vor dem Hintergrund dieser 
@@ -888,7 +805,7 @@ des Einsatznachweises kein relevantes Tatbestandsmerkmal mehr. Die Änderung des
 Der neue Absatz 2 dient der Vollzugsvereinfachung mit Blick auf den Übergang in das europäische Brennstoffemissionshandelssystem und vermeidet eine langwährende Folgeüberwachung für Anlagenbetreiber und zuständige Behörde, obwohl ein Einsatz verbleibender Kompensationsmengen in der emissionshandelspflichtigen Anlage mittelfristig höchstwahrscheinlich ist. Absatz 2 sieht zu diesem Zwecke eine Fiktionsregelung vor, nach der 
 bei Vorliegen der dort genannten Bedingungen ein Einsatznachweis als erbracht gilt, und verzichtet insoweit auf 
 einen detaillierten Nachweis der Einsatzmengen zu Gunsten einer pauschalisierten Annahme beim Fortbetrieb der 
-emissionshandelspflichtigen Anlage bis zum 31. Dezember 2028. Die Einsatznachweisfiktion beendet bei fortgeetztem Anlagenbetrieb bis zu diesem Stichtag die für alle Beteiligten aufwändige Nachverfolgung kompensierter 
+emissionshandelspflichtigen Anlage bis zum 31. Dezember 2028. Die Einsatznachweisfiktion beendet bei fortgesetztem Anlagenbetrieb bis zu diesem Stichtag die für alle Beteiligten aufwändige Nachverfolgung kompensierter 
 Einlagerungsmengen und schafft Rechtssicherheit. Durch die in den Nummern 1 bis 3 genannten Bedingungen 
 wird die der Fiktionsregelung zugrundeliegende Einsatzannahme zusätzlich geschützt: Nummer 1 stellt sicher, 
 dass die Anlage nicht bis zum Ablauf des 31. Dezember 2028 stillgelegt wird und somit zum 1. Januar 2029 noch 
@@ -896,12 +813,8 @@ emissionshandelspflichtig ist. Nummer 2 stellt sicher, dass die Anlage bis zu di
 betrieben wird und somit auch ein Einsatz von Brennstoffen erfolgt. Nummer 3 stellt sicher, dass die bereits kompensierten Brennstoffmengen die Anlage nicht zwischenzeitlich verlassen und zu anderen Zwecken verwendet 
 werden, beispielsweise durch Verkauf bzw. Lieferung der Brennstoffmenge durch den Anlagenbetreiber an einen 
 Dritten oder Abgabe an Anlagen, die nicht dem EU-Emissionshandel unterliegen. 
-
 === PAGE : 25 ===
  
-Deutscher Bundestag – 21. Wahlperiode 
-– 25 – 
-Drucksache 21/7869
 Zu Nummer 8 (§ 11): 
 Mit dem Start des EU-ETS 2 unterliegen ab dem Berichtsjahr 2028 in Verkehr gebrachte Brennstoffe einer Berichts- und Abgabepflicht unter dem europäischen Brennstoffemissionshandelssystem (EU-ETS 2) gemäß den 
 Vorschriften des TEHG. Nach § 24 Absatz 1 BEHG ist ab diesem ersten EU-ETS-2-abgabepflichtigen Jahr eine 
@@ -916,7 +829,6 @@ Für die Inkrafttretensregelung des § 12 besteht kein Bedarf mehr.
 Zu Artikel 4 (Inkrafttreten): 
 Artikel 4 regelt das Inkrafttreten dieses Gesetz am Tag nach seiner Verkündung.
  
-
 === PAGE : 26 ===
 
 === PAGE : 27 ===
@@ -925,4 +837,3 @@ Artikel 4 regelt das Inkrafttreten dieses Gesetz am Tag nach seiner Verkündung.
 Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
 Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
 ISSN 0722-8333
-

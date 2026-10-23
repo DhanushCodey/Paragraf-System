@@ -1,7 +1,4 @@
 === PAGE : 1 ===
-Deutscher Bundestag 
-Drucksache 21/8622 
-21. Wahlperiode
 14.10.2026 
 Beschlussempfehlung und Bericht 
 des Innenausschusses (4. Ausschuss) 
@@ -33,12 +30,7 @@ wurf mit einer Maßgabe zu den Inkrafttretensbestimmungen abzuändern.
 Annahme des Gesetzentwurfs in geänderter Fassung mit den Stimmen der 
 Fraktionen CDU/CSU, SPD und BÜNDNIS 90/DIE GRÜNEN gegen die 
 Stimmen der Fraktion der AfD bei Stimmenthaltung der Fraktion Die Linke. 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 2 ===
-Drucksache 21/8622 
-– 2 – 
-Deutscher Bundestag – 21. Wahlperiode
 Annahme einer Entschließung mit den Stimmen der Fraktionen der 
 CDU/CSU und SPD gegen die Stimmen der Fraktion der AfD bei Stimment-
 haltung der Fraktionen BÜNDNIS 90/DIE GRÜNEN und Die Linke.  
@@ -75,12 +67,7 @@ E.1 Erfüllungsaufwand für Bürgerinnen und Bürger
 Siehe Ausführungen unter Abschnitt E. 
 E.2 Erfüllungsaufwand für die Wirtschaft 
 Siehe Ausführungen unter Abschnitt E. 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 3 ===
-Deutscher Bundestag – 21. Wahlperiode 
-– 3 – 
-Drucksache 21/8622
 E.3 Erfüllungsaufwand der Verwaltung 
 Für die Verwaltung entsteht durch die gesetzliche Änderung ein laufender Erfül-
 lungsaufwand in Höhe von ca. 20,5 Millionen Euro und ein einmaliger Erfül-
@@ -88,12 +75,7 @@ lungsaufwand in Höhe von ca. 10 Millionen Euro auf Ebene der Bundesverwal-
 tung. 
 F. Weitere Kosten 
 Keine. 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 4 ===
-Drucksache 21/8622 
-– 4 – 
-Deutscher Bundestag – 21. Wahlperiode
 Beschlussempfehlung 
 Der Bundestag wolle beschließen, 
 a) 
@@ -145,12 +127,7 @@ satz kommen. In solchen Komponenten können versteckte Hintertüren ein-
 gebaut sein, die es ermöglichen können, den Datenverkehr unbemerkt zu 
 überwachen oder abzufangen. Außerdem besteht die Gefahr, dass auf solche 
 Komponenten aus der Ferne zugegriffen werden kann. Sind solche Kompo-
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 5 ===
-Deutscher Bundestag – 21. Wahlperiode 
-– 5 – 
-Drucksache 21/8622
 nenten erst einmal tief in einem System verbaut, wäre ihr Austausch nicht 
 nur technisch herausfordernd, sondern vor allem teuer. Daher muss der 
 Markt möglichst effektiv überwacht werden.  
@@ -185,12 +162,7 @@ zeitig auch deutsche und europäische Hersteller zu stärken, zum Beispiel in
 den Bereichen Heimrouter und Energieanlagen.“ 
  
  
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 6 ===
-Drucksache 21/8622 
-– 6 – 
-Deutscher Bundestag – 21. Wahlperiode
 Berlin, den 14. Oktober 2026 
 Der Innenausschuss 
 Josef Oster 
@@ -205,12 +177,7 @@ Jeanne Dillschneider
 Berichterstatterin 
 Jan Krampe 
 Berichterstatter 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 7 ===
-Deutscher Bundestag – 21. Wahlperiode 
-– 7 – 
-Drucksache 21/8622
 Bericht der Abgeordneten Marc Henrichmann, Steffen Janich, Johannes Schätzl, 
 Jeanne Dillschneider und Jan Krampe 
 I. 
@@ -250,12 +217,7 @@ bei Stimmenthaltung der Fraktionen BÜNDNIS 90/DIE GRÜNEN und Die Linke angenom
 IV. Begründung 
 1. Begründung zum Änderungsantrag 
 Zu Artikel 4 Nummer 1 und Nummer 2 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 8 ===
-Drucksache 21/8622 
-– 8 – 
-Deutscher Bundestag – 21. Wahlperiode
 Die Änderung ist aufgrund des zeitlichen Fortgangs des Gesetzgebungsverfahrens erforderlich. Die bislang vor-
 gesehene Anknüpfung an den 11. Juni bzw. 11. September 2026 ist durch Zeitablauf gegenstandlos geworden. 
 Die Regelungen finden damit ab ihrem Inkrafttreten Anwendung.  
@@ -307,12 +269,7 @@ nach der Cyberresilienz-Verordnung wahrnehmen könne. Wichtig sei auch, dass die
 Marktüberwachungsbehörde, notifizierende Behörde und Meldestelle gebündelt würden, um die Fachkompetenz 
 zusammenzuführen. Die vorgesehene Unterstützung kleiner und mittlerer Unternehmen sei von besonderer Be-
 deutung, denn mit der Verordnung gehe ein großer Aufwand für die Wirtschaft einher. Positiv hervorzuheben sei 
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
 === PAGE : 9 ===
-Deutscher Bundestag – 21. Wahlperiode 
-– 9 – 
-Drucksache 21/8622
 zudem das Reallabor für Cyberresilienz, in dem Hersteller die Möglichkeiten erhielten, neue Produkte zu testen. 
 Sie äußert Kritik an der fehlenden Möglichkeit zur Verhängung von Bußgeldern gegen öffentliche Stellen, dies 
 sei nur gegen die Privatwirtschaft möglich. Auch komme die Verordnung insgesamt zu spät. Sie vertritt die Auf-
@@ -355,5 +312,3 @@ Berichterstatterin
 Jan Krampe 
 Berichterstatter 
  
-Vorabfassung – wird durch die lektorierte Fassung ersetzt.
-
