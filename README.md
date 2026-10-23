@@ -1,5 +1,19 @@
 # Paragraf-System
 
+PURPOSE : The Bundestag published many big docx, and it hard for internatioanl students like me to get a gasp of with a minimal knowledge of german. So the RAG:Paragraf sys that, I build finds the answer and summarizes it, its a helper where user can ask Q:in english and sys gives A:in english while searching the German:Deutsch documents.
+
+RAG -> Retrival Augmented Generation
+
+Retrival : Searching the exact chunk that matches the user question.
+Augmented : Adding those chunks in prmpt as the background context.
+Generation : passing the asnwer and questioning the llm.
+
+RAG-Pipline
+- Data Prep
+- Chunking / Segmentation
+- Embedding / Vector Embeddings / making them into numbers
+- Storage
+
 PyMuPDF : is a highly efficient Python library used for extracting, analyzing, rendering, and manipulating PDFs and other document formats.
 
 nano .gitignore
@@ -51,3 +65,6 @@ feature_occ.py
     - and store the entire list in the Counter() -> collection
         -  basically counts how the words ocurrence. in a dict data_type
    - return the keys:words and values:counts
+
+<------------------DATA PREPARATION ENDS HERE----------------------------------->
+
