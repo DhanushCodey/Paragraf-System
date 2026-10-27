@@ -68,3 +68,39 @@ feature_occ.py
 
 <------------------DATA PREPARATION ENDS HERE----------------------------------->
 
+<-----------------------CHUNKING------------------------------------------------>
+The next step in building a RAG-Model
+Chunking : Beaking down the larger text into smaller bit text, so an AI can understand it easily.
+
+chunk.py
+    
+    - chunking()
+        - takes the files and passes it to the clean_lines.py/clean_line(path)
+        - creates a empty-list chunk[] : list of dict
+        - loops the processed file with idx and page
+        - splits the pages into text or words using .split() = words
+        - now loops the start index with skip_value of 150 because over lap can be 50 words
+          - (0, 200), (150, 350), (300, 500).....<overlap is 50 words>
+        - next the piece = [start:start+200] where it stores the text from 0 to 200 and then 150 to 350
+        - store those chunk_words in text with a space of using " ".join(piece)
+          - simple words we split the words using .split() now making again this a sentence using " ".join(...)
+        - store this in the chunk list in from of dict with values
+          - doc : path_name
+          - page_id : page_number using loop
+          - chunk_id : looping the dicts
+          - chunk : the unsplited final chunk
+
+    - main()
+      - create a folder of data/JSON if it exist ignores
+      - passes all the .pdf files to chunk.py
+      - creates a empty list all_chunk[]
+      - then loops all the file to chunking() and store it in the all_chunks() using .extend()
+      - creats the file unique chunk_id by looping all_chunk
+      - then opens the .json file and dumps all_chunks into the .json file using .dump()
+        - f.write(json.dumps(chunk, ensure_ascii=False), "\n") 
+          - ensure_ascii=False -> python keeps all the spl char
+          - "/n" -> to paste dict in a new line
+      - pints the total_length of the all_chunks list
+
+<--------------------------EMBEDDING------------------------------------------------>
+
