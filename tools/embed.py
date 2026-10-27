@@ -1,4 +1,4 @@
-from sentence_transformers import SentenceTransformer, util
+from sentence_transformers import SentenceTransformer
 import json
 import sys
 import numpy as np
@@ -7,7 +7,7 @@ from pathlib import Path
 model = SentenceTransformer("intfloat/multilingual-e5-small")
 
 
-def embeddings(path):
+def embed_chunk(path):
     chunks = []
     with open(Path(path), encoding="utf-8") as file:
         for line in file:
@@ -30,6 +30,7 @@ if __name__ == "__main__":
     path = Path(sys.argv[1])
     if not path.exists():
         raise FileNotFoundError(f"The specified path {path} does not exist")
-    else:
-        vector = embeddings(path)
-        np.save("data/embeddings/embedding.npy", vector)
+    
+    vector = embed_chunk(path)
+    np.save("data/embeddings/embedding.npy", vector)
+    print(f"Saved {vector.shape} in data/embeddings/embedding.npy")
