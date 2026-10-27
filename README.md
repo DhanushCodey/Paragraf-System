@@ -104,3 +104,36 @@ chunk.py
 
 <--------------------------EMBEDDING------------------------------------------------>
 
+
+
+<--------------------------TESTING-------------------------------------------------->
+key rules:
+- test fun should be inside tests/ folder
+- using pytest for testing file
+- every function must start with test
+
+  - test_embed.py: used to test the transformer model <intfloat/multilingual-e5-small>
+    - GOAL : to test wheather the model is giving good embeddings
+
+      - pytest.fixture : 
+            - data delivery truck, to set exact type of data, tools or model that i wanna use
+            - not a test itself
+            - helper function that creates a result. 
+            - You can then reuse that exact result across any test function inside that same test script.
+
+      - pytest.fixture(scope="module")
+            - remember the 3rd point above
+            - so pytest calls every time the fixture if the value is called by any test-function inside the script.
+            - if scope="module" is decalred it is catches the result in memory ram/cache.
+            - and it can be reused again and again
+
+    - import the pytest and (SentenceTransformer, util) from sentence_transformers 
+    - declaring fixture function that return embedding<encode>
+
+    - test_embedding_shape(embedding):
+            - create the embedding.shape and asserts the result with expectation
+
+    - test_cosine_similarity(embedding):
+            - create the cosine of embedding and asserts the expected values to be true.
+
+    
