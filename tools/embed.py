@@ -13,7 +13,7 @@ def embed_chunk(path):
         for line in file:
             chunks.append(json.loads(line))
 
-    text = ["passage : " + c["text"] for c in chunks]
+    text = ["passage: " + c["text"] for c in chunks]
 
     embeddings = model.encode(
         text, normalize_embeddings=True, show_progress_bar=True)
