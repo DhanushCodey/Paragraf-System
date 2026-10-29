@@ -6,7 +6,7 @@ model = SentenceTransformer("intfloat/multilingual-e5-small")
 
 # Retrival in RAG goal is to find the most convincing chunk that solves the user question.
 
-def search_the_chunk():
+def load_data():
 
     embeddings = np.load("data/embeddings/embedding.npy")
     chunks = []
@@ -15,10 +15,13 @@ def search_the_chunk():
         for line in file:
             chunks.append(json.loads(line))
 
-    return chunks
+    return embeddings ,chunks
+
+def search(question ,embeddings, chunk, k = 5):
+    n_que = model.encode("query: " + question, normalize_embeddings=True)
+
+    return n_que
 
 
 if __name__ == "__main__":
-    json_file = search_the_chunk()
-
-    print(json_file)
+    pass
