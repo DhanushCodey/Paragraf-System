@@ -18,9 +18,9 @@ def load_data():
     return embeddings ,chunks
 
 def search(question ,embeddings, chunk, k = 5):
-    n_que = model.encode("query: " + question, normalize_embeddings=True)
-
-    return n_que
+    q_vec = model.encode("query: " + question, normalize_embeddings=True)
+    
+    return q_vec
 
 
 if __name__ == "__main__":
