@@ -10,13 +10,13 @@ model = SentenceTransformer("intfloat/multilingual-e5-small")
 def load_data():
 
     embeddings = np.load("data/embeddings/embedding.npy")
-    chunkss = []
+    chunks = []
 
     with open("data/JSON/chunk.jsonl", "r", encoding="utf-8") as file:
         for line in file:
-            chunkss.append(json.loads(line))
+            chunks.append(json.loads(line))
 
-    return embeddings ,chunkss
+    return embeddings ,chunks
 
 def search(question ,embeddings, chunks, k = 5):
     q_vec = model.encode("query: " + question, normalize_embeddings=True)
@@ -27,8 +27,8 @@ def search(question ,embeddings, chunks, k = 5):
 
     for i in top:
         result.append((score[i], chunks[i]))
+    
     return result
-
 
 if __name__ == "__main__":
     embeddings, chunks = load_data()
@@ -38,5 +38,3 @@ if __name__ == "__main__":
         print(f"{score:.3f} | {chunks["doc"]} | page {chunks["page"]}")
         print(chunks["text"][:200])
         print("-" * 60)
-
-    # print(type(result))
