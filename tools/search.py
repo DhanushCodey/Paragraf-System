@@ -16,6 +16,7 @@ def load_data():
         for line in file:
             chunks.append(json.loads(line))
 
+    print(len(chunks))
     return embeddings ,chunks
 
 def search(question ,embeddings, chunks, k = 5):
@@ -32,9 +33,9 @@ def search(question ,embeddings, chunks, k = 5):
 
 if __name__ == "__main__":
     embeddings, chunks = load_data()
-    result = search(sys.argv[1], embeddings, chunks)
+    # result = search(sys.argv[1], embeddings, chunks)
 
-    for score, chunks in result:
-        print(f"{score:.3f} | {chunks["doc"]} | page {chunks["page"]}")
-        print(chunks["text"][:200])
-        print("-" * 60)
+    # for score, chunks in result:
+    #     print(f"{score:.3f} | {chunks["doc"]} | page {chunks["page"]}")
+    #     print(chunks["text"][:200])
+    #     print("-" * 60)
