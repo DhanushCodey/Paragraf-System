@@ -18,7 +18,6 @@ def load_data():
         for line in file:
             chunks.append(json.loads(line))
 
-    print(len(chunks))
     return embeddings, chunks
 
 
@@ -43,3 +42,4 @@ if __name__ == "__main__":
         print(f"{score:.3f} | {chunks["doc"]} | page {chunks["page"]}")
         print(chunks["text"][:200])
         print("-" * 60)
+        
