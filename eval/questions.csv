@@ -1,0 +1,57 @@
+id,question,expected,doc,type
+1,"Welche Behörde ist die Marktüberwachungsbehörde nach der Cyberresilienz-Verordnung?","BSI",2106134.pdf,fact
+2,"Wann ist die Verordnung (EU) 2024/2847 in Kraft getreten?","10. Dezember 2024",2106134.pdf,fact
+3,"Ab wann wirken die Regelungen der Cyberresilienz-Verordnung vollständig?","11. Dezember 2027",2106134.pdf,fact
+4,"Wie viele Planstellen und Stellen benötigt das BSI bis 2029 für die neuen Aufgaben nach dem CRA-Durchführungsgesetz?","141",2106134.pdf,fact
+5,"Wofür entstehen beim BSI insbesondere die einmaligen Sachkosten von 10 Millionen Euro?","Reallabor",2106134.pdf,fact
+6,"Wie hoch ist der laufende Erfüllungsaufwand der Verwaltung durch das Gesetz zur Durchführung der Cyberresilienz-Verordnung?","20,5",2106134.pdf,fact
+7,"Welches Bundesministerium ist für den Gesetzentwurf zur Durchführung der Cyberresilienz-Verordnung federführend?","Innern",2106134.pdf,fact
+8,"Ab wann gelten die Vorschriften über die Meldepflicht nach Artikel 14 der Cyberresilienz-Verordnung?","11. September 2026",2106134.pdf,fact
+9,"Welcher durchschnittliche Lohnsatz pro Stunde wurde für die Bundesverwaltung bei der Berechnung des Erfüllungsaufwands angesetzt?","44,40",2106134.pdf,buried
+10,"Mit wie vielen Stunden Bearbeitungsaufwand je Meldung rechnet das BSI bei Meldungen über aktiv ausgenutzte Schwachstellen?","45",2106134.pdf,buried
+11,"Wie viele der neuen BSI-Stellen entfallen auf die Wertigkeit des höheren Dienstes?","68",2106134.pdf,buried
+12,"Wer hat das Schreiben der Bundesregierung zum Cyberresilienz-Gesetzentwurf an die Präsidentin des Deutschen Bundestages unterzeichnet?","Merz",2106134.pdf,buried
+13,"Wie hat der Bundesrat zum Gesetzentwurf zur Durchführung der Cyberresilienz-Verordnung Stellung genommen?","Einwendungen",2106512.pdf,fact
+14,"Welche Geräte soll das BSI laut Entschließung des Innenausschusses bei der Marktüberwachung vorrangig prüfen?","Router",2108622.pdf,fact
+15,"Welche Fraktion stimmte im Innenausschuss gegen den Gesetzentwurf zur Cyberresilienz-Verordnung?","AfD",2108622.pdf,fact
+16,"Welche Fraktion enthielt sich im Innenausschuss bei der Abstimmung über den Gesetzentwurf zur Cyberresilienz-Verordnung?","Linke",2108622.pdf,buried
+17,"Wie hoch ist der Preiskorridor für Emissionszertifikate im nationalen Brennstoffemissionshandel im Jahr 2027?","55",2107869.pdf,fact
+18,"Zu welchem Überschussmengenpreis werden Emissionszertifikate im Jahr 2026 verkauft?","68",2107869.pdf,fact
+19,"Auf welches Jahr wurde der Start der Abgabepflicht im europäischen Brennstoffemissionshandel EU-ETS 2 verschoben?","2028",2107869.pdf,fact
+20,"Seit welchem Jahr werden fossile Brennstoffemissionen in Deutschland mit einem CO2-Preis belegt?","2021",2107869.pdf,fact
+21,"Wann vereinbarte der Koalitionsausschuss von CDU, CSU und SPD, den CO2-Preis im Jahr 2027 stabil zu halten?","12. Mai 2026",2107869.pdf,fact
+22,"Um welchen Betrag verringert sich der Erfüllungsaufwand für die Wirtschaft ab dem Berichtsjahr 2028 durch die Änderung des Brennstoffemissionshandelsgesetzes?","794",2107869.pdf,buried
+23,"Welches Bundesministerium ist für das Dritte Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes federführend?","Umwelt",2107869.pdf,fact
+24,"Auf welchen Überschussmengenpreis für das Jahr 2027 hat der Umweltausschuss den Wert aus dem Regierungsentwurf abgesenkt?","71",2108626.pdf,buried
+25,"Auf welchen Wert soll der Standardwert für den Biomasseanteil im Restabfall laut Entschließung des Umweltausschusses erhöht werden?","57",2108626.pdf,buried
+26,"Wer ist Vorsitzender des Ausschusses für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit?","Beutin",2108626.pdf,buried
+27,"Wie viele Soldatinnen und Soldaten dürfen bei der deutschen Beteiligung an UNMISS insgesamt eingesetzt werden?","50",2108293.pdf,buried
+28,"Bis wann darf die Fortsetzung der deutschen Beteiligung an UNMISS längstens dauern?","31. Oktober 2027",2108293.pdf,fact
+29,"Wie hoch sind die einsatzbedingten Zusatzausgaben für die Fortsetzung der deutschen Beteiligung an UNMISS voraussichtlich insgesamt?","0,9",2108293.pdf,fact
+30,"Durch welche Resolution des VN-Sicherheitsrats wurde das UNMISS-Mandat zuletzt verlängert?","2820",2108293.pdf,fact
+31,"Auf welche Obergrenze hat der VN-Sicherheitsrat die Gesamttruppenstärke von UNMISS abgesenkt?","12.500",2108293.pdf,fact
+32,"Für wann sind die Wahlen in Südsudan angekündigt?","22. Dezember 2026",2108293.pdf,fact
+33,"Wer ist Vorsitzender des Auswärtigen Ausschusses?","Laschet",2108613.pdf,buried
+34,"Welche berufsständischen Organisationen für Pflegekräfte sollen laut Antrag auf Drucksache 21/1549 abgeschafft werden?","Pflegekammern",2101549.pdf,fact
+35,"Mit wie viel Geld wurde die Pflegeversicherung im Jahr 2023 für die Rentenversicherungsbeiträge pflegender Privatpersonen belastet?","3,7",2101549.pdf,buried
+36,"Was empfiehlt der Ausschuss für Gesundheit zum Antrag auf Drucksache 21/1549?","ablehn",2108609.pdf,fact
+37,"Welche Einkommensgrenze beim Elternunterhalt soll laut Antrag zur Reform der Pflegeversicherung beibehalten werden?","100.000",2108553.pdf,fact
+38,"Welcher Paragraf des BGB regelt laut Antrag die Rückforderung von Schenkungen bei Verarmung des Schenkers?","529",2108553.pdf,buried
+39,"Welche bayerischen Erdgasspeicher sollen laut Antrag zur Versorgungssicherheit nicht stillgelegt werden?","Breitbrunn",2108551.pdf,fact
+40,"Wie hoch war der Füllstand der Gasspeicher in Deutschland laut Antrag am 18. Mai 2026?","28,5",2108552.pdf,buried
+41,"Welches Land dient im Antrag zur Migrationsbilanz als Vorbild für eine Studie?","Dänemark",2108549.pdf,fact
+42,"In welcher Stadt fand der NATO-Gipfel im Juli 2026 statt?","Ankara",docs_3.pdf,fact
+43,"Wie viele Mitgliedstaaten hat die NATO?","32",docs_3.pdf,fact
+44,"Seit welchem Jahr gibt es die Parlamentarische Versammlung der NATO?","1955",docs_3.pdf,fact
+45,"Wie viele Sitze hat Deutschland in der Parlamentarischen Versammlung der NATO?","18",docs_3.pdf,fact
+46,"Wer leitet die deutsche Delegation in der Parlamentarischen Versammlung der NATO?","Völlers",docs_3.pdf,buried
+47,"In welchem Land ist die Panzerbrigade 45 dauerhaft stationiert?","Litauen",docs_3.pdf,buried
+48,"Wer hat die Fußball-WM 2014 gewonnen?","nicht in den Dokumenten",,none
+49,"Wie hoch ist der gesetzliche Mindestlohn in Deutschland im Jahr 2026?","nicht in den Dokumenten",,none
+50,"Wer ist der Oberbürgermeister von Passau?","nicht in den Dokumenten",,none
+51,"Wie viel kostet das Deutschlandticket?","nicht in den Dokumenten",,none
+52,"Wann wurde die Universität Passau gegründet?","nicht in den Dokumenten",,none
+53,"What is the CO2 price corridor for 2027?","55",2107869.pdf,english
+54,"Which authority is the market surveillance authority under the Cyber Resilience Act?","BSI",2106134.pdf,english
+55,"In which city did the NATO summit take place in July 2026?","Ankara",docs_3.pdf,english
+56,"Until when can the German participation in UNMISS last at most?","2027",2108293.pdf,english
