@@ -1,0 +1,57 @@
+id,type,retrieval_ok,answer_ok,answer
+1,fact,True,True,Die Marktüberwachungsbehörde nach der Cyberresilienz-Verordnung ist der Bundesamt für Sicherheit in der Informationstechnologie (BSI).
+2,fact,True,True,Die Verordnung (EU) 2024/2847 ist am 10. Dezember 2024 in Kraft getreten.
+3,fact,True,True,"Die Regelungen der Cyberresilienz-Verordnung wirken ab dem 11. Dezember 2027 vollständig. Dies steht in Quelle 2 (2106134.pdf, Seite: 1) und Quelle 3 (2106134.pdf, Seite: 12) sowie in Quelle 4 (2106134.pdf, Seite: 11) dokumentiert."
+4,fact,True,True,Das BSI benötigt bis 2029 insgesamt 141 Planstellen/Stellen für die neuen Aufgaben nach dem CRA-Durchführungsgesetz.
+5,fact,True,True,Die einmaligen Sachkosten von 10 Millionen Euro entstehen insbesondere für die Einrichtung eines Reallabors.
+6,fact,True,True,"Der laufende Erfüllungsaufwand der Verwaltung durch das Gesetz zur Durchführung der Cyberresilienz-Verordnung beträgt ca. 20,5 Millionen Euro."
+7,fact,True,True,Das Bundesministerium des Innern ist für den Gesetzentwurf zur Durchführung der Cyberresilienz-Verordnung federführend. (Quelle 1)
+8,fact,True,True,"Die Vorschriften über die Meldepflicht gemäß Artikel 14 der Cyberresilienz-Verordnung gelten ab dem 11. September 2026. (Quelle 1: 2106134.pdf, Seite: 22)"
+9,buried,True,True,"Der durchschnittliche Lohnsatz für die Bundesverwaltung wurde angesetzt bei 44,40 Euro pro Stunde. (Quelle 1, Quelle 2, Quelle 3)"
+10,buried,True,True,Das BSI rechnet bei Meldungen über aktiv ausgenutzte Schwachstellen mit einem Bearbeitungsaufwand von 45 Stunden pro Meldung. (Quelle 2)
+11,buried,True,True,68 Stellen entfallen auf die Wertigkeit des höheren Dienstes. Diese Information steht in Quelle 1 und Quelle 5.
+12,buried,True,True,Friedrich Merz hat das Schreiben der Bundesregierung zum Cyberresilienz-Gesetzentwurf an die Präsidentin des Deutschen Bundestages unterzeichnet. (Quelle 1)
+13,fact,True,True,Der Bundesrat hat gegen den Gesetzentwurf gemäß Artikel 76 Absatz 2 des Grundgesetzes keine Einwendungen erheben. (Quelle 2)
+14,fact,True,False,Diese Information steht nicht in den Dokumenten.
+15,fact,True,False,Diese Information steht nicht in den Dokumenten.
+16,buried,True,True,Die Fraktion Die Linke enthielt sich im Innenausschuss bei der Abstimmung über den Gesetzentwurf zur Cyberresilienz-Verordnung.
+17,fact,True,True,Der Preiskorridor für Emissionszertifikate im nationalen Brennstoffemissionshandel im Jahr 2027 beträgt 55 bis 65 Euro.
+18,fact,True,True,Im Jahr 2026 werden Emissionszertifikate im Überschussmengenpreis von 68 Euro pro Emissionszertifikat verkauft.
+19,fact,True,True,Der Start der Abgabepflicht im europäischen Brennstoffemissionshandel (EU-ETS 2) wurde auf das Jahr 2028 verschoben.
+20,fact,True,True,Fossile Brennstoffemissionen werden seit dem Jahr 2021 in Deutschland mit einem CO2-Preis belegt. (Quelle 1)
+21,fact,True,True,"Der Koalitionsausschuss von CDU, CSU und SPD vereinbart, den CO2-Preis im nationalen Brennstoffemissionshandel im Jahr 2027 stabil auf dem Niveau des Vorjahres zu halten. Diese Vereinbarung erfolgte am 12. Mai 2026."
+22,buried,True,False,"Der Erfüllungsaufwand für die Wirtschaft verringert sich ab dem Berichtsjahr 2028 um ca. 2,18 Millionen Euro für die Verwaltung."
+23,fact,True,True,"Das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit ist für das Dritte Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes federführend. (Quelle 1)"
+24,buried,True,False,Der Umweltausschuss hat den Überschussmengenpreis für das Jahr 2027 aus dem Regierungsentwurf um 2 Euro abgesenkt. Dies wurde in Artikel 2 Nummer 8 (§ 14 Satz 1 BEHV) der Begründung zu den Änderungen erwähnt.
+25,buried,True,True,"Die Entschließung des Umweltausschusses vorschlägt, den Standardwert für den Biomasseanteil im Restabfall auf 57 Prozent zu erhöhen."
+26,buried,True,True,Lorenz Gösta Beutin Vorsitzender (Quelle 1)
+27,buried,True,False,Diese Information steht nicht in den Dokumenten.
+28,fact,True,True,Die Fortsetzung der deutschen Beteiligung an UNMISS kann längstens bis zum 31. Oktober 2027 dauern.
+29,fact,True,True,"Die einsatzbedingten Zusatzausgaben für die Fortsetzung der deutschen Beteiligung an UNMISS werden für den Zeitraum 1. November 2026 bis 31. Oktober 2027 voraussichtlich insgesamt rund 0,9 Millionen Euro betragen. Diese Informationen stammen aus Quelle 1 (2108293.pdf, Seite: 3)."
+30,fact,True,True,Das UNMISS-Mandat wurde zuletzt durch die Resolution 2820 (2026) vom 30. April 2026 des Sicherheitsrats der Vereinten Nationen verlängert. (Quelle 5: Seite 2)
+31,fact,True,True,Der VN-Sicherheitsrat hat die Obergrenze der Gesamttruppenstärke von UNMISS von 17.000 auf 12.500 Soldatinnen und Soldaten abgesenkt.
+32,fact,True,True,Die Wahlen in Südsudan wurden für den 22. Dezember 2026 angekündigt. Dies steht in Quelle 1 und Quelle 2.
+33,buried,True,True,Der Vorsitzender des Auswärtigen Ausschusses ist Armin Laschet (Quelle 2).
+34,fact,True,False,Diese Information steht nicht in den Dokumenten.
+35,buried,True,True,"Die Pflegeversicherung wurde im Jahr 2023 für die Rentenversicherungsbeiträge pflegender Privatpersonen mit 3,7 Milliarden Euro belastet. (Quelle 1: 2101549.pdf, Seite: 6)"
+36,fact,True,False,"Der Ausschuss für Gesundheit empfiehlt, den Antrag auf Drucksache 21/1549 abzulehnen."
+37,fact,True,True,Die Einkommensgrenze von 100.000 Euro beim Elternunterhalt (§ 94 Abs. 1a SGB XII) soll beibehalten werden.
+38,buried,True,False,Diese Information steht nicht in den Dokumenten.
+39,fact,True,True,Die bayerischen Erdgasspeicher Breitbrunn und Wolfersberg sollen laut Antrag zur Versorgungssicherheit nicht stillgelegt werden.
+40,buried,True,True,"Der Füllstand der Gasspeicher in Deutschland lag am 18.05.2026 auf einem historischen Tiefstand von 28,5%."
+41,fact,True,True,Dänemark dient im Antrag zur Migrationsbilanz als Vorbild für eine Studie. (Quelle 2)
+42,fact,True,True,Der NATO-Gipfel im Juli 2026 fand in Ankara statt.
+43,fact,True,True,Die NATO hat 32 Mitgliedstaaten. Dies steht in Quelle 1 und Quelle 3.
+44,fact,True,True,Die Parlamentarische Versammlung der NATO (NATO PV) gibt es seit 1955.
+45,fact,True,True,"Deutschland hat 18 Sitze in der Parlamentarischen Versammlung der NATO (NATO PV). (Quelle 1: docs_3.pdf, Seite: 2)"
+46,buried,True,False,Abgeordnete Marja-LiQuelle 1: Seite 2
+47,buried,True,True,Die Panzerbrigade 45 „Litauen“ ist an der NATO-Ostflanke dauerhaft stationiert und ist in Litauen stationiert. (Quelle 1)
+48,none,,True,Diese Information steht nicht in den Dokumenten.
+49,none,,True,Diese Information steht nicht in den Dokumenten.
+50,none,,True,Diese Information steht nicht in den Dokumenten.
+51,none,,True,Diese Information steht nicht in den Dokumenten.
+52,none,,False,Diese Information steht nicht in den gegebenen Quellen.
+53,english,True,True,Der CO2-Preis pro ausgestoßener Tonne Kohlendioxid im nationalen Brennstoffemissionshandel für das Jahr 2027 liegt im Korridor von 55 bis 65 Euro.
+54,english,True,False,"Die Marktüberwachungsbehörde ist die Behörde, die die Einhaltung der Cybersicherheitsanforderungen überwacht. Dieser Titel wird in Quelle 4 (2106134.pdf, Seite: 12) verwendet."
+55,english,True,True,Die NATO-Sommergipfel 2026 fanden in Ankara statt.
+56,english,True,True,Der deutsche Beitrag an UNMISS kann höchstens bis zum 31. Oktober 2027.
