@@ -64,7 +64,7 @@ def read_eval():
                 "retrieval_ok": retrieval_ok,
                 "answer_ok": answer_ok,
                 "answer": answer,
-                # "context_ok": context_ok,
+                "context_ok": context_ok,
             }
         )
 
