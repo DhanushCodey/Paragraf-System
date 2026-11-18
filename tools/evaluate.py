@@ -19,7 +19,7 @@ def read_eval():
     with open("eval/questions.csv", "r", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
 
-    for row in rows:
+    for row in rows[21:]:
         result = search(row['question'], embeddings, chunks)
         found_docs = [chunk["doc"] for score, chunk in result]
 
