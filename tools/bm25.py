@@ -25,7 +25,7 @@ def build_bm25(chunks):
 def search(question, bm25, chunks, k=5):
     score = bm25.get_scores(tokenize(question))
 
-    top = np.argsort()[::-1][:k]
+    top = np.argsort(score)[::-1][:k]
     result = []
 
     for i in top:
@@ -52,7 +52,7 @@ if __name__ == "__main__":
 
         print(f"\n=== {question}")
         print(f"Answer '{expected}' in top 5: {found}")
-        for score, chunk in results:
+        for score, chunk in result:
             print(f"  {score:.2f} | {chunk['doc']} | page {chunk['page']}")
 
 
