@@ -34,8 +34,30 @@ def search(question, bm25, chunks, k=5):
     return result
 
 if __name__ == "__main__":
+
     chunks = load_chunks()
-    dont_know = build_bm25(chunks)
+    bm25 = build_bm25(chunks)
+
+    tests = [
+        ("Wie viele Soldatinnen und Soldaten dürfen bei der deutschen Beteiligung an UNMISS insgesamt eingesetzt werden?", "50"),
+        ("Welche Geräte soll das BSI laut Entschließung des Innenausschusses bei der Marktüberwachung vorrangig prüfen?", "Router"),
+        ("Welche Fraktion stimmte im Innenausschuss gegen den Gesetzentwurf zur Cyberresilienz-Verordnung?", "AfD"),
+        ("Welche berufsständischen Organisationen für Pflegekräfte sollen laut Antrag auf Drucksache 21/1549 abgeschafft werden?", "Pflegekammern"),
+    ] 
+    
+    for question, expected in tests:
+        result = search(question, bm25, chunks)
+        context = " ".join(chunk['text'] for score, chunk in result)
+        found = expected.lower() in context.lower()
+
+        print(f"\n=== {question}")
+        print(f"Answer '{expected}' in top 5: {found}")
+        for score, chunk in results:
+            print(f"  {score:.2f} | {chunk['doc']} | page {chunk['page']}")
+
+
+
+
     
     
 
