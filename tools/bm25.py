@@ -40,7 +40,7 @@ if __name__ == "__main__":
 
     tests = [
         ("Wie viele Soldatinnen und Soldaten dürfen bei der deutschen Beteiligung an UNMISS insgesamt eingesetzt werden?", "50"),
-        ("Welche Geräte soll das BSI laut Entschließung des Innenausschusses bei der Marktüberwachung vorrangig prüfen?", "Router"),
+        ("Welche Geräte soll das BSI laut Entschließung des Innenausschusses bei der Marktüberwachung vorrangig prüfung?", "Router"),
         ("Welche Fraktion stimmte im Innenausschuss gegen den Gesetzentwurf zur Cyberresilienz-Verordnung?", "AfD"),
         ("Welche berufsständischen Organisationen für Pflegekräfte sollen laut Antrag auf Drucksache 21/1549 abgeschafft werden?", "Pflegekammern"),
     ] 
